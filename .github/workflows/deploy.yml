@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  APP_DOMAIN: help.stg.pintar.co
+  APP_DOMAIN: help.stg.pintar.co.id
 
 jobs:
   deploy:
