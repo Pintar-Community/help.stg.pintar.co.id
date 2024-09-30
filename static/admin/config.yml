@@ -1,7 +1,7 @@
 backend:
   name: github
   branch: main 
-  repo: Pintar-Pemenang-Asia/help.pintar.co
+  repo: Pintar-Community/help.pintar.co
   base_url: https://oauth.soc.pintar.co
   auth_endpoint: /auth
   commit_messages:
