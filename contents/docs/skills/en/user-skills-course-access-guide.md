@@ -3,10 +3,13 @@ title: User Skills Course Access Guide
 sidebar_position: 2
 tags: []
 ---
+## **Login**
+
+
+
 ## **Entering the Course**
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
-
 2. Click "My Programs" to see the programs you are enrolling in.
 
    ![](/img/1.2.png)
