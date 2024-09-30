@@ -7,15 +7,16 @@ tags: []
 
 To Login to the PINTAR website, do the following:
 
+1. Enter the URL <https://skills.pintar.co/id>
+2. Click the Login button on the navbar.
+
 ![](/img/login_1.png)
 
-To Login to the PINTAR website, do the following:
+   3. Enter your email in the Email column.
 
-1. Masuk ke URL <https://skills.pintar.co/id>
-2. Klik button Login pada bagian navbar.
-3. Masukan email pada kolom Email.
-4. Masukan kata sandi pada kolom Password.
-5. Klik tombol Login.
+   4. Enter your password in the Password column.
+
+   5. Click the Login button.
 
 ![](/img/login_1.2.png)
 
