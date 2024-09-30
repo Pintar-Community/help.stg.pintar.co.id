@@ -1,5 +1,5 @@
 ---
-title: Panduan Akses Kursus Skills User
+title: User Manual untuk Menu Skills
 sidebar_position: 2
 tags: []
 ---
