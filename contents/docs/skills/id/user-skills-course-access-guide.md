@@ -3,10 +3,37 @@ title: Panduan Akses Kursus Skills User
 sidebar_position: 2
 tags: []
 ---
+## **Login**
+
+To Login to the PINTAR website, do the following:
+
+![](/img/login_1.png)
+
+To Login to the PINTAR website, do the following:
+
+1. Masuk ke URL <https://skills.pintar.co/id>
+2. Klik button Login pada bagian navbar.
+3. Masukan email pada kolom Email.
+4. Masukan kata sandi pada kolom Password.
+5. Klik tombol Login.
+
+![](/img/login_1.2.png)
+
+## **Memasuki Menu PINTAR Skills**
+
+![](/img/dashboard_1.1.png)
+
+1. Klik dropdown menu "Untuk Individu" untuk memunculkan menu skills.
+2. Klik menu "Pintar Skills"
+3. Klik "Jelajahi Program" untuk melihat berbagai pilihan skills yang ada.
+
+![](/img/dashboard_1.2.png)
+
+
+
 ## **Memasuki Kursus**
 
 1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
-
 2. Klik "My Programs" untuk melihat program yang diikuti.
 
    ![](/img/1.2.png)
