@@ -16,7 +16,7 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 
    4. Masukan kata sandi pada kolom Password.
 
-   5. Klik tombol Login.
+   5. Klik tombol Masuk.
 
 ![](/img/login_1.2.png)
 
