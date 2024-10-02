@@ -30,6 +30,30 @@ To Login to the PINTAR website, do the following:
 
 ![](/img/dashboard_1.2.png)
 
+   4. There are several categories of Skills that can be selected according to interests and needs.
+
+   5. Click the "More Detail" button if you want to buy the Skill.
+
+   6. If you want to see all the available skill programs, you can click "Browse All Programs".
+
+![](/img/dashboard_1.3_eng.png)
+
+## **Entering the Browse Skills Menu**
+
+1. On the Browse Skills menu, there is a search bar to make it easier to find the desired course.
+2. Several categories can be filtered based on the user’s interests and preferences.
+3. Users can sort skills as desired.
+4. Click the "More Detail" button if you want to buy the Skill.
+
+![](/img/browse-skills_eng.png)
+
+## **Entering Detail Skills Menu**
+
+1. On the detail page, there is a skill title, a brief explanation, and also a rating for the skill.
+2. There is a "Contact Us" button that if clicked will lead to WhatsApp.
+
+![](/img/skill_detail_eng.png)
+
 ## **Entering the Course**
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
