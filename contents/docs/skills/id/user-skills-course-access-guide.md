@@ -54,6 +54,34 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 
 ![](/img/skill_detail.png)
 
+Terdapat penjelasan lebih detail mengenai skill tersebut.
+
+\    3. Klik "Daftar Sekarang" jika ingin membeli skill tersebut.
+
+![](/img/skill_detail_1.png)
+
+## **Memasuki Halaman Detail Pembelian**
+
+1. Terdapat detail mengenai produk yang akan dibeli.
+2. Pengguna harus menceklis kolom yang tersedia.
+3. Jika ingin melanjutkan pembelian, klik button "Pilih Pembayaran".
+
+![](/img/detail_pembelian.png)
+
+\    4. Masukkan "Kode Promo" jika memiliki kode promo.
+
+\    5. Jika tidak ada kode promo, maka langsung saja klik "Lanjutkan".
+
+![](/img/detail_pembelian_1.png)
+
+Terdapat beberapa pilihan metode pembayaran yang dapat disesuaikan dengan pengguna dan juga ringkasan pesanan sampai dengan total pembelian. Pengguna cukup memilih salah satu metode pembayaran.
+
+![](/img/detail_pembelian_2.png)
+
+Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian telah berhasil.
+
+![](/img/payment_success.png)
+
 ## **Memasuki Kursus**
 
 1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
