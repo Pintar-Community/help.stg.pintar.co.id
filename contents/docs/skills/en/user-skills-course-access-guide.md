@@ -109,6 +109,10 @@ This Overview's menu provides an overview of the course, with several key elemen
 
 This Course Content's menu contains a list of the course materials or modules. There is also a menu tab for writing notes and comments.
 
+![](/img/course_content.eng.png)
+
+### **Understanding the Course (Article Subcontent)**
+
 **Notes**:
 
 This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
@@ -152,12 +156,6 @@ The "Notes" page will show notes taken throughout the course based on its course
 ![](/img/course_detail_forum2_eng.png)
 
 ## **/////////////////////////////////////////////////////////////////////////////////////////////////////**
-
-
-
-Click "Continue Learning" to enter the course you want to take.
-
-![](/img/1.5.png)
 
 ## **Understanding the Course (Overview)**
 
