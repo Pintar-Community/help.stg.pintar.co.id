@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[253],{5803:e=>{e.exports=JSON.parse('[{"label":"pembuatan-kontent","permalink":"/en/blog/tags/pembuatan-kontent","count":1},{"label":"internal","permalink":"/en/blog/tags/internal","count":1}]')}}]);

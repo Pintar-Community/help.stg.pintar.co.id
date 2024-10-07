@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[535],{5641:a=>{a.exports=JSON.parse('{"title":"Postingan Terbaru","items":[{"title":"Cara Menulis Konten","permalink":"/blog/cara-menulis-konten"},{"title":"Bagaimana Cara Menambahkan Konten","permalink":"/blog/how-to-add-content"}]}')}}]);
