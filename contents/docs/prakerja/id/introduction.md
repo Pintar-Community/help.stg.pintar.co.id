@@ -1,3 +1,6 @@
+---
+title: Introduction
+---
 # Introduction
 Ini merupakan panduan untuk para pengguna prakerja dalam menggunakan sistem PINTAR untuk program prakerja.
 Program Kartu Prakerja adalah program pengembangan kompetensi kerja yang ditujukan untuk pencari kerja, pekerja terkena PHK, dan/atau pekerja yang membutuhkan peningkatan kompetensi.
@@ -11,7 +14,8 @@ Berikut ini adalah list panduan yang akan di jelaskan lebih detail di bawah nant
 - Cara mendapatkan dan melihat sertifikat
 
 ----
-# Tampilan Menu Prakerja di PINTAR
+## Tampilan Menu Prakerja di PINTAR
+
 ![image](https://github.com/user-attachments/assets/76b8b68b-114c-4fc1-829d-41f709da1be9)
 
 ![image](https://github.com/user-attachments/assets/cb7d4851-bd43-4975-834c-676b105fafd5)
