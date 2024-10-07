@@ -151,6 +151,8 @@ The "Notes" page will show notes taken throughout the course based on its course
 
 ![](/img/course_detail_forum2_eng.png)
 
+## **/////////////////////////////////////////////////////////////////////////////////////////////////////**
+
 
 
 Click "Continue Learning" to enter the course you want to take.
