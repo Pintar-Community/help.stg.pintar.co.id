@@ -30,11 +30,9 @@ To Login to the PINTAR website, do the following:
 
 ![](/img/dashboard_1.2.png)
 
-   4. There are several categories of Skills that can be selected according to interests and needs.
-
-   5. Click the "More Detail" button if you want to buy the Skill.
-
-   6. If you want to see all the available skill programs, you can click "Browse All Programs".
+4. There are several categories of Skills that can be selected according to interests and needs.
+5. Click the "More Detail" button if you want to buy the Skill.
+6. If you want to see all the available skill programs, you can click "Browse All Programs".
 
 ![](/img/dashboard_1.3_eng.png)
 
