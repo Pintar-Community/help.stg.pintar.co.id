@@ -12,11 +12,11 @@ To Login to the PINTAR website, do the following:
 
 ![](/img/login_1.png)
 
-\    3. Enter your email in the Email column.
+3. Enter your email in the Email column.
 
-\    4. Enter your password in the Password column.
+4. Enter your password in the Password column.
 
-\    5. Click the Login button.
+5. Click the Login button.
 
 ![](/img/login_1.2.png)
 
@@ -31,7 +31,9 @@ To Login to the PINTAR website, do the following:
 ![](/img/dashboard_1.2.png)
 
 4. There are several categories of Skills that can be selected according to interests and needs.
+
 5. Click the "More Detail" button if you want to buy the Skill.
+
 6. If you want to see all the available skill programs, you can click "Browse All Programs".
 
 ![](/img/dashboard_1.3_eng.png)
@@ -54,7 +56,7 @@ To Login to the PINTAR website, do the following:
 
 There is a more detailed explanation of the skill.
 
-   3. Click "Enroll Now" if you want to buy the skill.
+3. Click "Enroll Now" if you want to buy the skill.
 
 ![](/img/skill_eng.png)
 
@@ -85,16 +87,75 @@ If the payment is successful, information will appear that the purchase was succ
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 2. Click "My Programs" to see the programs you are enrolling in.
 
-   ![](/img/1.2.png)
-3. After entering "My Programs", select the Skills product option.
+   ![](/img/my-programs_1.png)
+3. On the My Program menu, there are several tabs that can be selected according to the product you want to view.
+4. There is a “Start Learning” button that can be clicked to view and start learning the course or “Continue Learning” button to continue learning the course.
 
-   ![](/img/1.3.png)
-4. After selecting a product, ensure the course you want to take is in the My Programs section.
+![](/img/myprogram_eng.png)
 
-   ![](/img/1.4.png)
-5. Click "Continue Learning" to enter the course you want to take.
+## **Understanding the Course (Overview)**
 
-   ![](/img/1.5.png)
+![](/img/course_detail_eng.png)
+
+This Overview's menu provides an overview of the course, with several key elements:
+
+* Description: A brief summary or explanation of the course content.
+* Course Feature: Displays the features of the course, such as duration, accessibility, language used, and information about the completion certificate.
+* Skill Covered: Lists the skills that will be learned or mastered after completing the course.
+* Learning Provider: Shows the provider or institution offering the course.
+* Instructors: Lists the instructors involved in the course, including their names and a brief description.
+
+## **Understanding the Course (Course Content)**
+
+This Course Content's menu contains a list of the course materials or modules. There is also a menu tab for writing notes and comments.
+
+**Notes**:
+
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
+
+1. Click "Notes" to add notes. The results of the notes can only be seen by the user.
+2. Notes that have been created can be edited.
+3. Notes that have been created can be deleted.
+
+![](/img/course_detail_1eng.png)
+
+**Comments**:
+
+This Comments menu allows users to comment on the course they are taking.
+
+1. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Comments that have been created can be deleted.
+
+![](/img/course_detail_comments_eng.png)
+
+## **Understanding the Course (Notes)**
+
+Click "Notes" to view notes written during course study.
+
+The "Notes" page will show notes taken throughout the course based on its course content, subcontent, and the minute/page that notes were written.
+
+![](/img/course_detail_notes_eng.png)
+
+## **Understanding the Course (Forum)**
+
+1. Click "Forum" to access the forum page of the course you are taking.
+2. The "Forum" page will be divided into recent forums and popular forums.
+3. Click "Recent" or "Popular" to access one of them.
+4. Click "+ ADD THREAD" to add discussion to the forum.
+
+![](/img/course_detail_forum_eng.png)
+
+1. Type the discussion title in "Discussion Title".
+2. Type the contents of the discussion in the "Description Title".
+3. If the discussion you want to submit to the forum is satisfactory, click "POST".
+
+![](/img/course_detail_forum2_eng.png)
+
+
+
+Click "Continue Learning" to enter the course you want to take.
+
+![](/img/1.5.png)
 
 ## **Understanding the Course (Overview)**
 
