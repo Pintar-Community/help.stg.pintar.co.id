@@ -16,7 +16,15 @@ Berikut ini adalah list panduan yang akan di jelaskan lebih detail di bawah nant
 ----
 ## Tampilan Menu Prakerja di PINTAR
 
-![image](https://github.com/user-attachments/assets/45be4e5d-1157-4c72-89a0-c33272386a9a)
+![image](https://github.com/user-attachments/assets/c0f23524-b8ba-4b98-b5bd-7437ae82124f)
+
+1. Tombol untuk melalkukan login atau registrasi
+2. Tombol untuk mengubah bahasa (indonesia / english)
+3. Tombol menu prakerja (untuk masuk ke menu prakerja)
+4. Tombol untuk melihat Akun user jika sudah login dan untuk melihat program yang telah di beli di my program
+5. Tampilan menu untuk di mobile
+6. Tombol untuk menukarkan kode voucher jika user melakukan pembelian di tempat lain dan sistem belajar menggunakan LMS PINTAR
+7. Tombol jika pengguna membutuhkan bantuan dari CS kami 
 
 - Di bawah hero banner terdapat kolom untuk melakukan penukaran voucher code jika pembelian di lakukan di partner lain namun menggunakan LMS PINTAR (sistem belajarnya melalui PINTAR)
 ![image](https://github.com/user-attachments/assets/b41767f0-f5f3-4488-b13e-67faa2ece265)
