@@ -4,7 +4,7 @@
         <title>Pintar Help Blog</title>
         <link>https://help.pintar.co/en/blog</link>
         <description>Pintar Help Blog</description>
-        <lastBuildDate>Mon, 07 Oct 2024 07:43:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 07:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Cara Menulis Konten]]></title>
             <link>https://help.pintar.co/en/blog/cara-menulis-konten</link>
             <guid>https://help.pintar.co/en/blog/cara-menulis-konten</guid>
-            <pubDate>Mon, 07 Oct 2024 07:43:23 GMT</pubDate>
+            <pubDate>Mon, 07 Oct 2024 07:46:45 GMT</pubDate>
             <description><![CDATA[Ada 2 Navigasi pada Help Pintar.]]></description>
             <content:encoded><![CDATA[<p>Ada 2 Navigasi pada Help Pintar.</p><p>Ketika membuat post, ikuti panduan berikut: </p><ol><li>H1 = Judul (Navigasi Kiri)</li><li>H2 = Judul (Navigasi Kanan)</li><li>H3 = Sub-Judul (Navigasi Kanan)</li></ol><p>Jika anda menggunakan markdown, maka harus dibuat dengan # (Tanda Pagar)</p><ol><li>H1 = <code>#</code></li><li>H2 = <code>##</code></li><li>H3 = <code>###</code></li></ol>]]></content:encoded>
             <category>pembuatan-kontent</category>
