@@ -145,7 +145,7 @@ The "Notes" page will show notes taken throughout the course based on its course
 
 ![](/img/course_detail_forum_eng.png)
 
-1. Type the discussion title in "Discussion Title".
+1. Type the discussion title in "Title Discussion".
 2. Type the contents of the discussion in the "Description Title".
 3. If the discussion you want to submit to the forum is satisfactory, click "POST".
 
