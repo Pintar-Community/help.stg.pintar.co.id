@@ -56,7 +56,7 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 
 Terdapat penjelasan lebih detail mengenai skill tersebut.
 
-\    3. Klik "Daftar Sekarang" jika ingin membeli skill tersebut.
+   3. Klik "Daftar Sekarang" jika ingin membeli skill tersebut.
 
 ![](/img/skill_detail_1.png)
 

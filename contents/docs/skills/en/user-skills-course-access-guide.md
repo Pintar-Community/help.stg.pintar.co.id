@@ -52,6 +52,34 @@ To Login to the PINTAR website, do the following:
 
 ![](/img/skill_detail_eng.png)
 
+There is a more detailed explanation of the skill.
+
+   3. Click "Enroll Now" if you want to buy the skill.
+
+![](/img/skill_eng.png)
+
+## **Entering Purchase Detail Menu**
+
+1. There are details about the product to be purchased.
+2. Users must click the checklist button.
+3. If you want to continue the purchase, click the "Choose Payment" button.
+
+![](/img/purchase_detail_eng.png)
+
+   4. Enter "Promo Code" if you have a promo code.
+
+   5. If there is no promo code, then just click "Continue".
+
+![](/img/purchase_detail_eng_1.png)
+
+There are several payment method options that can be adjusted to the user and also a summary of the order up to the total purchase. Users simply choose one of the payment methods.
+
+![](/img/purchase_detail_eng_2.png)
+
+If the payment is successful, information will appear that the purchase was successful.
+
+![](/img/payment_success_eng.png)
+
 ## **Entering the Course**
 
 1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
