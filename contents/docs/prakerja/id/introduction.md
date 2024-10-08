@@ -16,7 +16,7 @@ Berikut ini adalah list panduan yang akan di jelaskan lebih detail di bawah nant
 ----
 ## Tampilan Menu Prakerja di PINTAR
 
-![image](https://github.com/user-attachments/assets/c0f23524-b8ba-4b98-b5bd-7437ae82124f)
+![image](https://github.com/user-attachments/assets/d0a9a1a1-79f1-468b-b7ab-54e6fb81d9f0)
 
    1. Tombol untuk melalkukan login atau registrasi
    2. Tombol untuk mengubah bahasa (indonesia / english)
@@ -26,9 +26,7 @@ Berikut ini adalah list panduan yang akan di jelaskan lebih detail di bawah nant
    6. Tombol untuk menukarkan kode voucher jika user melakukan pembelian di tempat lain dan sistem belajar menggunakan LMS PINTAR
    7. Tombol jika pengguna membutuhkan bantuan dari CS kami 
 
-Note : 
-- ini merupakan tampilan untuk web kolom untuk meukarkan kode voucher
-![image](https://github.com/user-attachments/assets/b41767f0-f5f3-4488-b13e-67faa2ece265)
+Fitur lainnya : 
 - Terdapat kategori dimana user bisa mencari kursus prakerja berdasarkan kategori yang tersedia di PINTAR
 - Terdapat beberapa section/ bagian untuk beberapa kelas yang bisa di pilih atau bisa juga klik “show all / lihat semua” untuk melihat semua kursus prakerja.
 - Bisa klik “lihat selengkapnya” pada kursus yang ingin di lihat lebih detail ,mengenai kursusnya
