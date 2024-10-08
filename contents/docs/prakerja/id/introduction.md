@@ -11,7 +11,7 @@ Berikut ini adalah list panduan yang akan di jelaskan lebih detail di bawah nant
 - Cara mendapatkan dan melihat sertifikat
 
 ----
-# Tampilan Menu Prakerja di PINTAR
+## Tampilan Menu Prakerja di PINTAR
 
 ![image](https://github.com/user-attachments/assets/d0a9a1a1-79f1-468b-b7ab-54e6fb81d9f0)
 
