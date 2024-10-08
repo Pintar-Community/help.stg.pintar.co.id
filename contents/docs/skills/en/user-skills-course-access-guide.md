@@ -245,7 +245,15 @@ This Reply Comments section allows users to reply other comment on the course th
 
 ### **Understanding the Course (Offline Class Subcontent)**
 
+
+
+![](/img/offline-class_eng.png)
+
 ### **Understanding the Course (Live Session (other) Subcontent)**
+
+
+
+![](/img/live-session_eng.png)
 
 ### **Understanding the Course (Video Subcontent)**
 
