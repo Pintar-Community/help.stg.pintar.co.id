@@ -127,10 +127,28 @@ This Notes's menu allows users to create or access notes they may have taken whi
 
 This Comments menu allows users to comment on the course they are taking.
 
-1. Click "Comments" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
-2. Comments that have been created can be deleted.
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
 
-![](/img/course_detail_comments_eng.png)
+![](/img/course-article-comments_eng.png)
+
+a. You can reply to other people's comments by clicking the Reply button.
+
+b. Comments can also be liked.
+
+c. To post a comment, click the Reply button in the bottom right corner.
+
+
+
+### **Understanding the Course (Assignment Subcontent)**
+
+1. **Course Content Overview :** Displays the course materials and activities, allowing users to navigate and access assignments, discussions, and documents.
+2. **Answer Input Field:** A text box for typing assignment answers with formatting options and a 20,000 character limit.
+3. **File Upload Area:** Allows uploading up to 10 files (max 10MB each) in formats like .docx, .pdf, .jpg, and .mp4 to support the assignment.
+4. **Submit Button:** Click the "Submit" button to finalize and submit the assignment or "Cancel" to discard it.
+
+![](/img/course_assignment_eng.png)
 
 ## **Understanding the Course (Notes)**
 
