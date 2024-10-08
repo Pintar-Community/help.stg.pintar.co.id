@@ -113,6 +113,8 @@ This Course Content's menu contains a list of the course materials or modules. T
 
 ### **Understanding the Course (Article Subcontent)**
 
+An article like "Jurnal 1" provides written content for students to read and learn from. The platform allows users to take notes, add comments, and engage with the material for better understanding.
+
 **Notes**:
 
 This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
@@ -133,7 +135,7 @@ This Comments menu allows users to comment on the course they are taking.
 
 ![](/img/course-article-comments_eng.png)
 
-a. You can reply to other people's comments by clicking the Reply button.
+a. You can reply to other people's comments by clicking the Reply.
 
 b. Comments can also be liked.
 
@@ -143,12 +145,69 @@ c. To post a comment, click the Reply button in the bottom right corner.
 
 ### **Understanding the Course (Assignment Subcontent)**
 
+Click "Assignment" to see an example of a document subcontent.
+
 1. **Course Content Overview :** Displays the course materials and activities, allowing users to navigate and access assignments, discussions, and documents.
 2. **Answer Input Field:** A text box for typing assignment answers with formatting options and a 20,000 character limit.
 3. **File Upload Area:** Allows uploading up to 10 files (max 10MB each) in formats like .docx, .pdf, .jpg, and .mp4 to support the assignment.
 4. **Submit Button:** Click the "Submit" button to finalize and submit the assignment or "Cancel" to discard it.
 
 ![](/img/course_assignment_eng.png)
+
+### **Understanding the Course (Discussion Subcontent)**
+
+The Discussion Menu is a feature that enables students to engage in conversations and discussions about course topics.
+
+1. This is where users can type their responses to the discussion. It includes formatting options like bold, italic, lists, etc., with a 2000 character limit for each response.
+2. After writing a response, users can click the “Post” button to submit their answer to the discussion.
+3. The drop-down allows users to sort comments or answers based on criteria such as newest, oldest, or most popular, making it easier to navigate through responses.
+4. Users can delete their own posts by clicking the trash bin icon next to the comment.
+
+![](/img/course-discussion-comments_eng.png)
+
+a. You can reply to other people's comments by clicking the Reply.
+
+b. Comments can also be liked.
+
+c. To post a comment, click the Reply button in the bottom right corner.
+
+
+
+### **Understanding the Course (Document Subcontent)**
+
+In the Document type, users can view and read documents that have been uploaded and can provide Notes and Comments.
+
+1. Click "View full screen" to see the document in full screen view. Click the "<" icon to exit the full screen view of the document.
+
+![](/img/course-document_eng.png)
+
+**a. Notes**:
+
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
+
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
+
+![](/img/course-document-commentnotes_eng.png)
+
+**b. Comments**:
+
+This Comments menu allows users to comment on the course they are taking.
+
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
+
+**c. Reply Comments**:
+
+This Reply Comments section allows users to reply other comment on the course they are taking.
+
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
+
+
 
 ## **Understanding the Course (Notes)**
 
