@@ -175,7 +175,7 @@ c. To post a comment, click the Reply button in the bottom right corner.
 
 ### **Understanding the Course (Document Subcontent)**
 
-In the Document type, users can view and read documents that have been uploaded and can provide Notes and Comments.
+In the Document type, users can view and read uploaded documents and provide Notes and Comments. However, users must read the document entirely before they are allowed to proceed to the next task.
 
 1. Click "View full screen" to see the document in full screen view. Click the "<" icon to exit the full screen view of the document.
 
@@ -206,6 +206,52 @@ This Reply Comments section allows users to reply other comment on the course th
 1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
 2. Click "Reply" button to add a comment on document.
 3. Comments that have been created can be deleted.
+
+
+
+### **Understanding the Course (Video Practice (YouTube) Subcontent)**
+
+The Video Practice section offers access to course-related videos, allowing students to watch and take notes and comments directly on the platform to enhance understanding.
+
+![](/img/course-video_eng.png)
+
+**a. Notes**:
+
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
+
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
+
+![](/img/course-video-commentnotes_eng.png)
+
+**b. Comments**:
+
+This Comments menu allows users to comment on the course they are taking.
+
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
+
+**c. Reply Comments**:
+
+This Reply Comments section allows users to reply other comment on the course they are taking.
+
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
+
+
+
+### **Understanding the Course (Offline Class Subcontent)**
+
+### **Understanding the Course (Live Session (other) Subcontent)**
+
+### **Understanding the Course (Video Subcontent)**
+
+### **Understanding the Course (Quiz Subcontent)**
+
+### **Understanding the Course (Live Session (Pintar) Subcontent)**
 
 
 
