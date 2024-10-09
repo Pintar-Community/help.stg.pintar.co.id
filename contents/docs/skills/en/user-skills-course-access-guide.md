@@ -361,10 +361,6 @@ b. The "Incorrect" status means the question has the wrong answer. The answer op
 
 
 
-### **Understanding the Course (Live Session (Pintar) Subcontent)**
-
-
-
 ## **Understanding the Course (Notes)**
 
 Click "Notes" to view notes written during course study.
