@@ -251,13 +251,115 @@ This Reply Comments section allows users to reply other comment on the course th
 
 ### **Understanding the Course (Live Session (other) Subcontent)**
 
-
+1. Click "Live Session Demo" to see an example of live session subcontent.
+2. After ensuring the title, date, time, duration, and description of the live session are correct, click "Start Session" to join the live session.
 
 ![](/img/live-session_eng.png)
 
 ### **Understanding the Course (Video Subcontent)**
 
+The Video Practice section offers access to course-related videos, allowing students to watch and take notes and comments directly on the platform to enhance understanding.
+
+![](/img/video_eng1.png)
+
+**a. Notes**:
+
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
+
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
+
+![](/img/course-video-commentnotes_eng1.png)
+
+**b. Comments**:
+
+This Comments menu allows users to comment on the course they are taking.
+
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
+
+**c. Reply Comments**:
+
+This Reply Comments section allows users to reply other comment on the course they are taking.
+
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
+
+
+
 ### **Understanding the Course (Quiz Subcontent)**
+
+In the Quiz section, users can view quiz details like title, duration, questions, deadline, grading method, and minimum score. The quiz sub-content page will show the number of questions, assessment method, permitted attempts, minimum score, and quiz duration.
+
+![](/img/quiz_eng.png)
+
+1. Click "Quiz Demo" to see an example of a quiz subcontent.
+2. Click "TAKE QUIZ" to start taking the quiz.
+
+Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "SUBMIT" at the end of the process so that the answers are recorded.
+
+![](/img/quiz_eng1.png)
+
+The quiz page will show the quiz title at the top and the number of questions below it. Filling in a round answer means that the question you are working on is a single choice. Click on one of the answer choices to lock the answer (the circle will fill in red). Click "Leave" to leave the quiz page.
+
+![](/img/quiz_eng2.png)
+
+1. There is a processing time listed in the top right corner.
+2. There is a "Next" button to see the next question.
+3. There is a "Leave" button to exit the quiz page.
+
+![](/img/quiz_eng2_leave.png)
+
+4. To return to the previous page, click the "Previous" button.
+
+5. Numbers in gray mean that the answer has not been filled in, while numbers in red mean that the answer has been filled in.
+
+![](/img/quiz_eng3.png)
+
+6. There is a notification "You Skipped A Question" which indicates that there is a question that has not been filled in and is immediately skipped.
+
+7. There is a "Preview & Submit" button if you have finished working on the quiz.
+
+![](/img/quiz_eng4.png)
+
+The image shows a Quiz Summary with a list of answered and unanswered questions.
+
+8. The "Submit" button finalizes the quiz, while "Return to Quiz" lets the user review or complete unanswered questions.
+
+![](/img/quiz_eng5.png)
+
+a. If there are still unfilled quizzes, the text "You still have 29 questions unanswered" will appear.
+
+b. If all have been filled, the text "You've answered all the questions" will appear.
+
+Click the "Submit" button if you want to collect the quiz.
+
+![](/img/quiz_eng5_submit.png)
+
+After clicking "Submit", a quiz finished pop-up will appear explaining that all the quizzes have been completed and the quiz results can be checked.
+
+![](/img/quiz_eng6_finished.png)
+
+After completing the quiz, the quiz subcontent page will show the progress status. 
+
+* The status "Passed" means passing and the score obtained has exceeded the minimum score.
+* The score obtained can be seen under "Your Score".
+* Click "Review" to see previously completed quizzes.
+
+![](/img/quiz_eng7.png)
+
+The completed quiz page will show the status of each completed question.
+
+![](/img/quiz_eng8.png)
+
+a. The "Correct" status at the top of the page means the answer is correct.
+
+b. The "Incorrect" status means the question has the wrong answer. The answer option highlighted in green represents the right answer.
+
+
 
 ### **Understanding the Course (Live Session (Pintar) Subcontent)**
 
