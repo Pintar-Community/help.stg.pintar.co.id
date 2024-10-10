@@ -164,3 +164,19 @@ a. Anda dapat membalas komentar orang lain dengan mengklik Balas.
 b. Komentar juga bisa disukai. 
 
 c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
+
+### **Memahami Kursus (Subkonten Dokumen)**
+
+Dalam jenis Dokumen, pengguna dapat melihat dan membaca dokumen yang diunggah serta memberikan Catatan dan Komentar. Namun, pengguna harus membaca dokumen sepenuhnya sebelum diizinkan melanjutkan ke tugas berikutnya. 
+
+1. Klik "Lihat layar penuh" untuk melihat dokumen dalam tampilan layar penuh. Klik ikon "<" untuk keluar dari tampilan layar penuh dokumen.
+
+![](/img/course-document_id.png)
+
+**Catatan**:
+
+Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
+
+* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
+* Catatan yang telah dibuat dapat diedit. 
+* Catatan yang telah dibuat dapat dihapus.
