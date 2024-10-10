@@ -65,7 +65,6 @@ Terdapat penjelasan lebih detail mengenai skill tersebut.
 ![](/img/detail_pembelian.png)
 
 4. Masukkan "Kode Promo" jika memiliki kode promo.
-
 5. Jika tidak ada kode promo, maka langsung saja klik "Lanjutkan".
 
 ![](/img/detail_pembelian_1.png)
@@ -85,15 +84,43 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 
 ![](/img/my-programs_id.png)
 
-1. Setelah masuk ke "My Programs", tentukan pilihan *product* Skills.
+3. Pada menu Program Saya, terdapat beberapa tab yang bisa dipilih sesuai dengan produk yang ingin dilihat.
 
-   ![](/img/1.3.png)
-2. Setelah memilih *product*, pastikan kursus yang ingin diikuti berada di My Programs.
+4. Terdapat tombol “Mulai Belajar” yang dapat diklik untuk melihat dan memulai kursus atau tombol “Lanjutkan Belajar” untuk melanjutkan kursus.
 
-   ![](/img/1.4.png)
-3. Klik "Continue Learning" untuk masuk ke kursus yang akan diikuti.
+![](/img/myprogram_id.png)
 
-   ![](/img/1.5.png)
+## **Memahami Kursus (Overview)**
+
+![](/img/course_detail_id.png)
+
+Menu Overview ini menyediakan gambaran umum tentang kursus, sepertii: 
+
+* **Deskripsi**: Ringkasan singkat atau penjelasan mengenai isi kursus. 
+* **Fitur Kursus**: Menampilkan fitur-fitur kursus, seperti durasi, aksesibilitas, bahasa yang digunakan, dan informasi tentang sertifikat penyelesaian. 
+* **Cakupan Keterampilan**: Daftar keterampilan yang akan dipelajari atau dikuasai setelah menyelesaikan kursus. 
+* **Penyedia Pembelajaran**: Menunjukkan penyedia atau institusi yang menawarkan kursus. 
+* **Instruktur**: Daftar instruktur yang terlibat dalam kursus, termasuk nama dan deskripsi singkat.
+
+## **Memahami Kursus (Course Content)**
+
+Menu Konten Kursus ini berisi daftar materi atau modul kursus. Ada juga tab menu untuk menulis catatan dan komentar.
+
+![](/img/course_content.id.png)
+
+### **Memahami Kursus (Subkonten Artikel)**
+
+Artikel seperti "Jurnal 1" menyediakan konten tulisan untuk dibaca dan dipelajari oleh pengguna. Platform ini memungkinkan pengguna membuat catatan, menambahkan komentar, dan berinteraksi dengan materi untuk pemahaman yang lebih baik.
+
+**Catatan**: 
+
+Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
+
+1. Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
+2. Catatan yang telah dibuat dapat diedit. 
+3. Catatan yang telah dibuat dapat dihapus.
+
+![](/img/course-article-notes_id.png)
 
 ## **Memahami Kursus (Overview)**
 
