@@ -120,3 +120,30 @@ Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang
 3. Catatan yang telah dibuat dapat dihapus.
 
 ![](/img/course-article-notes_id.png)
+
+**Komentar**: 
+
+Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
+
+1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
+3. Komentar yang telah dibuat dapat dihapus.
+
+![](/img/course-article-comments_id.png)
+
+a. Anda dapat membalas komentar orang lain dengan mengklik Balas. 
+
+b. Komentar juga bisa disukai. 
+
+c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
+
+### **Memahami Kursus (Subkonten Tugas)**
+
+Klik "Tugas" untuk melihat contoh subkonten dokumen. 
+
+1. **Ringkasan Konten Kursus**: Menampilkan materi kursus dan aktivitas, memungkinkan pengguna menavigasi dan mengakses tugas, diskusi, dan dokumen. 
+2. **Kolom Input Jawaban**: Kotak teks untuk mengetik jawaban tugas dengan opsi pemformatan dan batas 20.000 karakter. 
+3. **Area Unggah File**: Memungkinkan pengunggahan hingga 10 file (maksimal 10MB per file) dalam format seperti .docx, .pdf, .jpg, dan .mp4 untuk mendukung tugas. 
+4. **Tombol Kirim**: Klik tombol "Kirim" untuk menyelesaikan dan mengirim tugas atau "Batal" untuk membatalkannya.
+
+![](/img/course_assignment_id.png)
