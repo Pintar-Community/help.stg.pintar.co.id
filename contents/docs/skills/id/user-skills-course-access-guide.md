@@ -147,3 +147,20 @@ Klik "Tugas" untuk melihat contoh subkonten dokumen.
 4. **Tombol Kirim**: Klik tombol "Kirim" untuk menyelesaikan dan mengirim tugas atau "Batal" untuk membatalkannya.
 
 ![](/img/course_assignment_id.png)
+
+### **Memahami Kursus (Subkonten Diskusi)**
+
+Menu Diskusi adalah fitur yang memungkinkan pengguna terlibat dalam percakapan dan diskusi tentang topik kursus. 
+
+1. Ini adalah tempat di mana pengguna dapat mengetik tanggapan mereka terhadap diskusi. Terdapat opsi pemformatan seperti cetak tebal, miring, daftar, dll., dengan batas 2000 karakter untuk setiap tanggapan. 
+2. Setelah menulis tanggapan, pengguna dapat mengklik tombol "Posting" untuk mengirim jawaban mereka ke diskusi. 
+3. Menu dropdown memungkinkan pengguna menyortir komentar atau jawaban berdasarkan kriteria seperti terbaru, terlama, atau paling populer, memudahkan navigasi melalui tanggapan. 
+4. Pengguna dapat menghapus kiriman mereka sendiri dengan mengklik ikon tempat sampah di sebelah komentar.
+
+![](/img/course-discussion-comments_eng.png)
+
+a. Anda dapat membalas komentar orang lain dengan mengklik Balas. 
+
+b. Komentar juga bisa disukai. 
+
+c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
