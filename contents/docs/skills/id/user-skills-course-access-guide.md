@@ -85,7 +85,6 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 ![](/img/my-programs_id.png)
 
 3. Pada menu Program Saya, terdapat beberapa tab yang bisa dipilih sesuai dengan produk yang ingin dilihat.
-
 4. Terdapat tombol “Mulai Belajar” yang dapat diklik untuk melihat dan memulai kursus atau tombol “Lanjutkan Belajar” untuk melanjutkan kursus.
 
 ![](/img/myprogram_id.png)
@@ -121,32 +120,6 @@ Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang
 3. Catatan yang telah dibuat dapat dihapus.
 
 ![](/img/course-article-notes_id.png)
-
-## **Memahami Kursus (Overview)**
-
-1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
-
-   ![](/img/2.1.png)
-2. Lihat "Description" untuk mengetahui deskripsi kursus yang diikuti.
-
-   ![](/img/2.2.png)
-3. Lihat "Learning Provider" untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
-
-   ![](/img/2.3.png)
-4. Lihat "Instructors" untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti.
-
-   ![](/img/2.4.png)
-
-## **Memahami Kursus (Course Content)**
-
-1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
-
-   ![](/img/3.1.png)
-2. Klik "Demo" untuk melihat contoh konten dalam kursus. Dalam Skills, subkonten tersedia dalam bentuk Document, Video, Article, Discussion, Assignment, Live Session, dan Quiz.
-
-   ![](/img/3.2.png)
-
-### **Memahami Kursus (Subkonten Dokumen)**
 
 1. Klik "Document Demo" untuk melihat contoh subkonten *document*.
 
