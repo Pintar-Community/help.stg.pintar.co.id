@@ -120,5 +120,3 @@ Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang
 3. Catatan yang telah dibuat dapat dihapus.
 
 ![](/img/course-article-notes_id.png)
-
-![](/img/14.5.png)
