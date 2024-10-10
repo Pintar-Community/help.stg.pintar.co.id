@@ -13,9 +13,7 @@ To Login to the PINTAR website, do the following:
 ![](/img/login_1.png)
 
 3. Enter your email in the Email column.
-
 4. Enter your password in the Password column.
-
 5. Click the Login button.
 
 ![](/img/login_1.2.png)
@@ -31,9 +29,7 @@ To Login to the PINTAR website, do the following:
 ![](/img/dashboard_1.2.png)
 
 4. There are several categories of Skills that can be selected according to interests and needs.
-
 5. Click the "More Detail" button if you want to buy the Skill.
-
 6. If you want to see all the available skill programs, you can click "Browse All Programs".
 
 ![](/img/dashboard_1.3_eng.png)
@@ -68,9 +64,8 @@ There is a more detailed explanation of the skill.
 
 ![](/img/purchase_detail_eng.png)
 
-   4. Enter "Promo Code" if you have a promo code.
-
-   5. If there is no promo code, then just click "Continue".
+4. Enter "Promo Code" if you have a promo code.
+5. If there is no promo code, then just click "Continue".
 
 ![](/img/purchase_detail_eng_1.png)
 
@@ -141,8 +136,6 @@ b. Comments can also be liked.
 
 c. To post a comment, click the Reply button in the bottom right corner.
 
-
-
 ### **Understanding the Course (Assignment Subcontent)**
 
 Click "Assignment" to see an example of a document subcontent.
@@ -160,7 +153,7 @@ The Discussion Menu is a feature that enables students to engage in conversation
 
 1. This is where users can type their responses to the discussion. It includes formatting options like bold, italic, lists, etc., with a 2000 character limit for each response.
 2. After writing a response, users can click the “Post” button to submit their answer to the discussion.
-3. The drop-down allows users to sort comments or answers based on criteria such as newest, oldest, or most popular, making it easier to navigate through responses.
+3. The dropdown allows users to sort comments or answers based on criteria such as newest, oldest, or most popular, making it easier to navigate through responses.
 4. Users can delete their own posts by clicking the trash bin icon next to the comment.
 
 ![](/img/course-discussion-comments_eng.png)
@@ -170,8 +163,6 @@ a. You can reply to other people's comments by clicking the Reply.
 b. Comments can also be liked.
 
 c. To post a comment, click the Reply button in the bottom right corner.
-
-
 
 ### **Understanding the Course (Document Subcontent)**
 
@@ -207,11 +198,11 @@ This Reply Comments section allows users to reply other comment on the course th
 2. Click "Reply" button to add a comment on document.
 3. Comments that have been created can be deleted.
 
-
-
 ### **Understanding the Course (Video Practice (YouTube) Subcontent)**
 
 The Video Practice section offers access to course-related videos, allowing students to watch and take notes and comments directly on the platform to enhance understanding.
+
+1. Click the "Play Video" button to start watching the practice video.
 
 ![](/img/course-video_eng.png)
 
@@ -241,17 +232,15 @@ This Reply Comments section allows users to reply other comment on the course th
 2. Click "Reply" button to add a comment on document.
 3. Comments that have been created can be deleted.
 
-
-
 ### **Understanding the Course (Offline Class Subcontent)**
 
-
+In the Offline Class menu, users can view the details of an offline class session such as the title, scheduled time, description, location, and a URL for more information. This class session lasts 90 minutes.
 
 ![](/img/offline-class_eng.png)
 
 ### **Understanding the Course (Live Session (other) Subcontent)**
 
-1. Click "Live Session Demo" to see an example of live session subcontent.
+1. Click "Live Session" to see an example of live session subcontent.
 2. After ensuring the title, date, time, duration, and description of the live session are correct, click "Start Session" to join the live session.
 
 ![](/img/live-session_eng.png)
@@ -288,39 +277,37 @@ This Reply Comments section allows users to reply other comment on the course th
 2. Click "Reply" button to add a comment on document.
 3. Comments that have been created can be deleted.
 
-
-
 ### **Understanding the Course (Quiz Subcontent)**
 
 In the Quiz section, users can view quiz details like title, duration, questions, deadline, grading method, and minimum score. The quiz sub-content page will show the number of questions, assessment method, permitted attempts, minimum score, and quiz duration.
 
 ![](/img/quiz_eng.png)
 
-1. Click "Quiz Demo" to see an example of a quiz subcontent.
+1. Click "Quiz" to see an example of a quiz subcontent.
 2. Click "TAKE QUIZ" to start taking the quiz.
 
-Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "SUBMIT" at the end of the process so that the answers are recorded.
+Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "Submit" at the end of the process so that the answers are recorded.
 
 ![](/img/quiz_eng1.png)
 
-The quiz page will show the quiz title at the top and the number of questions below it. Filling in a round answer means that the question you are working on is a single choice. Click on one of the answer choices to lock the answer (the circle will fill in red). Click "Leave" to leave the quiz page.
+The quiz page will show the quiz title at the top and the number of questions below it. 
 
 ![](/img/quiz_eng2.png)
 
-1. There is a processing time listed in the top right corner.
+1. The quiz duration is listed in the upper right corner.
 2. There is a "Next" button to see the next question.
 3. There is a "Leave" button to exit the quiz page.
 
+If you click the "Leave" button, a pop-up notification will appear stating that the score will be 0 if you exit in the middle of the quiz.
+
 ![](/img/quiz_eng2_leave.png)
 
-4. To return to the previous page, click the "Previous" button.
-
-5. Numbers in gray mean that the answer has not been filled in, while numbers in red mean that the answer has been filled in.
+1. To return to the previous page, click the "Previous" button.
+2. Numbers in gray mean that the answer has not been filled in, while numbers in red mean that the answer has been filled in.
 
 ![](/img/quiz_eng3.png)
 
 6. There is a notification "You Skipped A Question" which indicates that there is a question that has not been filled in and is immediately skipped.
-
 7. There is a "Preview & Submit" button if you have finished working on the quiz.
 
 ![](/img/quiz_eng4.png)
@@ -359,8 +346,6 @@ a. The "Correct" status at the top of the page means the answer is correct.
 
 b. The "Incorrect" status means the question has the wrong answer. The answer option highlighted in green represents the right answer.
 
-
-
 ## **Understanding the Course (Notes)**
 
 Click "Notes" to view notes written during course study.
@@ -383,6 +368,29 @@ The "Notes" page will show notes taken throughout the course based on its course
 3. If the discussion you want to submit to the forum is satisfactory, click "POST".
 
 ![](/img/course_detail_forum2_eng.png)
+
+## **Contacting Helpline**
+
+1. go to URL ([https://skills.pintar.co/)](https://skills.pintar.co/) 
+2. Click the SMART icon in the bottom right corner to contact customer service if you have problems accessing the course.[](https://skills.pintar.co/)
+
+![](/img/course_help.png)
+
+3. There are procedures for using Live Chat. 
+
+4. Click the PINTAR's icon again to conduct a Live Chat session
+
+![](/img/course_help2.png)
+
+5. Enter personal data such as name, email, and phone number then click "Start Chatting"
+
+![](/img/course_help3.png)
+
+6. After that you will be directed straight to the chat room.
+
+![](/img/course_help4.png)
+
+
 
 ## **/////////////////////////////////////////////////////////////////////////////////////////////////////**
 

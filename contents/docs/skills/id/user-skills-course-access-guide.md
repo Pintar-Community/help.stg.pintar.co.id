@@ -80,320 +80,37 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 
 ## **Memasuki Kursus**
 
-1. Setelah *login* di skills.pintar.co, klik *profile* untuk menuju program yang diikuti.
-2. Klik "My Programs" untuk melihat program yang diikuti.
+1. Setelah login ke skills.pintar.co, klik profil untuk menuju program yang Anda ikuti.
+2. Klik "Program Saya" untuk melihat program yang Anda ikuti.
 
-   ![](/img/1.2.png)
-3. Pada menu Program Saya, terdapat beberapa tab yang bisa dipilih sesuai dengan produk yang ingin dilihat.
-4. Terdapat tombol “Mulai Belajar” yang dapat diklik untuk melihat dan memulai kursus atau tombol “Lanjutkan Belajar” untuk melanjutkan kursus.
+![](/img/my-programs_id.png)
 
-   ![](/img/myprogram_id.png)
+1. Setelah masuk ke "My Programs", tentukan pilihan *product* Skills.
+
+   ![](/img/1.3.png)
+2. Setelah memilih *product*, pastikan kursus yang ingin diikuti berada di My Programs.
+
+   ![](/img/1.4.png)
+3. Klik "Continue Learning" untuk masuk ke kursus yang akan diikuti.
+
+   ![](/img/1.5.png)
 
 ## **Memahami Kursus (Overview)**
 
-![](/img/course_detail_id.png)
+1. Lihat "Overview" untuk mengetahui detail informasi mengenai kursus yang diikuti.
 
-Menu Overview ini menyediakan gambaran umum tentang kursus, dengan beberapa
+   ![](/img/2.1.png)
+2. Lihat "Description" untuk mengetahui deskripsi kursus yang diikuti.
 
-* Deskripsi: Ringkasan singkat atau penjelasan mengenai isi kursus. 
-* Fitur Kursus: Menampilkan fitur-fitur kursus, seperti durasi, aksesibilitas, bahasa yang digunakan, dan informasi tentang sertifikat penyelesaian. 
-* Cakupan Keterampilan: Daftar keterampilan yang akan dipelajari atau dikuasai setelah menyelesaikan kursus. 
-* Penyedia Pembelajaran: Menunjukkan penyedia atau institusi yang menawarkan kursus. 
-* Instruktur: Daftar instruktur yang terlibat dalam kursus, termasuk nama dan deskripsi singkat.
+   ![](/img/2.2.png)
+3. Lihat "Learning Provider" untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
 
-## **Memahami Kursus (Konten Kursus)**
+   ![](/img/2.3.png)
+4. Lihat "Instructors" untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti.
 
-Menu Konten Kursus ini berisi daftar materi atau modul kursus. Ada juga tab menu untuk menulis catatan dan komentar.
+   ![](/img/2.4.png)
 
-![](/img/course_content.id.png)
-
-### **Memahami Kursus (Subkonten Artikel)**
-
-Artikel seperti "Jurnal 1" menyediakan konten tulisan untuk dibaca dan dipelajari oleh siswa. Platform ini memungkinkan pengguna membuat catatan, menambahkan komentar, dan berinteraksi dengan materi untuk pemahaman yang lebih baik.
-
-**Catatan**: 
-
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
-
-* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
-* Catatan yang telah dibuat dapat diedit.
-* Catatan yang telah dibuat dapat dihapus.
-
-![](/img/course-article-notes_id.png)
-
-**Komentar**: 
-
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
-
-1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
-3. Komentar yang telah dibuat dapat dihapus.
-
-![](/img/course-article-comments_id.png)
-
-a. Anda dapat membalas komentar orang lain dengan mengklik Balas. 
-
-b. Komentar juga bisa disukai. 
-
-c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
-
-### **Memahami Kursus (Subkonten Tugas)**
-
-Klik "Tugas" untuk melihat contoh subkonten dokumen. 
-
-1. **Gambaran Konten Kursus**: Menampilkan materi kursus dan aktivitas, memungkinkan pengguna menavigasi dan mengakses tugas, diskusi, dan dokumen. 
-2. **Kolom Input Jawaban**: Kotak teks untuk mengetik jawaban tugas dengan opsi pemformatan dan batas 20.000 karakter. 
-3. **Area Unggah File**: Memungkinkan pengunggahan hingga 10 file (maksimal 10MB per file) dalam format seperti .docx, .pdf, .jpg, dan .mp4 untuk mendukung tugas. 
-4. **Tombol Kirim**: Klik tombol "Kirim" untuk menyelesaikan dan mengirim tugas atau "Batal" untuk membatalkannya.
-
-![](/img/course_assignment_id.png)
-
-### **Memahami Kursus (Subkonten Tugas)**
-
-Menu Diskusi adalah fitur yang memungkinkan siswa terlibat dalam percakapan dan diskusi tentang topik kursus. 
-
-1. Ini adalah tempat di mana pengguna dapat mengetik tanggapan mereka terhadap diskusi. Terdapat opsi pemformatan seperti cetak tebal, miring, daftar, dll., dengan batas 2000 karakter untuk setiap tanggapan. 
-2. Setelah menulis tanggapan, pengguna dapat mengklik tombol "Posting" untuk mengirim jawaban mereka ke diskusi. 
-3. Menu dropdown memungkinkan pengguna menyortir komentar atau jawaban berdasarkan kriteria seperti terbaru, terlama, atau paling populer, memudahkan navigasi melalui tanggapan. 
-4. Pengguna dapat menghapus kiriman mereka sendiri dengan mengklik ikon tempat sampah di sebelah komentar.
-
-![](/img/course-discussion-comments_id.png)
-
-a. Anda dapat membalas komentar orang lain dengan mengklik Balas. 
-
-b. Komentar juga bisa disukai. 
-
-c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
-
-### **Memahami Kursus (Subkonten Dokumen)**
-
-Dalam jenis Dokumen, pengguna dapat melihat dan membaca dokumen yang diunggah serta memberikan Catatan dan Komentar. Namun, pengguna harus membaca dokumen sepenuhnya sebelum diizinkan melanjutkan ke tugas berikutnya. 
-
-1. Klik "Lihat layar penuh" untuk melihat dokumen dalam tampilan layar penuh. Klik ikon "<" untuk keluar dari tampilan layar penuh dokumen.
-
-![](/img/course-document_id.png)
-
-**a. Catatan**:
-
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
-
-* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
-* Catatan yang telah dibuat dapat diedit. 
-* Catatan yang telah dibuat dapat dihapus.
-
-![](/img/course-document-commentnotes_id.png)
-
-**b. Komentar**: 
-
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
-
-1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
-3. Komentar yang telah dibuat dapat dihapus.
-
-**c. Balas Komentar**: 
-
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti. 
-
-1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
-2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
-3. Komentar yang telah dibuat dapat dihapus.
-
-### **Memahami Kursus (Subkonten Video Practice (YouTube))**
-
-Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan siswa menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
-
-1. Klik tanda "Putar Video" untuk mulai menonton video praktiknya.
-
-![](/img/course-video_id.png)
-
-**Catatan**: 
-
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
-
-* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
-* Catatan yang telah dibuat dapat diedit. 
-* Catatan yang telah dibuat dapat dihapus.
-
-![](/img/course-video-commentnotes_id.png)
-
-**Komentar**: 
-
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
-
-1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
-3. Komentar yang telah dibuat dapat dihapus.
-
-**Balas Komentar**: 
-
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti. 
-
-1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
-2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
-3. Komentar yang telah dibuat dapat dihapus.
-
-### **Memahami Kursus (Subkonten Offline Class)**
-
-Pada menu Offline Class, pengguna dapat melihat detail sesi kelas seperti judul, waktu pelaksanaan, deskripsi, lokasi, dan URL untuk informasi lebih lanjut.
-
-![](/img/offline-class_id.png)
-
-### **Memahami Kursus (Subkonten Live Session (other))**
-
-1. Klik "Live Session" untuk melihat contoh subkonten dari live session.
-2. Setelah memastikan judul, tanggal, waktu, durasi, dan deskripsi sesi live session sudah benar, klik "Start Session" untuk bergabung dengan sesi langsung.
-
-![](/img/live-session_id.png)
-
-### **Memahami Kursus (Subkonten Video)**
-
-Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan siswa menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
-
-![](/img/video_id.png)
-
-**a. Catatan**:
-
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
-
-* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna.
-* Catatan yang telah dibuat dapat diedit.
-* Catatan yang telah dibuat dapat dihapus.
-
-![](/img/course-video-commentnotes_id.png)
-
-**b. Komentar**:
-
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti.
-
-1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer.
-3. Komentar yang telah dibuat dapat dihapus.
-
-**c. Balas Komentar**:
-
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti.
-
-1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen.
-3. Komentar yang telah dibuat dapat dihapus.
-
-### **Memahami Kursus (Subkonten Quiz)**
-
-Di bagian Kuis, pengguna dapat melihat detail kuis seperti judul, durasi, pertanyaan, tenggat waktu, metode penilaian, dan nilai minimal. Halaman subkonten kuis akan menampilkan jumlah pertanyaan, metode penilaian, jumlah percobaan yang diizinkan, nilai minimum, dan durasi kuis.
-
-![](/img/quiz_id.png)
-
-1. Klik "Quiz" untuk melihat contoh subkonten kuis.
-2. Klik "MULAI QUIZ" untuk mulai mengerjakan kuis.
-
-Sebelum diarahkan ke halaman kuis, sebuah pop-up akan muncul informasi mengenai jumlah percobaan, mengingatkan Anda untuk selalu berhati-hati saat mengerjakan soal, selalu berada di halaman kuis, dan mengklik "Submit" di akhir proses agar jawaban tercatat.
-
-![](/img/quiz_id2.png)
-
-Halaman kuis akan menampilkan judul kuis di bagian atas dan jumlah pertanyaan di bawahnya. 
-
-![](/img/quiz_id3.png)
-
-1. Durasi pengerjaan quiz tercantum di pojok kanan atas.
-2. Ada tombol "Selanjutnya" untuk melihat pertanyaan berikutnya.
-3. Ada tombol "Keluar" untuk keluar dari halaman kuis.
-
-Jika klik button "Keluar" maka akan muncul pop-up pemberitahuan bahwa nilai akan menjadi 0 jika keluar ditengah pengerjaan quiz.
-
-![](/img/quiz_id3_leave.png)
-
-1. Untuk kembali ke halaman sebelumnya, klik tombol "Sebelumnya".
-2. Angka yang berwarna abu-abu berarti jawaban belum diisi, sedangkan angka yang berwarna merah berarti jawaban sudah diisi.
-
-![](/img/quiz_id4.png)
-
-1. Ada notifikasi "Anda Melewatkan Pertanyaan" yang menunjukkan bahwa ada pertanyaan yang belum diisi dan langsung dilewati.
-2. Ada tombol "Preview & Submit" jika Anda sudah selesai mengerjakan kuis.
-
-![](/img/quiz_id5.png)
-
-Gambar menampilkan Ringkasan Kuis dengan daftar pertanyaan yang sudah dijawab dan yang belum dijawab.
-
-1. Tombol "Kirim" untuk mengumpulkan kuis, sementara "Kembali ke Kuis" memungkinkan pengguna mengulas atau melengkapi pertanyaan yang belum dijawab.
-
-![](/img/quiz_id6.png)
-
-a. Jika masih ada kuis yang belum diisi, teks "Anda masih memiliki 7 pertanyaan yang belum dijawab" akan muncul.
-
-b. Jika semua sudah diisi, teks "Anda telah menjawab semua pertanyaan" akan muncul.
-
-Klik tombol "Kirim" jika Anda ingin mengumpulkan kuis.
-
-![](/img/quiz_id6_submit.png)
-
-Setelah mengklik "Kirim", sebuah pop-up selesai kuis akan muncul yang menjelaskan bahwa semua kuis telah diselesaikan dan hasil kuis dapat diperiksa.
-
-![](/img/quiz_id7_finished.png)
-
-Setelah menyelesaikan kuis, halaman subkonten kuis akan menampilkan status progres.
-
-*  Status "Lulus" berarti telah melewati batas minimal dan nilai yang diperoleh telah melebihi nilai minimal.
-* Nilai yang diperoleh dapat dilihat di bawah "Nilai Anda".
-* Klik "Periksa Jawaban" untuk melihat kuis yang telah diselesaikan sebelumnya.
-
-![](/img/quiz_id8.png)
-
-Halaman kuis yang telah diselesaikan akan menampilkan status dari setiap pertanyaan yang telah dijawab.
-
-![]()
-
-a. Status "Benar" di bagian atas halaman berarti jawabannya benar.
-
-b. Status "Salah" berarti pertanyaan memiliki jawaban yang salah. Pilihan jawaban yang disorot dengan warna hijau menunjukkan jawaban yang benar.
-
-## **Memahami Kursus (Catatan)**
-
-Klik "Catatan" untuk melihat catatan yang ditulis selama studi kursus.
-
-Halaman "Catatan" akan menampilkan catatan yang diambil selama kursus berdasarkan konten, subkonten, dan menit/halaman di mana catatan tersebut ditulis.
-
-![](/img/course_notes_id.png)
-
-## **Memahami Kursus (Forum)**
-
-1. Klik "Forum" untuk mengakses halaman forum dari kursus yang Anda ikuti.
-2. Halaman "Forum" akan terbagi menjadi forum terbaru dan forum populer.
-3. Klik "Terbaru" atau "Populer" untuk mengakses salah satunya.
-4. Klik "+ TAMBAHKAN UTAS" untuk menambahkan diskusi ke forum.
-
-![](/img/course_forum3_id.png)
-
-1. Ketik judul diskusi di "Judul Diskusi".
-2. Ketik isi diskusi di "Deskripsi Judul".
-3. Jika diskusi yang ingin Anda kirim ke forum sudah memuaskan, klik "POST".
-
-![](/img/course_forum2_id.png)
-
-## **Menghubungi Helpline**
-
-1. Menuju URL ([https://skills.pintar.co/)](https://skills.pintar.co/) 
-2. Klik ikon PINTAR yang ada pada pojok kanan bawah untuk menghubungi customer service jika terdapat kendala saat mengakses kursus.
-
-![](/img/course_help.png)
-
-3. Terdapat lagnkah-langkah untuk menggunakan fitur Live Chat.
-
-4. Klik ikon PINTAR lagi unutk mengarahkan ke sesi obrolan.
-
-![](/img/course_help2.png)
-
-5. Isi data pribadi seperti nama, email, dan juga nomer telepon lalu klik "Start Chatting"
-
-![](/img/course_help3.png)
-
-6. Setelah itu pengguna akan langsung diarahkan ke dalam ruang obrolan.
-
-![](/img/course_help4.png)
-
-## **///////**
-
-## **Memahami Kursus (Course Catatan)**
+## **Memahami Kursus (Course Content)**
 
 1. Klik "Course Content" untuk mengetahui konten yang tersedia di kursus yang diikuti.
 
