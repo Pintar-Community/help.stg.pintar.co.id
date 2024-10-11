@@ -352,3 +352,47 @@ Halaman kuis yang selesai akan menampilkan status setiap pertanyaan yang sudah d
 a. Status "Benar" di bagian atas halaman berarti jawabannya benar.
 
 b. Status "Salah" berarti pertanyaan memiliki jawaban yang salah. Pilihan jawaban yang di-highlight dengan warna hijau menunjukkan jawaban yang sebenarnya.
+
+## **Memahami Kursus (Notes)**
+
+Klik "Catatan" untuk melihat catatan yang ditulis selama studi kursus.
+
+Halaman "Catatan" akan menampilkan catatan yang diambil selama kursus berdasarkan konten, subkonten, dan menit/halaman di mana catatan tersebut ditulis.
+
+![](/img/course_notes_id.png)
+
+## **Memahami Kursus (Forum)**
+
+1. Klik "Forum" untuk mengakses halaman forum dari kursus yang Anda ikuti.
+2. Halaman "Forum" akan terbagi menjadi forum terbaru dan forum populer.
+3. Klik "Terbaru" atau "Populer" untuk mengakses salah satunya.
+4. Klik "+ TAMBAHKAN UTAS" untuk menambahkan diskusi ke forum.
+
+![](/img/course_forum3_id.png)
+
+1. Ketik judul diskusi di "Judul Utas".
+2. Ketik isi diskusi di "Deskripsi Judul".
+3. Jika diskusi yang ingin Anda kirim ke forum sudah sesuai, klik button "KIRIM".
+
+![](/img/course_forum2_id.png)
+
+## **Menghubungi Helpline**
+
+1. Menuju pada URL (<https://skills.pintar.co/>).
+2. Klik icon PINTAR pada bagian pojok kanan bawah untuk menghubungi customer service jika ada masalah pada saat mengakses kursus.
+
+![](/img/course_help.png)
+
+3. Terdapat langkah-langkah untuk menggunakan fitur Live Chat.
+
+4. Klik icon PINTAR lagi untuk langsung diarahkan pada sesi Live Chat.
+
+![](/img/course_help2.png)
+
+5. Masukkan data pribadi seperti Nama, Email, dan juga Nomer Telepon. Kemudian klik tombol "STart Chatting".
+
+![](/img/course_help3.png)
+
+6.  Setelah itu Anda akan diarahkan langsung ke ruang obrolan.
+
+![](/img/course_help4.png)

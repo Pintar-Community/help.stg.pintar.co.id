@@ -309,13 +309,11 @@ If you click the "Leave" button, a pop-up notification will appear stating that 
 ![](/img/quiz_eng2_leave.png)
 
 4. To return to the previous page, click the "Previous" button.
-
 5. Numbers in gray mean that the answer has not been filled in, while numbers in red mean that the answer has been filled in.
 
 ![](/img/quiz_eng3.png)
 
 6. There is a notification "You Skipped A Question" which indicates that there is a question that has not been filled in and is immediately skipped.
-
 7. There is a "Preview & Submit" button if you have finished working on the quiz.
 
 ![](/img/quiz_eng4.png)
@@ -380,7 +378,7 @@ The "Notes" page will show notes taken throughout the course based on its course
 ## **Contacting Helpline**
 
 1. go to URL ([https://skills.pintar.co/)](https://skills.pintar.co/) 
-2. Click the SMART icon in the bottom right corner to contact customer service if you have problems accessing the course.[](https://skills.pintar.co/)
+2. Click the PINTAR's icon in the bottom right corner to contact customer service if you have problems accessing the course.[](https://skills.pintar.co/)
 
 ![](/img/course_help.png)
 
