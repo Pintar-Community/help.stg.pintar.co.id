@@ -231,8 +231,6 @@ Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kurs
 2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
 3. Komentar yang telah dibuat dapat dihapus.
 
-
-
 ### **Memahami Kursus (Subkonten Offline Class)**
 
 Di menu Offline Class, pengguna dapat melihat detail sesi kelas offline seperti:
@@ -284,8 +282,6 @@ Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kurs
 2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
 3. Komentar yang telah dibuat dapat dihapus.
 
-
-
 ### **Memahami Kursus (Subkonten Quiz)**
 
 Di bagian Quiz, pengguna dapat melihat detail kuis seperti judul, durasi, pertanyaan, tenggat waktu, metode penilaian, dan nilai minimal. Halaman subkonten kuis akan menampilkan jumlah pertanyaan, metode penilaian, jumlah percobaan yang diizinkan, nilai minimum, dan durasi kuis.
@@ -310,3 +306,49 @@ Halaman kuis akan menampilkan judul kuis di bagian atas dan jumlah pertanyaan di
 Jika Anda mengklik tombol "Keluar", sebuah notifikasi pop-up akan muncul yang menyatakan bahwa nilai akan menjadi 0 jika Anda keluar di tengah kuis.
 
 ![](/img/quiz_id3_leave.png)
+
+4. Untuk kembali ke halaman sebelumnya, klik tombol "Sebelumnya".
+
+5. Angka berwarna abu-abu berarti jawaban belum diisi, sedangkan angka berwarna merah berarti jawaban sudah diisi.
+
+![](/img/quiz_id4.png)
+
+6. Ada notifikasi "You Skipped a Question" yang menunjukkan bahwa ada pertanyaan yang belum diisi dan dilewati.
+
+7. Ada tombol "PREVIEW & SUBMIT" jika Anda telah selesai mengerjakan kuis.
+
+![](/img/quiz_id5.png)
+
+Gambar menunjukkan Ringkasan Kuis dengan daftar pertanyaan yang telah dijawab dan yang belum dijawab.
+
+8. Klik tombol "KIRIM" jika sudah menyelesaikan kuis, sementara "KEMBALI KE QUIZ " memungkinkan pengguna untuk meninjau atau menyelesaikan pertanyaan yang belum dijawab.
+
+![](/img/quiz_id6.png)
+
+a. Jika masih ada kuis yang belum diisi, teks "Anda masih memiliki 7 pertanyaan yang belum dijawab" akan muncul.
+
+b. Jika semua sudah diisi, teks "Anda telah menjawab semua pertanyaan" akan muncul.
+
+Klik tombol "Kirim" jika Anda ingin mengumpulkan kuis.
+
+![](/img/quiz_id6_submit.png)
+
+Setelah mengklik "Kirim", pop-up selesai kuis akan muncul yang menjelaskan bahwa semua kuis telah diselesaikan dan hasil kuis dapat diperiksa.
+
+![](/img/quiz_id7_finished.png)
+
+Setelah menyelesaikan kuis, halaman subkonten kuis akan menampilkan status progres.
+
+* Status "Lulus" berarti berhasil dan skor yang diperoleh telah melampaui nilai minimal.
+* Skor yang diperoleh dapat dilihat di bawah "Nilai Anda".
+* Klik "Periksa Jawaban" untuk melihat kuis yang telah diselesaikan sebelumnya.
+
+![](/img/quiz_id8.png)
+
+Halaman kuis yang selesai akan menampilkan status setiap pertanyaan yang sudah dijawab.
+
+![](/img/quiz_id9.png)
+
+a. Status "Benar" di bagian atas halaman berarti jawabannya benar.
+
+b. Status "Salah" berarti pertanyaan memiliki jawaban yang salah. Pilihan jawaban yang di-highlight dengan warna hijau menunjukkan jawaban yang sebenarnya.
