@@ -235,4 +235,54 @@ Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kurs
 
 ### **Memahami Kursus (Subkonten Offline Class)**
 
-Di menu Offline Class, pengguna dapat melihat detail sesi kelas offline seperti judul, waktu yang dijadwalkan, deskripsi, lokasi, dan URL untuk informasi lebih lanjut.
+Di menu Offline Class, pengguna dapat melihat detail sesi kelas offline seperti:
+
+* Judul.
+* Waktu yang dijadwalkan.
+* Deskripsi.
+* Lokasi.
+* URL untuk informasi lebih lanjut.
+
+![](/img/offline-class_id.png)
+
+### **Memahami Kursus (Subkonten Live Sessioin (Other))**
+
+1. Klik "Live Session" untuk melihat contoh subkonten sesi langsung. 
+2. Setelah memastikan judul, tanggal, waktu, durasi, dan deskripsi sesi langsung benar, klik "Mulai Sesi" untuk bergabung dengan sesi langsung.
+
+![](/img/live-session_id.png)
+
+### **Memahami Kursus (Subkonten Video)**
+
+Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan siswa menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
+
+![](/img/video_id.png)
+
+**a. Catatan**: 
+
+Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
+
+1. Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
+2. Catatan yang telah dibuat dapat diedit. 
+3. Catatan yang telah dibuat dapat dihapus.
+
+![](/img/course-video-commentnotes_eng1.png)
+
+**b. Komentar**: 
+
+Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
+
+1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Terdapat filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
+3. Komentar yang telah dibuat dapat dihapus.
+
+**c. Balas Komentar**: 
+
+Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti. 
+
+1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
+3. Komentar yang telah dibuat dapat dihapus.
+4.
+
+### **Memahami Kursus (Subkonten Quiz)**
