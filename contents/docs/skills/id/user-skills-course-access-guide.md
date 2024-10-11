@@ -230,3 +230,9 @@ Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kurs
 1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
 2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
 3. Komentar yang telah dibuat dapat dihapus.
+
+
+
+### **Memahami Kursus (Subkonten Offline Class)**
+
+Di menu Offline Class, pengguna dapat melihat detail sesi kelas offline seperti judul, waktu yang dijadwalkan, deskripsi, lokasi, dan URL untuk informasi lebih lanjut.

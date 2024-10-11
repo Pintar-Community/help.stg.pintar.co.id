@@ -234,7 +234,7 @@ This Reply Comments section allows users to reply other comment on the course th
 
 ### **Understanding the Course (Offline Class Subcontent)**
 
-In the Offline Class menu, users can view the details of an offline class session such as the title, scheduled time, description, location, and a URL for more information. This class session lasts 90 minutes.
+In the Offline Class menu, users can view the details of an offline class session such as the title, scheduled time, description, location, and a URL for more information.
 
 ![](/img/offline-class_eng.png)
 
