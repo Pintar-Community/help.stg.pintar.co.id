@@ -173,10 +173,60 @@ Dalam jenis Dokumen, pengguna dapat melihat dan membaca dokumen yang diunggah se
 
 ![](/img/course-document_id.png)
 
-**Catatan**:
+**a. Catatan**:
 
 Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
 
-* Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
-* Catatan yang telah dibuat dapat diedit. 
-* Catatan yang telah dibuat dapat dihapus.
+1. Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
+2. Catatan yang telah dibuat dapat diedit. 
+3. Catatan yang telah dibuat dapat dihapus.
+
+![](/img/course-document-commentnotes_id.png)
+
+**b. Komentar**: 
+
+Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
+
+1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
+3. Komentar yang telah dibuat dapat dihapus.
+
+**c. Balas Komentar**: 
+
+Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti. 
+
+1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
+3. Komentar yang telah dibuat dapat dihapus.
+
+### **Memahami Kursus (Subkonten Video Practice (YouTube))**
+
+Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan pengguna menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
+
+![](/img/course-video_id.png)
+
+**a. Catatan**: 
+
+Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting. 
+
+1. Klik "Catatan" untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna. 
+2. Catatan yang telah dibuat dapat diedit. 
+3. Catatan yang telah dibuat dapat dihapus.
+
+![](/img/course-video-commentnotes_id.png)
+
+**b. Komentar**: 
+
+Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti. 
+
+1. Klik "Kirim" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Terdapat filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer. 
+3. Komentar yang telah dibuat dapat dihapus.
+
+**c. Balas Komentar**: 
+
+Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti. 
+
+1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
+2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
+3. Komentar yang telah dibuat dapat dihapus.
