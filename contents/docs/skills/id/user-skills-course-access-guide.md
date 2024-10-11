@@ -283,6 +283,30 @@ Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kurs
 1. Klik teks "Balas" untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama. 
 2. Klik tombol "Balas" untuk menambahkan komentar pada dokumen. 
 3. Komentar yang telah dibuat dapat dihapus.
-4.
+
+
 
 ### **Memahami Kursus (Subkonten Quiz)**
+
+Di bagian Quiz, pengguna dapat melihat detail kuis seperti judul, durasi, pertanyaan, tenggat waktu, metode penilaian, dan nilai minimal. Halaman subkonten kuis akan menampilkan jumlah pertanyaan, metode penilaian, jumlah percobaan yang diizinkan, nilai minimum, dan durasi kuis.
+
+![](/img/quiz_id.png)
+
+1. Klik "Quiz untuk melihat contoh subkonten kuis.
+2. Klik "MULAI QUIZ" untuk mulai mengerjakan kuis.
+
+Sebelum diarahkan ke halaman kuis, sebuah pop-up akan muncul mengingatkan jumlah percobaan, mengingatkan Anda untuk selalu berhati-hati saat mengerjakan soal, selalu berada di halaman kuis, dan mengklik "SUBMIT" di akhir proses agar jawaban tercatat.
+
+![](/img/quiz_id2.png)
+
+Halaman kuis akan menampilkan judul kuis di bagian atas dan jumlah pertanyaan di bawahnya.
+
+![](/img/quiz_id3.png)
+
+1. Durasi kuis ditampilkan di pojok kanan atas.
+2. Terdapat tombol "Berikutnya" untuk melihat pertanyaan berikutnya.
+3. Terdapat tombol "Keluar" untuk keluar dari halaman kuis.
+
+Jika Anda mengklik tombol "Keluar", sebuah notifikasi pop-up akan muncul yang menyatakan bahwa nilai akan menjadi 0 jika Anda keluar di tengah kuis.
+
+![](/img/quiz_id3_leave.png)
