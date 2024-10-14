@@ -60,3 +60,16 @@ Terdapat beberapa pilihan metode pembayaran yang dapat disesuaikan dengan penggu
 Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian telah berhasil.
 
 ![](/img/degrees-payment_id-1.png)
+
+## **Memasuki Program**
+
+1. Setelah login ke degrees.pintar.co, klik profil untuk menuju program yang Anda ikuti.
+2. Klik "Program Saya" untuk melihat program yang Anda ikuti.
+
+![](/img/my-programs_id.png)
+
+3. Terdapat tombol untuk kembali ke halaman Kuliah.
+
+4. Untuk memulai program yang telah dibeli, dapat klik teks "Mulai".
+
+![](/img/dashboard-programsaya_id.png)
