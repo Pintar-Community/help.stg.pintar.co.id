@@ -13,7 +13,9 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 ![](/img/login_1.png)
 
 3. Masukan email pada kolom Email.
+
 4. Masukan kata sandi pada kolom Password.
+
 5. Klik tombol Masuk.
 
 ![](/img/login_1.2.png)
@@ -29,7 +31,9 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 ![](/img/dashboard_1.2.png)
 
 4. Terdapat beberapa kategori Skills yang bisa dipilih sesuai minat dan kebutuhan.
+
 5. Klik button "Selengkapnya" jika ingin membeli Skill tersebut.
+
 6. Jika ingin melihat semua program skills yang ada, bisa klik "Jelajahi Semua Program".
 
 ![](/img/dashboard_1.3.png)
@@ -308,13 +312,11 @@ Jika Anda mengklik tombol "Keluar", sebuah notifikasi pop-up akan muncul yang me
 ![](/img/quiz_id3_leave.png)
 
 4. Untuk kembali ke halaman sebelumnya, klik tombol "Sebelumnya".
-
 5. Angka berwarna abu-abu berarti jawaban belum diisi, sedangkan angka berwarna merah berarti jawaban sudah diisi.
 
 ![](/img/quiz_id4.png)
 
 6. Ada notifikasi "You Skipped a Question" yang menunjukkan bahwa ada pertanyaan yang belum diisi dan dilewati.
-
 7. Ada tombol "PREVIEW & SUBMIT" jika Anda telah selesai mengerjakan kuis.
 
 ![](/img/quiz_id5.png)
@@ -384,7 +386,6 @@ Halaman "Catatan" akan menampilkan catatan yang diambil selama kursus berdasarka
 ![](/img/course_help.png)
 
 3. Terdapat langkah-langkah untuk menggunakan fitur Live Chat.
-
 4. Klik icon PINTAR lagi untuk langsung diarahkan pada sesi Live Chat.
 
 ![](/img/course_help2.png)
@@ -393,6 +394,6 @@ Halaman "Catatan" akan menampilkan catatan yang diambil selama kursus berdasarka
 
 ![](/img/course_help3.png)
 
-6.  Setelah itu Anda akan diarahkan langsung ke ruang obrolan.
+6. Setelah itu Anda akan diarahkan langsung ke ruang obrolan.
 
 ![](/img/course_help4.png)
