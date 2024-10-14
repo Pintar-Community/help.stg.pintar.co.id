@@ -69,6 +69,7 @@ Terdapat penjelasan lebih detail mengenai skill tersebut.
 ![](/img/detail_pembelian.png)
 
 4. Masukkan "Kode Promo" jika memiliki kode promo.
+
 5. Jika tidak ada kode promo, maka langsung saja klik "Lanjutkan".
 
 ![](/img/detail_pembelian_1.png)
