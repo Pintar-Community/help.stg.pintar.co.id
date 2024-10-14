@@ -73,3 +73,9 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 4. Untuk memulai program yang telah dibeli, dapat klik teks "Mulai".
 
 ![](/img/dashboard-programsaya_id.png)
+
+## **Mengisi Formulir Data Pribadi pada Program**
+
+1. Terdapat form yang mengharuskan pengguna untuk mengisikan data pribadinya. Setelah diisi, klik tombol "Submit".
+
+![](/img/degrees-personaldata_id.png)
