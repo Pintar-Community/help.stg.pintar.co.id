@@ -13,9 +13,7 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 ![](/img/login_1.png)
 
 3. Masukan email pada kolom Email.
-
 4. Masukan kata sandi pada kolom Password.
-
 5. Klik tombol Masuk.
 
 ![](/img/login_1.2.png)
@@ -31,9 +29,7 @@ Untuk Login ke website PINTAR, lakukan cara berikut:
 ![](/img/dashboard_1.2.png)
 
 4. Terdapat beberapa kategori Skills yang bisa dipilih sesuai minat dan kebutuhan.
-
 5. Klik button "Selengkapnya" jika ingin membeli Skill tersebut.
-
 6. Jika ingin melihat semua program skills yang ada, bisa klik "Jelajahi Semua Program".
 
 ![](/img/dashboard_1.3.png)
@@ -69,7 +65,6 @@ Terdapat penjelasan lebih detail mengenai skill tersebut.
 ![](/img/detail_pembelian.png)
 
 4. Masukkan "Kode Promo" jika memiliki kode promo.
-
 5. Jika tidak ada kode promo, maka langsung saja klik "Lanjutkan".
 
 ![](/img/detail_pembelian_1.png)
@@ -90,6 +85,7 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 ![](/img/my-programs_id.png)
 
 3. Pada menu Program Saya, terdapat beberapa tab yang bisa dipilih sesuai dengan produk yang ingin dilihat.
+
 4. Terdapat tombol “Mulai Belajar” yang dapat diklik untuk melihat dan memulai kursus atau tombol “Lanjutkan Belajar” untuk melanjutkan kursus.
 
 ![](/img/myprogram_id.png)
