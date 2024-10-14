@@ -87,3 +87,7 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 Jika sudah, maka akan muncul pemberitahuan bahwa formulir sudah berhasil terisi dan terkirim.
 
 ![](/img/degrees-personaldata_id-1.png)
+
+Setelah itu akan diarahkan ke halaman dasbor.
+
+![](/img/degrees-personaldata_id-2.png)
