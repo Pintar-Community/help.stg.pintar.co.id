@@ -79,3 +79,11 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 1. Terdapat form yang mengharuskan pengguna untuk mengisikan data pribadinya. Setelah diisi, klik tombol "Submit".
 
 ![](/img/degrees-personaldata_id.png)
+
+2. Akan muncul pop-up konfirmasi apakah data yang diinputkan sudah sesuai atau belum. Jika sudah, maka klik tombol "Kirim".
+
+![](/img/degrees-personaldata_id-3.png)
+
+Jika sudah, maka akan muncul pemberitahuan bahwa formulir sudah berhasil terisi dan terkirim.
+
+![](/img/degrees-personaldata_id-1.png)
