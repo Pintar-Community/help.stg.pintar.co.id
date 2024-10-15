@@ -69,7 +69,6 @@ Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian tela
 ![](/img/my-programs_id.png)
 
 3. Terdapat tombol untuk kembali ke halaman Kuliah.
-
 4. Untuk memulai program yang telah dibeli, dapat klik teks "Mulai".
 
 ![](/img/dashboard-programsaya_id.png)
