@@ -90,3 +90,21 @@ Jika sudah, maka akan muncul pemberitahuan bahwa formulir sudah berhasil terisi 
 Setelah itu akan diarahkan ke halaman dasbor.
 
 ![](/img/degrees-personaldata_id-2.png)
+
+1. Klik tombol "Continue" untuk diarahkan ke halaman dashbor perkuliahan dan melihat detail pelajaran dari program yang telah dibeli.
+
+![](/img/degrees-personaldata_id.png)
+
+2. Pada halaman dasbor perkuliahan, terdapat informasi mengenai:
+
+* Daftar Mata Pelajaran
+* Jumlah SKS
+* Nama Dosen
+* Nilai
+* Persentase kemajuan
+
+3. Terdapat tombol "Lihat Rincian" untuk melihat rincian pembayaran perkuliahan.
+4. Terdapat tombol "Bayar" untuk melakukan pembayaran.
+5. Terdapat tombol "Lihat Semua" untuk melihat lebih banyak daftar kegiatan yang ada.
+
+![](/img/degrees-dashboard_id.png)
