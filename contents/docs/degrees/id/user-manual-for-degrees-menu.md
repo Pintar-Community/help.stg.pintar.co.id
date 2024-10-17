@@ -106,7 +106,25 @@ Setelah itu akan diarahkan ke halaman dasbor.
 * Persentase kemajuan
 
 3. Terdapat tombol "Lihat Rincian" untuk melihat rincian pembayaran perkuliahan.
-4. Terdapat tombol "Bayar" untuk melakukan pembayaran.
-5. Terdapat tombol "Lihat Semua" untuk melihat lebih banyak daftar kegiatan yang ada.
 
 ![](/img/degrees-dashboard_id.png)
+
+a. Terdapat tombol "Lihat Detail" untuk melihat detail pembayaran dari program yang dimiliki.
+
+![](/img/payment-degree_id.png)
+
+Pengguna akan diarahkan ke halaman rincian biaya kuliah yang terdapat beberapa informasi seperti:
+
+* Tahun Ajar
+* Total Biaya
+* Tanggar Pembayaran
+* Rincian Pembayaran
+* Payment History
+
+![](/img/payment-degree_id2.png)
+
+4. Terdapat tombol "Bayar" untuk melakukan pembayaran yang akan mengarah ke halaman rincian biaya kuliah.
+
+5. Terdapat tombol "Lihat Semua" untuk melihat lebih banyak daftar kegiatan yang ada.
+
+![](/img/degrees-daftarkegiatan_id.png)
