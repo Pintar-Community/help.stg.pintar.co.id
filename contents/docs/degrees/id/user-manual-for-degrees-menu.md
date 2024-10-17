@@ -91,6 +91,8 @@ Setelah itu akan diarahkan ke halaman dasbor.
 
 ![](/img/degrees-personaldata_id-2.png)
 
+## **Memasuki Detail Program yang Telah Dibeli**
+
 1. Klik tombol "Continue" untuk diarahkan ke halaman dashbor perkuliahan dan melihat detail pelajaran dari program yang telah dibeli.
 
 ![](/img/degrees-personaldata_id.png)
