@@ -104,7 +104,9 @@ Setelah itu akan diarahkan ke halaman dasbor.
 * Persentase kemajuan
 
 3. Terdapat tombol "Lihat Rincian" untuk melihat rincian pembayaran perkuliahan.
+
 4. Terdapat tombol "Bayar" untuk melakukan pembayaran.
+
 5. Terdapat tombol "Lihat Semua" untuk melihat lebih banyak daftar kegiatan yang ada.
 
 ![](/img/degrees-dashboard_id.png)
