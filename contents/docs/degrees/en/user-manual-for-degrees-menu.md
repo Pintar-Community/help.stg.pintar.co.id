@@ -106,11 +106,11 @@ Then you will be directed to the dashboard page.
 * Grades
 * Progress Percentage
 
-3. There is a "View Details" button to see the details of the tuition payment.
+3. There is a "Show Detail" button to see the details of the tuition payment.
 
 ![](/img/degrees-dashboard_eng.png)
 
-a. There is a "View Details" button to view payment details of the owned program.
+a. There is a "See Details" button to view payment details of the owned program.
 
 ![](/img/payment-degree_eng.png)
 
