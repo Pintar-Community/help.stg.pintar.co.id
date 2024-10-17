@@ -66,4 +66,44 @@ If the payment is successful, information will appear stating that the purchase 
 1. After logging in to degrees.pintar.co, click the profile to go to the program you are enrolled in.
 2. Click "My Program" to see the program you are enrolled in.
 
-![]()
+![](/img/my-programs_eng.png)
+
+3. There is a button to return to the College page.
+
+4. To start the purchased program, you can click the "Start" text.
+
+![](/img/dashboard-programsaya_eng.png)
+
+## **Filling Personal Data Form in Program**
+
+1. There is a form that requires users to fill in their personal data. Once filled in, click the "Save and Continue" button.
+
+![](/img/degrees-personaldata_eng.png)
+
+2. A pop-up confirmation will appear asking if the entered data is correct. If it is, click the "Submit" button.
+
+![](/img/degrees-personaldata_eng-3.png)
+
+After that, a notification will appear stating that the form has been successfully filled and submitted.
+
+![](/img/degrees-personaldata_eng-1.png)
+
+Then you will be directed to the dashboard page.
+
+![](/img/degrees-dashboard-detail_eng1.png)
+
+## **Entering the Purchased Program Details**
+
+1. Click the "Continue" button to be directed to the program dashboard and view the course details of the purchased program.
+
+![](/img/degrees-dashboard-detail_eng.png)
+
+2. On the program dashboard page, the following information is available:
+
+* List of Courses
+* Number of Credits
+* Lecturer Name
+* Grades
+* Progress Percentage
+
+![](/img/degrees-dashboard_eng.png)
