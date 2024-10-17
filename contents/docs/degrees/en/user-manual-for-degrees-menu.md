@@ -35,3 +35,35 @@ To Login to the PINTAR website, do the following:
 4. Click the "See Details" button if you want to see the details of the program.
 
 ![](/img/degrees-home_eng.png)
+
+## **Entering Program Detail Degrees**
+
+1. On the program details page, there is a detailed explanation such as an overview, academics, registration, career prospects, and the price of the program.
+2. There is a "Apply Now" button so users can directly register for the program.
+3. There is a "Request Info" button so users can inquire and get more detailed information about the program.
+
+![](/img/degrees-detail_eng.png)
+
+## **Entering Purchase Details**
+
+1. There are details about the product that will be purchased.
+2. Users can see the available promo.
+3. Users must check the checkbox.
+4. If you want to proceed with the purchase, click the "Choose Payment" button.
+
+![](/img/degrees-detailpayment_eng.png)
+
+There are several payment method options that can be adjusted according to the user, as well as an order summary showing the total purchase. Users simply choose one payment method.
+
+![](/img/degrees-payment_id.png)
+
+If the payment is successful, information will appear stating that the purchase was successful.
+
+![](/img/degrees-payment_id.png)
+
+## **Entering Program**
+
+1. After logging in to degrees.pintar.co, click the profile to go to the program you are enrolled in.
+2. Click "My Program" to see the program you are enrolled in.
+
+![]()
