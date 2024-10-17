@@ -106,4 +106,26 @@ Then you will be directed to the dashboard page.
 * Grades
 * Progress Percentage
 
+3. There is a "View Details" button to see the details of the tuition payment.
+
 ![](/img/degrees-dashboard_eng.png)
+
+a. There is a "View Details" button to view payment details of the owned program.
+
+![](/img/payment-degree_eng.png)
+
+Users will be directed to the tuition fee details page, which contains several pieces of information such as:
+
+* Period
+* Amount
+* Payment Period
+* Bill Details
+* Payment History
+
+![](/img/payment-degree_eng2.png)
+
+4. There is a "Pay Tuition" button to make a payment, which will lead to the tuition fee details page.
+
+5. There is a "View All" button to see more activity lists available.
+
+![](/img/degrees-daftarkegiatan_eng.png)
