@@ -18,3 +18,20 @@ To Login to the PINTAR website, do the following:
 ![](/img/login_1.2.png)
 
 ## **Entering PINTAR Degrees**
+
+![](/img/dashboard-degree_eng.png)
+
+1. Click the dropdown menu "For Individuals" to display the skills menu.
+2. Click the "PINTAR Degrees" menu.
+3. Click "Explore Programs" to view the various skill options available.
+
+![](/img/dashboard-degree_eng2.png)
+
+## **Entering Browse Degrees**
+
+1. On the Explore Programs page, there is a search bar to make it easier to find the desired course.
+2. There are several categories that can be filtered according to interests and preferences.
+3. Users can reset filters that have been applied.
+4. Click the "See Details" button if you want to see the details of the program.
+
+![](/img/degrees-home_eng.png)
