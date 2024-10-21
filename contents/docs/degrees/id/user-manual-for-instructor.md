@@ -66,6 +66,14 @@ d. Pada kolom "quiz", dapat di klik dan akan muncul pop-up mengenai detail penil
 
 ## **Memasuki Menu Mengelola Kelas**
 
-1. Untuk masuk ke menu mengelola kelas, klik icon profil pada pojok kanan atas dan pilih "Manage Class"
+1. Untuk masuk ke menu mengelola kelas, klik icon profil pada pojok kanan atas dan pilih "Manage Class".
 
 ![](/img/instructor-dashboard_id2.png)
+
+2. Pada halaman "Class List", terdapat Filter Class List: Pengguna dapat memilih kelas berdasarkan kategori yang tersedia dari menu drop-down ini.
+
+3. Tombol 'Go to Dashboard': Tombol ini memungkinkan pengguna untuk kembali ke halaman Dashboard.
+
+4. Tombol 'Manage': Setiap baris kelas dilengkapi dengan tombol "Manage". Tombol ini memungkinkan pengguna untuk mengelola detail kelas.
+
+![](/img/classlist_id.png)
