@@ -61,3 +61,5 @@ d. Pada kolom "quiz", dapat di klik dan akan muncul pop-up mengenai detail penil
 ![](/img/degrees-performa-quiz_id.png)
 
 3. Acara Akan Datang (Lihat Semua): Di bagian ini, ditampilkan daftar acara yang akan datang, seperti sesi langsung atau pertemuan terkait kursus. Pengguna bisa mengklik "Lihat Semua" untuk melihat seluruh acara mendatang yang sudah dijadwalkan.
+
+![](/img/degrees-acara_id.png)
