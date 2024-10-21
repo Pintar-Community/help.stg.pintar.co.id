@@ -77,3 +77,19 @@ d. Pada kolom "quiz", dapat di klik dan akan muncul pop-up mengenai detail penil
 4. Tombol 'Manage': Setiap baris kelas dilengkapi dengan tombol "Manage". Tombol ini memungkinkan pengguna untuk mengelola detail kelas.
 
 ![](/img/classlist_id.png)
+
+## **Memasuki Menu Manajemen Kursus**
+
+1. Tab Setting: Ini adalah tab untuk mengatur konfigurasi dasar kursus, seperti informasi kursus, gambar thumbnail, sampul, keterampilan yang dicapai, tanda tangan elektronik, dan waktu penyelesaian rata-rata.
+
+![](/img/course-setting.png)
+
+a. Tombol Edit: Tombol ini memungkinkan pengguna untuk mengedit detail kursus, seperti nama kursus, kode, jumlah kredit, kategori, penyedia pembelajaran, dan klasifikasi. Setelah mengklik "Edit", pengguna bisa memperbarui informasi terkait kursus ini.
+
+2. Tab Material: Tab ini kemungkinan digunakan untuk mengelola materi pembelajaran yang terkait dengan kursus, seperti menambahkan atau mengedit konten pembelajaran, modul, dan tugas-tugas.
+
+![](/img/course-material.png)
+
+3. Tab Publish: Tab ini digunakan untuk menerbitkan kursus ke dalam platform, sehingga bisa diakses oleh mahasiswa. 
+
+![](/img/course-publish.png)
