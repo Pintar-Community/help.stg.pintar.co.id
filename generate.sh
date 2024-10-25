@@ -130,17 +130,13 @@ multiple_folders id blog $ID_BLOG_DESTINATION
 migrateFiles en docs $EN_DOCS_DESTINATION
 migrateFiles id docs $ID_DOCS_DESTINATION
 
-multiple_folders en docs/degrees $EN_DOCS_DESTINATION
-multiple_folders id docs/degrees $ID_DOCS_DESTINATION
+LIST_CATEGORIES="enterprise opportunity degrees skills prakerja lms userprofile others faq"
 
-multiple_folders en docs/enterprise $EN_DOCS_DESTINATION
-multiple_folders id docs/enterprise $ID_DOCS_DESTINATION
+# Loop List Categories
+for CATEGORY in $LIST_CATEGORIES
+do
+    echo "Check Multiple Folder Docs Translations"
 
-multiple_folders en docs/faq $EN_DOCS_DESTINATION
-multiple_folders id docs/faq $ID_DOCS_DESTINATION
-
-multiple_folders en docs/prakerja $EN_DOCS_DESTINATION
-multiple_folders id docs/prakerja $ID_DOCS_DESTINATION
-
-multiple_folders en docs/skills $EN_DOCS_DESTINATION
-multiple_folders id docs/skills $ID_DOCS_DESTINATION
+    multiple_folders en docs/$CATEGORY $EN_DOCS_DESTINATION
+    multiple_folders id docs/$CATEGORY $ID_DOCS_DESTINATION
+done

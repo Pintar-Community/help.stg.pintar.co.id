@@ -22,62 +22,6 @@ i18n:
   default_locale: en
 
 collections:
-  - name: blog
-    label: "blog"
-    folder: "contents/blog"
-    identifier_field: title
-    extension: md
-    widget: "list"
-    create: true
-    i18n: true
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields:
-      - name: title
-        label: Title
-        widget: string
-        i18n: true
-      - name: body
-        label: Body
-        widget: markdown
-        i18n: true
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        i18n: true
-      - label: "Authors"
-        name: "authors" 
-        i18n: true
-        widget: "select"
-        options: ["juniyadi", "yusran"]
-
-  - name: degrees
-    label: "degrees"
-    folder: "contents/docs/degrees"
-    identifier_field: title
-    extension: md
-    widget: "list"
-    create: true
-    i18n: true
-    slug: "{{slug}}"
-    fields:
-      - name: title
-        label: Title
-        widget: string
-        i18n: true
-      - name: body
-        label: Body
-        widget: markdown
-        i18n: true
-      - label: "Sidebar Position"
-        name: "sidebar_position"
-        widget: "number"
-        value_type: int
-        i18n: true
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        i18n: true
-
   - name: enterprise
     label: "enterprise"
     folder: "contents/docs/enterprise"
@@ -106,9 +50,37 @@ collections:
         widget: "list"
         i18n: true
 
-  - name: faq
-    label: "faq"
-    folder: "contents/docs/faq"
+  - name: opportunity
+    label: "opportunity"
+    folder: "contents/docs/opportunity"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: degrees
+    label: "degrees"
+    folder: "contents/docs/degrees"
     identifier_field: title
     extension: md
     widget: "list"
@@ -165,6 +137,146 @@ collections:
   - name: prakerja
     label: "prakerja"
     folder: "contents/docs/prakerja"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: lms
+    label: "LMS"
+    folder: "contents/docs/lms"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: userprofile
+    label: "User Profile"
+    folder: "contents/docs/userprofile"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: others
+    label: "Others"
+    folder: "contents/docs/others"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}"
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Sidebar Position"
+        name: "sidebar_position"
+        widget: "number"
+        value_type: int
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+
+  - name: blog
+    label: "blog"
+    folder: "contents/blog"
+    identifier_field: title
+    extension: md
+    widget: "list"
+    create: true
+    i18n: true
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        i18n: true
+      - name: body
+        label: Body
+        widget: markdown
+        i18n: true
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        i18n: true
+      - label: "Authors"
+        name: "authors" 
+        i18n: true
+        widget: "select"
+        options: ["juniyadi", "yusran"]
+
+  - name: faq
+    label: "faq"
+    folder: "contents/docs/faq"
     identifier_field: title
     extension: md
     widget: "list"

@@ -56,19 +56,15 @@ cleanup id blog $ID_BLOG_DESTINATION
 # migrateFiles en docs $EN_DOCS_DESTINATION
 # migrateFiles id docs $ID_DOCS_DESTINATION
 
-cleanup en docs/degrees $EN_DOCS_DESTINATION
-cleanup id docs/degrees $ID_DOCS_DESTINATION
+LIST_CATEGORIES="enterprise opportunity degrees skills prakerja lms userprofile others faq"
 
-cleanup en docs/enterprise $EN_DOCS_DESTINATION
-cleanup id docs/enterprise $ID_DOCS_DESTINATION
+# Loop List Categories
+for CATEGORY in $LIST_CATEGORIES
+do
+    echo "Check Multiple Folder Docs Translations"
 
-cleanup en docs/faq $EN_DOCS_DESTINATION
-cleanup id docs/faq $ID_DOCS_DESTINATION
-
-cleanup en docs/prakerja $EN_DOCS_DESTINATION
-cleanup id docs/prakerja $ID_DOCS_DESTINATION
-
-cleanup en docs/skills $EN_DOCS_DESTINATION
-cleanup id docs/skills $ID_DOCS_DESTINATION
+    cleanup en docs/$CATEGORY $EN_DOCS_DESTINATION
+    cleanup id docs/$CATEGORY $ID_DOCS_DESTINATION
+done
 
 rm -rf list-*.txt
