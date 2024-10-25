@@ -12,11 +12,11 @@
     "description": "Navbar item with label Home"
   },
   "item.label.Degrees": {
-    "message": "Kuliah",
+    "message": "Degrees",
     "description": "Navbar item with label Degrees"
   },
   "item.label.Enterprise": {
-    "message": "Korporasi",
+    "message": "Enterprise",
     "description": "Navbar item with label Enterprise"
   },
   "item.label.Skills": {
