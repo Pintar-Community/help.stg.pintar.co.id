@@ -6,45 +6,46 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Pintar Help',
-  tagline: 'Documentation for Pintar Webiste',
-  favicon: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png',
+  title: "Pintar Help",
+  tagline: "Documentation for Pintar Webiste",
+  favicon:
+    "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png",
 
   // Set the production url of your site here
-  url: 'https://help.pintar.co',
+  url: "https://help.pintar.co",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Pintar-Pemenang-Asia', // Usually your GitHub org/user name.
-  projectName: 'help.pintar.co', // Usually your repo name.
+  organizationName: "Pintar-Pemenang-Asia", // Usually your GitHub org/user name.
+  projectName: "help.pintar.co", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'id',
-    locales: ['en', 'id'],
+    defaultLocale: "id",
+    locales: ["en", "id"],
     localeConfigs: {
       id: {
-        label: 'Bahasa Indonesia',
-        htmlLang: 'id-ID',
-      }
-    }
+        label: "Bahasa Indonesia",
+        htmlLang: "id-ID",
+      },
+    },
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main',
@@ -58,7 +59,7 @@ const config = {
           // editUrl: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co/blob/main/',
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -68,99 +69,124 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg',
+      image:
+        "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg",
       navbar: {
-        title: 'Help',
+        title: "Help",
         logo: {
-          alt: 'Pintar Logo',
-          src: 'https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg',
+          alt: "Pintar Logo",
+          src: "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg",
         },
         items: [
-          {to: '/', label: 'Home', position: 'left'},
+          { to: "/", label: "Home", position: "left" },
           {
-            type: 'docSidebar',
-            sidebarId: 'degrees',
-            position: 'left',
-            label: 'Degrees',
+            type: "docSidebar",
+            sidebarId: "enterprise",
+            position: "left",
+            label: "Enterprise",
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'enterprise',
-            position: 'left',
-            label: 'Enterprise',
+            type: "docSidebar",
+            sidebarId: "opportunity",
+            position: "left",
+            label: "Opportunity",
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'skills',
-            position: 'left',
-            label: 'Skills',
+            type: "docSidebar",
+            sidebarId: "degrees",
+            position: "left",
+            label: "Degrees",
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'prakerja',
-            position: 'left',
-            label: 'Prakerja',
+            type: "docSidebar",
+            sidebarId: "skills",
+            position: "left",
+            label: "Skills",
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'faq',
-            position: 'left',
-            label: 'FAQ',
+            type: "docSidebar",
+            sidebarId: "prakerja",
+            position: "left",
+            label: "Prakerja",
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
           {
-            type: 'localeDropdown',
-            position: 'right',
+            type: "docSidebar",
+            sidebarId: "lms",
+            position: "left",
+            label: "LMS",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "userprofile",
+            position: "left",
+            label: "User Profile",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "others",
+            position: "left",
+            label: "Others",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "faq",
+            position: "left",
+            label: "FAQ",
+          },
+          { to: "/blog", label: "Blog", position: "right" },
+          {
+            type: "localeDropdown",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Degree',
-                to: '/docs/degrees/introduction',
+                label: "Degree",
+                to: "/docs/degrees/introduction",
               },
               {
-                label: 'Enterprise',
-                to: '/docs/enterprise/introduction',
+                label: "Enterprise",
+                to: "/docs/enterprise/introduction",
               },
               {
-                label: 'FAQ',
-                to: '/docs/faq/introduction',
+                label: "FAQ",
+                to: "/docs/faq/introduction",
               },
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
             ],
           },
           {
-            title: 'Social',
+            title: "Social",
             items: [
               {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/pintar_co',
+                label: "Instagram",
+                href: "https://www.instagram.com/pintar_co",
               },
               {
-                label: 'Tik Tok',
-                href: 'https://www.tiktok.com/@pintar_co',
+                label: "Tik Tok",
+                href: "https://www.tiktok.com/@pintar_co",
               },
               {
-                label: 'Linked In',
-                href: 'https://www.linkedin.com/company/pintarco/',
+                label: "Linked In",
+                href: "https://www.linkedin.com/company/pintarco/",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/Pintar-Pemenang-Asia/help.pintar.co',
+                label: "GitHub",
+                href: "https://github.com/Pintar-Pemenang-Asia/help.pintar.co",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
                 label: "About Us",
@@ -169,7 +195,7 @@ const config = {
               {
                 label: "Contact Us",
                 to: "https://pintar.co/page/contact-us",
-              }
+              },
             ],
           },
         ],
