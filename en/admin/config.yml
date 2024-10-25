@@ -23,7 +23,7 @@ i18n:
 
 collections:
   - name: enterprise
-    label: "enterprise"
+    label: "Enterprise"
     folder: "contents/docs/enterprise"
     identifier_field: title
     extension: md
@@ -51,7 +51,7 @@ collections:
         i18n: true
 
   - name: opportunity
-    label: "opportunity"
+    label: "Opportunity"
     folder: "contents/docs/opportunity"
     identifier_field: title
     extension: md
@@ -79,7 +79,7 @@ collections:
         i18n: true
 
   - name: degrees
-    label: "degrees"
+    label: "Degrees"
     folder: "contents/docs/degrees"
     identifier_field: title
     extension: md
@@ -107,7 +107,7 @@ collections:
         i18n: true
 
   - name: skills
-    label: "skills"
+    label: "Skills"
     folder: "contents/docs/skills"
     identifier_field: title
     extension: md
@@ -135,7 +135,7 @@ collections:
         i18n: true
 
   - name: prakerja
-    label: "prakerja"
+    label: "Prakerja"
     folder: "contents/docs/prakerja"
     identifier_field: title
     extension: md
