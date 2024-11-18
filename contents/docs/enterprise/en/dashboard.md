@@ -39,8 +39,7 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 
    Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
 
-   a. Aktivitas Kursus
-    Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan
+   a. Aktivitas Kursus (Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan)
 
    ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
@@ -50,8 +49,7 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 
 
 
-   b. Riwayat Kursus
-    Bagian ini akan menampilkan kelas yang sudah dikerjakan
+   b. Riwayat Kursus (Bagian ini akan menampilkan kelas yang sudah dikerjakan)
 
    ![](/img/Enterprise-LMS-Dashboard_1.3.png)
 
