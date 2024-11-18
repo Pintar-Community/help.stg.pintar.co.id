@@ -2,7 +2,7 @@
 title: Dashboard
 sidebar_position: 2
 ---
-# 1. Login
+# 1. Login`#`
 
 ![](/img/Enterprise-LMS-Login_1.3.png)
 
@@ -23,7 +23,7 @@ Setelah Anda berhasil untuk Login, maka akan muncul tampilan Dashboard seperti i
 
 ![](/img/Enterprise-LMS-Login_1.4.png)
 
-# 2. Menur Dashboard
+# 2. Menu Dashboard
 
 Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, dan Aktivitas.
 

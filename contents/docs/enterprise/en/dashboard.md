@@ -2,7 +2,7 @@
 title: Dashboard
 sidebar_position: 2
 ---
-# 1. Login
+# 1. Login`#`
 
 ![](/img/Enterprise-LMS-Login_1.3.png)
 
