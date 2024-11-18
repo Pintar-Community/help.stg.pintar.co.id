@@ -29,16 +29,21 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 
 ![](/img/dashboard.jpg)
 
-1. **Progress**
+**1. Progress**
 
-   Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci.
-2. **Durasi Belajar**
+Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci
 
-   Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti.
-3. **Aktivitas**
-   Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
+**2. Durasi Belajar**
 
-a. Aktivitas Kursus (Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan)
+Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti
+
+**3. Aktivitas**
+
+Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
+
+a. Aktivitas Kursus
+
+Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan
 
 ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
@@ -46,7 +51,9 @@ a. Aktivitas Kursus (Bagian ini akan menampilkan kelas yang sedang atau akan dik
 2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
 3. Progress : Bagian ini menunjukkan presentase progress dari kursus yang sedang dikerjakan
 
-b. Riwayat Kursus (Bagian ini akan menampilkan kelas yang sudah dikerjakan)
+b. Riwayat Kursus
+
+Bagian ini akan menampilkan kelas yang sudah dikerjakan
 
 ![](/img/Enterprise-LMS-Dashboard_1.3.png)
 
