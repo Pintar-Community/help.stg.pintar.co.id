@@ -38,23 +38,21 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 3. **Aktivitas**
    Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
 
-   a. Aktivitas Kursus (Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan)
+a. Aktivitas Kursus (Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan)
 
-   ![](/img/Enterprise-LMS-Dashboard_1.2.png)
+![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
-   1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
-   2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
-   3. Progress : Bagian ini menunjukkan presentase progress dari kursus yang sedang dikerjakan
+1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sedang dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
+2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
+3. Progress : Bagian ini menunjukkan presentase progress dari kursus yang sedang dikerjakan
 
+b. Riwayat Kursus (Bagian ini akan menampilkan kelas yang sudah dikerjakan)
 
+![](/img/Enterprise-LMS-Dashboard_1.3.png)
 
-   b. Riwayat Kursus (Bagian ini akan menampilkan kelas yang sudah dikerjakan)
-
-   ![](/img/Enterprise-LMS-Dashboard_1.3.png)
-
-   1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sudah dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
-   2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
-   3. Status : Bagian ini menunjukkan status dari pengerjaan kursus tersebut.
+1. Judul Kursus : Bagian ini merupakan judul - judul kelas yang sudah dikerjakan. Anda dapat klik judulnya dan akan langsung diarahkan kedalam isi kursus tersebut.
+2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
+3. Status : Bagian ini menunjukkan status dari pengerjaan kursus tersebut.
 
 
 
