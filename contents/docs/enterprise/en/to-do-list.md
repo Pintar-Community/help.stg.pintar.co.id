@@ -21,3 +21,9 @@ Bagian ini berisi informasi terkait Live Session atau kelas yang dilaksanakan pa
 Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan dilaksanakan pada tanggal mendekati dari saat Anda sedang menggunakan LMS.
 
 ![](/img/Enterprise-LMS-Dashboard_1.6.png)
+
+###### Cara menampilkan To-do List secara keseluruhan :
+
+1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”
+
+![](/img/to-do-list.jpg)
