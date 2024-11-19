@@ -15,3 +15,9 @@ Bagian ini beirisi informasi terkait tugas-tugas yang belum dan harus dikerjakan
 Bagian ini berisi informasi terkait Live Session atau kelas yang dilaksanakan pada hari Anda sedang mengakses LMS.
 
 ![](/img/Enterprise-LMS-Dashboard_1.5.png)
+
+**3. Acara Akan Datang**
+
+Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan dilaksanakan pada tanggal mendekati dari saat Anda sedang menggunakan LMS.
+
+![](/img/Enterprise-LMS-Dashboard_1.6.png)
