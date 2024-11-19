@@ -35,3 +35,7 @@ Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan di
 3. Klik kegiatan yang akan Anda laksanakan (contoh : seperti gambar)
 
 ![](/img/to-do-list-3.jpg)
+
+4. Kemudian akan diarahkan pada kegiatan yang akan dilaksanakan (seperti : Tugas/Ujian/Live Session) yang terdapat pada To-do List
+
+![](/img/to-do-list-4.jpg)
