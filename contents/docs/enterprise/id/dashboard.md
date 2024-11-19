@@ -29,15 +29,15 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 
 ![](/img/dashboard.jpg)
 
-**1. Progress**
+###### **1. Progress**
 
 Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci
 
-**2. Durasi Belajar**
+##### **2. Durasi Belajar**
 
 Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti
 
-**3. Aktivitas**
+##### **3. Aktivitas**
 
 Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riwayat kelas yang sudah dikerjakan
 
