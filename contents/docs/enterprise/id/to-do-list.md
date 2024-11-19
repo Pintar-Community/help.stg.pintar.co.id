@@ -27,3 +27,7 @@ Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan di
 1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”
 
 ![](/img/to-do-list.jpg)
+
+2. Setelah klik button Lihat Semua, maka akan muncul tampilan secara keseluruhan untuk Daftar Kegiatan seperti gambar berikut
+
+![](/img/to-do-list-2.jpg)
