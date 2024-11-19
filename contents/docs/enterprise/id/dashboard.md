@@ -2,7 +2,7 @@
 title: Dashboard
 sidebar_position: 1
 ---
-# 1. Login
+## 1. Login
 
 ![](/img/Enterprise-LMS-Login_1.3.png)
 
@@ -23,7 +23,7 @@ Setelah Anda berhasil untuk Login, maka akan muncul tampilan Dashboard seperti i
 
 ![](/img/Enterprise-LMS-Login_1.4.png)
 
-# 2. Menu Dashboard
+## 2. Menu Dashboard
 
 Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, dan Aktivitas.
 
@@ -61,7 +61,7 @@ Bagian ini akan menampilkan kelas yang sudah dikerjakan
 2. Tipe : Bagian ini merupakan tipe dari pengerjaan kursus tersebut.
 3. Status : Bagian ini menunjukkan status dari pengerjaan kursus tersebut.
 
-# 3. Edit Profile
+## 3. Edit Profile
 
 Dalam Halaman “Edit Profile” Anda dapat mengisi data diri/biodata, keterampilan dan skill yang dapat diinformasikan untuk kebutuhan.
 
