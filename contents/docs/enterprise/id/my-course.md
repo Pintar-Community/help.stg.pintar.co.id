@@ -157,8 +157,15 @@ pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catat
 
 * Materi berupa PDF.
 
-  ![]()
+  ![](/img/my-course-17.png)
+
+![](/img/my-course-18.png)
+
 * Materi berupa PPT.
+
+![](/img/my-course-19.png)
+
+![](/img/my-course-20.png)
 
 **e.  Diskusi**
 
