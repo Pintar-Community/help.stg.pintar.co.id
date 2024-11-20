@@ -52,18 +52,26 @@ Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk settingan kec
 
 Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
 
+![](/img/2.4.png)
+
  Pada konten Video ini juga terdapat Catatan dan Komentar.
 
 * **Catatan** 
+
+  ![](/img/2.5.png)
 
  Fitur Catatan ini terdapat pada konten Video dan Dokumen. Setiap LMS peserta
 mempunyai fitur ini yang berguna untuk membantu Anda mencatat hal-hal yang
 penting saat sedang melakukan pemutaran video agar lebih mudah untuk dibaca
 kembali dan dapat tersimpan rapi.
 
+![](/img/2.6.png)
+
 1.     Tambah Catatan : Anda dapat menambahkan catatan penting pada kolom ini. Anda dapat menambahkan catatan sebanyak yang diinginkan.
 
 2.    Edit dan Delete Notes : Anda dapat mengedit dan menghapus catatan yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh Peserta itu sendiri, tidak akan bisa terlihat oleh Peserta lainnya.
+
+![](/img/2.7.png)
 
 3.     Jumlah Notes : Pada poin nomor 3,  Anda dapat melihat jumlah catatan yang telah di input
 
