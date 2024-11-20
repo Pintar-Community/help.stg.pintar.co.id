@@ -65,7 +65,7 @@ Bagian ini akan menampilkan kelas yang sudah dikerjakan
 
 Dalam Halaman “Edit Profile” Anda dapat mengisi data diri/biodata, keterampilan dan skill yang dapat diinformasikan untuk kebutuhan.
 
-## Cara mengedit Profile :
+#### Cara mengedit Profile :
 
 1. Klik ikon profile pada pojok kanan atas seperti tampilan berikut
 
