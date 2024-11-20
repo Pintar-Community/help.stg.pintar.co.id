@@ -1,5 +1,5 @@
 ---
-title: To-do List
+title: (Learner) To-do List
 sidebar_position: 2
 ---
 Bagian ini berisi reminder kegiatan dan tugas-tugas yang harus dikerjakan. To-do List terdiri dari 3 bagian yaitu ; Tugas yang belum dikerjakan, Acara hari ini, dan Acara yang akan datang.
