@@ -167,6 +167,80 @@ pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catat
 
 ![](/img/my-course-20.png)
 
-**e.  Diskusi**
+**e. Diskusi**
+
+![](/img/my-course-21.jpg)
 
 Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan dan dijawab
+1.     Berisi soal diskusi
+
+2.     Terdapat Due Date/Tenggat Waktu untuk menjawab diskusi oleh students
+
+3.     Anda dapat memberikan jawaban dari pertanyaan diskusi tersebut pada kolom “Add your answer”
+
+4.     Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
+
+5.     Jawaban yang sudah disubmit, akan muncul pada menu Diskusi seperti gambar di bawah ini
+
+![](/img/my-course-22.jpg)
+
+ **f. Assignment/Tugas**
+
+![](/img/my-course-23.jpg)
+
+ Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan. Pada bagian ini akan menampilkan soal Tugas beserta Start Date, Due Date, dan Status Pengerjaan.
+
+
+
+Cara submit jawaban Tugas :
+
+1.     Anda dapat menjawab soal Tugas berupa Teks dengan membuat jawabannya pada kolom “Tambahkan Jawaban”
+
+2.     Anda juga dapat menjawab soal Tugas dengan melampirkan dokumen pada kolom “Unggah Dokumen" 
+
+3.     Apabila sudah dijawab, kemudian klik button kirim                                   
+4.     Jawaban yang sudah disubmit dan dinilai, akan muncul pada tampilan Tugas seperti gambar di bawah ini                            
+5.           Selama batas waktu belum berakhir dan belum dinilai oleh Pengajar, Anda masih dapat melakukan perubahan jawaban dengan cara klik button “Ubah Jawaban”
+
+**3.  Nilai**
+
+Pada menu Nilai akan menampilkan nilai akhir, peringkat dan komponen nilai. 
+
+Anda juga dapat melihat detail peringkat teman sekelas dengan cara klik “Lihat Detail”
+
+Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
+
+**4.  Catatan**
+
+ Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar)*
+
+**5.   Forum**
+
+ Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskusi mengenai kelas tersebut. 
+
+Cara untuk membuat Forum :
+
+1.     Anda dapat kilk + **Add Thread** pada pojok kanan atas
+
+2.     Kemudian akan muncul tampilan seperti gambar
+
+3.     Tuliskan Judul dan Deskripsi
+
+4.     Kemudian klik tombol Kirim pada pojok kanan bawah
+
+Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum
+seperti gambar di bawah ini.
+
+ 
+
+Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar begitupun
+sebaliknya.
+
+**5.     Recordings**
+
+Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga
+Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+
+**b.   Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
+
+[](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan.
