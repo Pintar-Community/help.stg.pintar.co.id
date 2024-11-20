@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Halaman ini akan terbagi menjadi 2 bagian yaitu Kursus Wajib dan Katalog.
 
-#### a. Kursus Wajib[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#1-kursus-wajib)
+## a. Kursus Wajib[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#1-kursus-wajib)
 
 Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di assigned melalui Admin yang menjalankan Program tersebut. Pada menu ini, Anda dapat langsung masuk ke tampilan kelas dengan cara klik **Mulai.**
 
@@ -14,13 +14,13 @@ Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di 
 
 Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti gambar di bawah ini. Menu-menu yang terdapat pada tampilan kelas adalah Ringkasan, Konten Kursus, Nilai, Catatan, Forum, Recordings, dan Survey.
 
-#### 1. Ringkasan
+### 1. Ringkasan
 
 ![](/img/1.jpg)
 
 Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran.
 
-#### 2. Konten Kursus
+### 2. Konten Kursus
 
 ![](/img/2.png)
 
@@ -29,30 +29,30 @@ Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia 
 
 **Konten-konten di setiap Sesi :**
 
-###### a. Video
+**a. Video**
 
 Pada bagian ini berisi konten berupa Video. Anda dapat mengatur resolusi video yang ditampilkan, mengatur kecepatan video, dan membuka
 tampilan video dengan cara full screen.
 
 * **Resolution**
 
-Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
+  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
 
 ![](/img/2.2.png)
 
 * **Kecepatan Video**
 
-Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
+  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
 
 ![](/img/2.3.png)
 
 * **Full Screen**
 
-Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
+  Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
 
 ![](/img/2.4.png)
 
- Pada konten Video ini juga terdapat Catatan dan Komentar.
+ Pada konten Video ini juga terdapat menu Catatan dan Komentar.
 
 * **Catatan** 
 
@@ -72,7 +72,7 @@ kembali dan dapat tersimpan rapi.
 
 * **Komentar**
 
-Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
+  Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
 
 ##### Cara membuat Komentar :
 
@@ -114,25 +114,25 @@ Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada 
 
 ![](/img/2.12.png)
 
- 5. Setelah klik Kirim, maka pada tampilan Quiz akan muncul nilai yang diperoleh.
+5. Setelah klik Kirim, maka pada tampilan Quiz akan muncul nilai yang diperoleh.
 
 ![](/img/2.13.png)
 
- 6. Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
+6. Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
 
 ![](/img/2.14.png)
 
- 7. Kemudian Anda juga dapat memeriksa jawaban dengan klik **Periksa Jawaban.** Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
+7. Kemudian Anda juga dapat memeriksa jawaban dengan klik **Periksa Jawaban.** Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
 
 **NOTE :** Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
 
 
-###### **c. Live Session**
+**c. Live Session**
 
 Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas yang sudah ditentukan. 
 
-###### **Cara join ke Live Session :**
+**Cara join ke Live Session :**
 
 1. Pilih menu Live Session
 
@@ -189,7 +189,7 @@ Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan. Pada bagian 
 
 ![](/img/my-course-25.jpg)
 
-###### Cara submit jawaban Tugas :
+**Cara submit jawaban Tugas :**
 
 1. Anda dapat menjawab soal Tugas berupa Teks dengan membuat jawabannya pada kolom “Tambahkan Jawaban”
 
@@ -205,7 +205,7 @@ Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan. Pada bagian 
 
 ![](/img/my-course-27.jpg)
 
-#### **3. Nilai**
+### **3. Nilai**
 
 ![](/img/my-course-28.png)
 
@@ -221,7 +221,7 @@ Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan n
 
 ![](/img/my-course-31.png)
 
-#### **4.  Catatan**
+### **4. Catatan**
 
 ![](/img/my-course-32.png)
 
@@ -229,13 +229,13 @@ Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda cata
 
 ![](/img/my-course-33.png)
 
-#### **5. Forum**
+### **5. Forum**
 
 ![](/img/my-course-34.png)
 
 Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskusi mengenai kelas tersebut. 
 
-###### Cara untuk membuat Forum :
+**Cara untuk membuat Forum :**
 
 1. Anda dapat kilk + **Add Thread** pada pojok kanan atas
 
@@ -258,18 +258,17 @@ Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar beg
 
 ![](/img/my-course-38.png)
 
-#### **6. Recordings**
+### **6. Recordings**
 
 ![](/img/my-course-39.jpg)
 
-Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga
-Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. 
+Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. 
 
 Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
 
 ![](/img/my-course-40.jpg)
 
-**b. Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
+## **b. Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
 
 [](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan.
 
