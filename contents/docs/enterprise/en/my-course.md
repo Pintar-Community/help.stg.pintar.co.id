@@ -24,7 +24,6 @@ Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia 
 
 ![](/img/2.png)
 
-
 1.     Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. 
 
 2.     Pada setiap sesi terdiri dari beberapa konten berupa Artikel, Dokumen, Video, dan Live Session. Serta berisi tugas-tugas berupa Diskusi, Quiz, Individual Assignment/Exam.
@@ -71,8 +70,6 @@ kembali dan dapat tersimpan rapi.
 
 2.    Edit dan Delete Notes : Anda dapat mengedit dan menghapus catatan yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh Peserta itu sendiri, tidak akan bisa terlihat oleh Peserta lainnya.
 
-![](/img/2.7.png)
-
 3.     Jumlah Notes : Pada poin nomor 3,  Anda dapat melihat jumlah catatan yang telah di input
 
 4.    Durasi Notes : Pada poin nomor 4, Anda dapat melihat durasi waktu catatan dirilis
@@ -87,25 +84,31 @@ Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur
 
 2.     Klik button Kirim
 
+![](/img/2.7.png)
+
 3.     Komentar Anda akan muncul pada kolom komentar seperti gambar di bawah ini
 
-b.      Quiz
+![](/img/2.8.png)
+
+**b.      Quiz**
 
 Pada bagian ini, Anda diwajibkan untuk mengerjakan Quiz. Pada tampilan Quiz ini akan terdiri dari jumlah pertanyaan, durasi pelaksanaan, jumlah pengulangan, dan nilai minimum.
 
 **Cara menjawab Quiz :**
 
-1.     Klik button Mulai Quiz sepertigambar
+1.     Klik button Mulai Quiz seperti gambar
+
+![](/img/2.9.png)
 
 2.     Kemudian akan muncul tampilan Quiz seperti berikut
+
+![](/img/2.10.png)
 
 \-         Dapat dilihat di pojok kanan atas yang berwarna Hijau menunjukan durasi pengerjaan yang telah diberikan oleh pengajar untuk peserta mengerjakan quiz tersebut.
 
 \-         Pada pojok kiri bawah terdapat tombol Back. Anda dapat mengecek ulang jawaban pada soal sebelumnya
 
 \-         Pada pojok kanan bawah terdapat tombol Next yang dapat digunakan untuk melihat soal selanjutnya.
-
- 
 
 3.     Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar. Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
 
