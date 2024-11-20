@@ -97,87 +97,35 @@ Cara menjawab Quiz :
 
  
 
-3.     Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar
+3.     Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar. Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
 
- Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang
-tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan
-jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
+4.     Setelah klik submit, akan muncul pop up final submission seperti gambar. Pada bagian ini Anda diharapkan untuk dapat memastikan kembali apakah jawaban sudah benar sebelum submit. Jika sudah yakin, kemudian klik button Kirim.
 
-4.     
-Setelah klik submit, akan muncul pop
-up final submission seperti gambar. Pada bagian ini Anda diharapkan untuk dapat
-memastikan kembali apakah jawaban sudah benar sebelum submit. Jika sudah yakin,
-kemudian klik button Kirim.
+ 5.     Setelah klik Kirim, maka pada tampilan Quiz akan muncul nilai yang diperoleh.
 
- 
+ 6.     Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
 
-5.     
-Setelah klik Kirim, maka pada
-tampilan Quiz akan muncul nilai yang diperoleh.
+ 7.     Kemudian Anda juga dapat memeriksa jawaban dengan klik Periksa Jawaban. Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
 
- 
+NOTE : Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
-6.     
-Apabila pada tampilan Quiz Anda terdapat
-button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat
-mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
+ c.      Live Session
 
- 
+Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas yang sudah ditentukan. 
 
- 
+ Cara join ke Live Session :
 
-7.     
-Kemudian Anda juga dapat memeriksa
-jawaban dengan klik Periksa Jawaban.
-Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih
-tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
+1.     Pilih menu Live Session
 
-NOTE : Setiap
-Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis
-berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari
-halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
+2.     Klik button Join
 
- 
+3.     Apabila Anda sudah join kedalam room Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
 
-c.      
-Live Session
+ 4.     Anda sudah dapat melaksanakan Live Session
 
-Pada bagian Live Session ini, seluruh peserta kelas akan
-melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live
-Session sesuai dengan jadwal kelas yang sudah ditentukan. 
+ d.      Document
 
- 
+Pada bagian ini,berisi materi berupa dokumen seperti PDF/PPT. Materi tersebut dapat dilihat secara full screen dan bisa didownload apabila Anda ingin membaca materi
+pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catatan dan Komen seperti pada konten Video sebelumnya.
 
-Cara join ke
-Live Session :
-
-1.     
-Pilih menu Live Session
-
-2.     
-Klik button Join
-
- 
-
-3.     
-Apabila Anda sudah join kedalam room
-Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
-
- 
-
-4.     
-Anda sudah dapat melaksanakan Live
-Session
-
- 
-
-d.      Document
-
-Pada bagian
-ini,berisi materi berupa dokumen seperti PDF/PPT. Materi tersebut dapat dilihat
-secara full screen dan bisa didownload apabila Anda ingin membaca materi
-pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catatan
-dan Komen seperti pada konten Video sebelumnya.
-
-\-         
-Materi berupa PDF.
+\-         Materi berupa PDF.
