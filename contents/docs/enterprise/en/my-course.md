@@ -16,13 +16,13 @@ Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti g
 
 ###### 1. Ringkasan
 
-![]()
+![](/img/1.jpg)
 
 Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran.
 
 ###### 2. Konten Kursus
 
-![]()
+![](/img/2.png)
 
 
 1.     Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. 
@@ -40,9 +40,13 @@ tampilan video dengan cara full screen.
 
 Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
 
+![](/img/2.2.png)
+
 * **Kecepatan Video**
 
 Fitur ini terdapat pada pojok kanan bawah video yang berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
+
+![](/img/2.3.png)
 
 *  **Full Screen**
 
@@ -69,9 +73,7 @@ kembali dan dapat tersimpan rapi.
 
 Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
 
- 
-
-Cara membuat Komentar :
+ Cara membuat Komentar :
 
 1.     Anda dapat membuat komentar pada kolom Tambahan Komentar
 
@@ -83,7 +85,7 @@ b.      Quiz
 
 Pada bagian ini, Anda diwajibkan untuk mengerjakan Quiz. Pada tampilan Quiz ini akan terdiri dari jumlah pertanyaan, durasi pelaksanaan, jumlah pengulangan, dan nilai minimum.
 
-Cara menjawab Quiz :
+**Cara menjawab Quiz :**
 
 1.     Klik button Mulai Quiz sepertigambar
 
@@ -105,15 +107,15 @@ Cara menjawab Quiz :
 
  6.     Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
 
- 7.     Kemudian Anda juga dapat memeriksa jawaban dengan klik Periksa Jawaban. Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
+ 7.     Kemudian Anda juga dapat memeriksa jawaban dengan klik **Periksa Jawaban.** Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
 
-NOTE : Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
+**NOTE :** Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
- c.      Live Session
+ **c.      Live Session**
 
 Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas yang sudah ditentukan. 
 
- Cara join ke Live Session :
+ **Cara join ke Live Session :**
 
 1.     Pilih menu Live Session
 
@@ -121,11 +123,16 @@ Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langs
 
 3.     Apabila Anda sudah join kedalam room Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
 
- 4.     Anda sudah dapat melaksanakan Live Session
+4.     Anda sudah dapat melaksanakan Live Session
 
- d.      Document
+ **d. Document**
 
 Pada bagian ini,berisi materi berupa dokumen seperti PDF/PPT. Materi tersebut dapat dilihat secara full screen dan bisa didownload apabila Anda ingin membaca materi
 pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catatan dan Komen seperti pada konten Video sebelumnya.
 
-\-         Materi berupa PDF.
+* Materi berupa PDF.
+* Materi berupa PPT.
+
+**e.  Diskusi**
+
+Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan dan dijawab
