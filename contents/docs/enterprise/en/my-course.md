@@ -190,7 +190,9 @@ Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan
 
  Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan. Pada bagian ini akan menampilkan soal Tugas beserta Start Date, Due Date, dan Status Pengerjaan.
 
+![](/img/my-course-24.jpg)
 
+![](/img/my-course-25.jpg)
 
 Cara submit jawaban Tugas :
 
@@ -200,21 +202,41 @@ Cara submit jawaban Tugas :
 
 3.     Apabila sudah dijawab, kemudian klik button kirim                                   
 4.     Jawaban yang sudah disubmit dan dinilai, akan muncul pada tampilan Tugas seperti gambar di bawah ini                            
+
+![](/img/my-course-26.jpg)
+
+
 5.           Selama batas waktu belum berakhir dan belum dinilai oleh Pengajar, Anda masih dapat melakukan perubahan jawaban dengan cara klik button “Ubah Jawaban”
+
+![](/img/my-course-27.jpg)
 
 **3.  Nilai**
 
+![](/img/my-course-28.png)
+
 Pada menu Nilai akan menampilkan nilai akhir, peringkat dan komponen nilai. 
+
+![](/img/my-course-29.png)
 
 Anda juga dapat melihat detail peringkat teman sekelas dengan cara klik “Lihat Detail”
 
+![](/img/my-course-30.png)
+
 Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
+
+![](/img/my-course-31.png)
 
 **4.  Catatan**
 
+![](/img/my-course-32.png)
+
  Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar)*
 
+![](/img/my-course-33.png)
+
 **5.   Forum**
+
+![](/img/my-course-34.png)
 
  Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskusi mengenai kelas tersebut. 
 
@@ -222,7 +244,11 @@ Cara untuk membuat Forum :
 
 1.     Anda dapat kilk + **Add Thread** pada pojok kanan atas
 
+![](/img/my-course-35.jpg)
+
 2.     Kemudian akan muncul tampilan seperti gambar
+
+![](/img/my-course-36.jpg)
 
 3.     Tuliskan Judul dan Deskripsi
 
@@ -231,16 +257,26 @@ Cara untuk membuat Forum :
 Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum
 seperti gambar di bawah ini.
 
- 
+![](/img/my-course-37.jpg)
 
 Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar begitupun
 sebaliknya.
 
-**5.     Recordings**
+![](/img/my-course-38.png)
+
+**6.     Recordings**
+
+![](/img/my-course-39.jpg)
 
 Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga
-Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. 
+
+Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+
+![](/img/my-course-40.jpg)
 
 **b.   Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
 
 [](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan.
+
+![](/img/my-course-41.png)
