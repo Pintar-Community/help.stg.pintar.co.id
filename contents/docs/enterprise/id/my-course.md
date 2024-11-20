@@ -110,13 +110,23 @@ Pada bagian ini, Anda diwajibkan untuk mengerjakan Quiz. Pada tampilan Quiz ini 
 
 \-         Pada pojok kanan bawah terdapat tombol Next yang dapat digunakan untuk melihat soal selanjutnya.
 
-3.     Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar. Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
+3.     Apabila Anda sudah menjawab semua pertanyaan pada Quiz tersebut, kemudian akan muncul tampilan seperti di gambar. 
+
+![](/img/2.11.png)
+
+Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada yang kurang tepat sebelum submit. Kemudian jika sudah dipastikan benar dan yakin dengan jawaban yang telah diisi, maka Anda dapat klik tombol Submit.
 
 4.     Setelah klik submit, akan muncul pop up final submission seperti gambar. Pada bagian ini Anda diharapkan untuk dapat memastikan kembali apakah jawaban sudah benar sebelum submit. Jika sudah yakin, kemudian klik button Kirim.
 
+![](/img/2.12.png)
+
  5.     Setelah klik Kirim, maka pada tampilan Quiz akan muncul nilai yang diperoleh.
 
+![](/img/2.13.png)
+
  6.     Apabila pada tampilan Quiz Anda terdapat button Ulangi setelah melakukan submit jawaban, maka Anda masih dapat mengulangi untuk menjawab Quiz tersebut sampai batas pengulangan *(perhatikan gambar)*
+
+![](/img/2.14.png)
 
  7.     Kemudian Anda juga dapat memeriksa jawaban dengan klik **Periksa Jawaban.** Namun, apabila Anda sudah klik Periksa Jawaban saat Sisa Pengulangan masih tersedia, maka Sisa Pengulangan akan otomatis terhapus atau 0.
 
@@ -132,7 +142,11 @@ Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langs
 
 2.     Klik button Join
 
+![](/img/2.15.png)
+
 3.     Apabila Anda sudah join kedalam room Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
+
+![](/img/2.16.png)
 
 4.     Anda sudah dapat melaksanakan Live Session
 
@@ -142,6 +156,8 @@ Pada bagian ini,berisi materi berupa dokumen seperti PDF/PPT. Materi tersebut da
 pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catatan dan Komen seperti pada konten Video sebelumnya.
 
 * Materi berupa PDF.
+
+  ![]()
 * Materi berupa PPT.
 
 **e.  Diskusi**
