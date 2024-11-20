@@ -17,3 +17,11 @@ Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti g
 ###### 1. Ringkasan
 
 ![]()
+
+Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran.
+
+###### 2. Konten Kursus
+
+![]()
+
+######

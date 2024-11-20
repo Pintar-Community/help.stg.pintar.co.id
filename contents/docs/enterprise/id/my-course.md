@@ -12,8 +12,16 @@ Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di 
 
 ![](/img/Enterprise-LMS-My-Course_1.2.png)
 
-Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti gambar di bawah ini. Menu-menu yang terdapat pada tampilan kelas adalah Ringkasan, Konten Kursus, Nilai, Catatan, Forum, Recordings, dan Survey.\
+Apabila Anda sudah masuk ke kelas, kemudian akan muncul tampilan kelas seperti gambar di bawah ini. Menu-menu yang terdapat pada tampilan kelas adalah Ringkasan, Konten Kursus, Nilai, Catatan, Forum, Recordings, dan Survey.
 
 **1. Ringkasan**
 
 ![]()
+
+Pada bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran.
+
+###### 2. Konten Kursus
+
+![]()
+
+######
