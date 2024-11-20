@@ -4,7 +4,7 @@ sidebar_position: 2
 ---
 Bagian ini berisi reminder kegiatan dan tugas-tugas yang harus dikerjakan. To-do List terdiri dari 3 bagian yaitu ; Tugas yang belum dikerjakan, Acara hari ini, dan Acara yang akan datang.
 
-1. ##### Tugas Yang Belum Dikerjakan
+##### 1. Tugas Yang Belum Dikerjakan
 
 Bagian ini beirisi informasi terkait tugas-tugas yang belum dan harus dikerjakan disertai batas waktu pengerjaan.
 
@@ -22,7 +22,7 @@ Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan di
 
 ![](/img/Enterprise-LMS-Dashboard_1.6.png)
 
-###### Cara menampilkan To-do List secara keseluruhan :
+### Cara menampilkan To-do List secara keseluruhan :
 
 1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”
 
@@ -32,10 +32,10 @@ Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan di
 
 ![](/img/to-do-list-2.jpg)
 
-3. Klik kegiatan yang akan Anda laksanakan (contoh : seperti gambar)
+3. Klik kegiatan yang akan Anda laksanakan (*contoh : seperti gambar*)
 
 ![](/img/to-do-list-3.jpg)
 
-4. Kemudian akan diarahkan pada kegiatan yang akan dilaksanakan (seperti : Tugas/Ujian/Live Session) yang terdapat pada To-do List
+4. Kemudian akan diarahkan pada kegiatan yang akan dilaksanakan (*seperti : Tugas/Ujian/Live Session*) yang terdapat pada To-do List
 
 ![](/img/to-do-list-4.jpg)
