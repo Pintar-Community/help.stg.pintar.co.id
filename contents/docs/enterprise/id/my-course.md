@@ -213,7 +213,7 @@ Anda juga dapat melihat detail peringkat teman sekelas dengan cara klik “Lihat
 
 ![](/img/my-course-30.png)
 
-Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
+Anda juga dapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
 
 ![](/img/my-course-31.png)
 
@@ -221,7 +221,7 @@ Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan n
 
 ![](/img/my-course-32.png)
 
-Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar).*
+Catatan yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar).*
 
 ![](/img/my-course-33.png)
 
