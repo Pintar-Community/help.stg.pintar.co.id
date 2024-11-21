@@ -8,7 +8,7 @@ Halaman ini akan terbagi menjadi 2 bagian yaitu Kursus Wajib dan Katalog.
 
 ## a. Kursus Wajib[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#1-kursus-wajib)
 
-Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di assigned melalui Admin yang menjalankan Program tersebut. Pada menu ini, Anda dapat langsung masuk ke tampilan kelas dengan cara klik **Mulai.**
+Pada menu ini, Kursus yang akan muncul adalah kelas-kelas yang memang khusus di assigned melalui Admin yang menjalankan Program tersebut. Pada menu ini, Anda dapat langsung masuk ke tampilan kelas dengan cara klik "Mulai".
 
 ![](/img/Enterprise-LMS-My-Course_1.2.png)
 
@@ -74,6 +74,8 @@ kembali dan dapat tersimpan rapi.
 
   Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
 
+
+
 ##### Cara membuat Komentar :
 
 1. Anda dapat membuat komentar pada kolom Tambahan Komentar
@@ -92,7 +94,7 @@ Pada bagian ini, Anda diwajibkan untuk mengerjakan Quiz. Pada tampilan Quiz ini 
 
 **Cara menjawab Quiz :**
 
-1. Klik button Mulai Quiz seperti gambar
+1. Klik button Mulai Quiz
 
 ![](/img/2.9.png)
 
@@ -126,8 +128,6 @@ Pada bagian pojok kiri bawah, Anda dapat kembali untuk merubah jawaban jika ada 
 
 **NOTE :** Setiap Anda klik “take quiz” atau “retake quiz”, maka jumlah attempt akan otomatis berkurang. Meskipun Anda tidak menyelesaikan seluruh soal quiz atau keluar dari halaman quiz tanpa menyelesaikan, jumlah attempt akan tetap berkurang.
 
-
-
  **c. Live Session**
 
 Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langsung dengan Pengajar menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas yang sudah ditentukan. 
@@ -144,9 +144,7 @@ Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langs
 
 ![](/img/2.16.png)
 
-4. Anda sudah dapat melaksanakan Live Session
-
-
+3. Anda sudah dapat melaksanakan Live Session
 
  **d. Document**
 
@@ -167,9 +165,9 @@ pelatihan tanpa membuka LMS. Dalam fitur dokumen ini juga mempunyai bagian Catat
 
 **e. Diskusi**
 
-![](/img/my-course-21.jpg)
-
 Pada bagian ini, terdapat pertanyaan diskusi dari Pengajar yang dapat dikerjakan dan dijawab.
+
+![](/img/my-course-21.jpg)
 
 1. Berisi soal diskusi
 2. Terdapat Due Date/Tenggat Waktu untuk menjawab diskusi oleh students
@@ -246,7 +244,6 @@ Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskus
 ![](/img/my-course-36.jpg)
 
 3. Tuliskan Judul dan Deskripsi
-
 4. Kemudian klik tombol Kirim pada pojok kanan bawah
 
 Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum
