@@ -198,7 +198,7 @@ This section displays the assignments that need to be completed. It includes det
 
 ![](/img/my-course-27.jpg)
 
-### **3. Grade**
+### **3. Grades**
 
 ![](/img/my-course-28.png)
 
