@@ -1,5 +1,5 @@
 ---
-title: (Learner) To-do List
+title: To-do List
 sidebar_position: 2
 ---
 This section contains reminders for activities and tasks that need to be completed. The To-Do List is divided into three parts: Unfinished Grading, Today's Events, and Upcoming Events.
@@ -22,20 +22,20 @@ This section contains information about upcoming live sessions or classes schedu
 
 ![](/img/Enterprise-LMS-Dashboard_1.6.png)
 
-#### How to View the Complete To-Do List : 
+#### How to View the Complete To-Do List :
 
-1. To view the full list, click the “See More” button.
+1. To view the full list, click the “See More” button
 
 ![](/img/to-do-list.jpg)
 
-2. After clicking “See More”, a complete display of the activity list will appear, as shown in the example image below.
+2. After clicking “See More”, a complete display of the activity list will appear, as shown in the example image below
 
 ![](/img/to-do-list-2.jpg)
 
-3. Click on the activity you plan to undertake (*e.g., as shown in the example image*).
+3. Click on the activity you plan to undertake (*e.g., as shown in the example image*)
 
 ![](/img/to-do-list-3.jpg)
 
-4. You will then be directed to the specific activity (such as Task, Exam, or Live Session) listed in the To-Do List.
+4. You will then be directed to the specific activity (*such as Task, Exam, or Live Session*) listed in the To-Do List
 
 ![](/img/to-do-list-4.jpg)
