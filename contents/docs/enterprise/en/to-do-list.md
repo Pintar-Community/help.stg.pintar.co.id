@@ -2,11 +2,11 @@
 title: (Learner) To-do List
 sidebar_position: 2
 ---
-This section contains reminders for activities and tasks that need to be completed. The To-Do List is divided into three parts: Pending Tasks, Today's Events, and Upcoming Events.
+This section contains reminders for activities and tasks that need to be completed. The To-Do List is divided into three parts: Unfinished Grading, Today's Events, and Upcoming Events.
 
 #### 1. Unfinished Grading
 
-This section provides information about tasks that have not been completed yet, along with their deadlines
+This section provides information about tasks that have not been completed yet, along with their deadlines.
 
 ![](/img/Enterprise-LMS-Dashboard_1.4.png)
 
