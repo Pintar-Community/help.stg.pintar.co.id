@@ -1,5 +1,5 @@
 ---
-title: (Learner) Leaderboard
+title: Leaderboard
 sidebar_position: 4
 ---
 Pada bagian ini, Anda dapat melihat tabel Leaderboard/Papan Peringkat yang berisi jumlah poin dan peringkat. 

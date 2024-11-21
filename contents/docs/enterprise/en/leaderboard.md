@@ -1,5 +1,5 @@
 ---
-title: (Learner) Leaderboard
+title: Leaderboard
 sidebar_position: 4
 ---
 In this section, you can view the Leaderboard table, which displays the total points and rankings.
