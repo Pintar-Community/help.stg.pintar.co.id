@@ -21,6 +21,6 @@ After clicking the Points Icon, you will be directed to the Rewards page as show
    ![](/img/reward_1.4.png)
 
    ![](/img/reward_1.3.png)
-2. **Riwayat Poin :** This section allows you to view a complete history of points earned and redeemed
-3. **Papan Peringkat :** You can view the leaderboard table, which displays the total points and rankings. Additionally, you can check the points and rankings of other participants
-4. **Tukarkan Poin :** You can explore a variety of rewards available for redemption using your points
+2. **Point History :** This section allows you to view a complete history of points earned and redeemed
+3. **Leaderboard :** You can view the leaderboard table, which displays the total points and rankings. Additionally, you can check the points and rankings of other participants
+4. **Exchanged your Point :** You can explore a variety of rewards available for redemption using your points
