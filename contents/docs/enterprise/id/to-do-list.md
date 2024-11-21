@@ -24,15 +24,15 @@ Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan di
 
 #### Cara menampilkan To-do List secara keseluruhan :
 
-1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”
+1. Untuk menampilkan secara keseluruhan, Anda dapat klik button “Lihat Semua”.
 
 ![](/img/to-do-list.jpg)
 
-2. Setelah klik button Lihat Semua, maka akan muncul tampilan secara keseluruhan untuk Daftar Kegiatan seperti gambar berikut
+2. Setelah klik button "Lihat Semua", maka akan muncul tampilan secara keseluruhan untuk Daftar Kegiatan seperti gambar berikut.
 
 ![](/img/to-do-list-2.jpg)
 
-3. Klik kegiatan yang akan Anda laksanakan (*contoh : seperti gambar*)
+3. Klik kegiatan yang akan Anda laksanakan (*contoh : seperti gambar*).
 
 ![](/img/to-do-list-3.jpg)
 
