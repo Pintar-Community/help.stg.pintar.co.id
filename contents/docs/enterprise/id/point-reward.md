@@ -1,18 +1,18 @@
 ---
-title: (Learner) Point & Reward
+title: Point & Reward
 sidebar_position: 5
 ---
 Poin dan Reward merupakan fitur yang bertujuan untuk membuat pengguna lebih termotivasi untuk menyelesaikan aktivitas pembelajarannya. Berikut merupakan bagian-bagian dari fitur Poin dan Reward:
 
 #### **1. Poin**
 
-Untuk mengeksplorasi fitur Poin dan Reward, pengguna bisa masuk melalui ikon Poin yang bisa ditemukan ketika pengguna mengklik ikon profile. Lalu akan muncul tampilan seperti berikut
+Untuk mengeksplorasi fitur Poin dan Reward, pengguna bisa masuk melalui ikon Poin yang bisa ditemukan ketika pengguna mengklik ikon profile. Lalu akan muncul tampilan seperti berikut.
 
 ![](/img/reward_1.1.png)
 
 #### **2. Reward**
 
-Setelah ikon Poin di klik akan diarahkan ke tampilan Reward seperti gambar di bawah ini 
+Setelah ikon Poin di klik akan diarahkan ke tampilan Reward seperti gambar di bawah ini.
 
 ![](/img/reward_1.2.png)
 
