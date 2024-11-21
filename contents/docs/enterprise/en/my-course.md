@@ -1,5 +1,5 @@
 ---
-title: (Learner) My Course
+title: My Course
 sidebar_position: 3
 ---
 ![](/img/Enterprise-LMS-My-Course_1.1.png)
