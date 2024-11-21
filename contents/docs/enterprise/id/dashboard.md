@@ -19,7 +19,7 @@ Untuk Login ke LMS, lakukan cara berikut:
 
 ![](/img/Enterprise-LMS-Login_1.2.png)
 
-Setelah Anda berhasil untuk Login, maka akan muncul tampilan Dashboard seperti ini:
+Setelah Anda berhasil untuk Login, maka akan muncul tampilan Dashboard seperti ini.
 
 ![](/img/Enterprise-LMS-Login_1.4.png)
 
@@ -31,11 +31,11 @@ Pada bagian menu Dashboard ini akan berisi sub menu Progress, Durasi Belajar, da
 
 ###### **1. Progress**
 
-Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci
+Bagian ini menunjukkan progress dari setiap kelas yang sudah dikerjakan, yang sedang dikerjakan, yang belum dimulai, yang kadaluwarsa, dan yang masih terkunci.
 
 ##### **2. Durasi Belajar**
 
-Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti
+Bagian ini menunjukkan total durasi belajar yang sudah dilakukan pada kelas yang diikuti.
 
 ##### **3. Aktivitas**
 
@@ -43,7 +43,7 @@ Bagian ini menunjukkan progress aktivitas kelas yang sedang dikerjakan dan riway
 
 a. Aktivitas Kursus
 
-Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan
+Bagian ini akan menampilkan kelas yang sedang atau akan dikerjakan.
 
 ![](/img/Enterprise-LMS-Dashboard_1.2.png)
 
