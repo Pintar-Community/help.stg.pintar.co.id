@@ -74,8 +74,6 @@ kembali dan dapat tersimpan rapi.
 
   Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar. Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
 
-
-
 ##### Cara membuat Komentar :
 
 1. Anda dapat membuat komentar pada kolom Tambahan Komentar
@@ -144,7 +142,7 @@ Pada bagian Live Session ini, seluruh peserta kelas akan melaksanakan sesi langs
 
 ![](/img/2.16.png)
 
-3. Anda sudah dapat melaksanakan Live Session
+4. Anda sudah dapat melaksanakan Live Session
 
  **d. Document**
 
@@ -244,6 +242,7 @@ Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskus
 ![](/img/my-course-36.jpg)
 
 3. Tuliskan Judul dan Deskripsi
+
 4. Kemudian klik tombol Kirim pada pojok kanan bawah
 
 Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum

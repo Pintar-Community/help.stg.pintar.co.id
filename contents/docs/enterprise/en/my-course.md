@@ -70,9 +70,7 @@ This feature is available for both video and document content. It allows you to 
 
   Unlike notes, comments are public and can be viewed and interacted with by all users. Comments allow you to discuss the video content with others, similar to social media platforms. You can also like and reply to comments from other participants.
 
-
-
-##### Cara membuat Komentar :
+##### How to Add a Comment :
 
 1. Write your comment in the Add comment field
 
@@ -136,11 +134,11 @@ The Live Session section enables real-time interactions with instructors via Jit
 
 ![](/img/2.15.png)
 
-3. Apabila Anda sudah join kedalam room Live Session, maka akan diarahkan ke tampilan Jitsi seperti gambar di bawah ini
+3. You will be redirected to the Jitsi interface, where you can participate in the session.
 
 ![](/img/2.16.png)
 
-3. You will be redirected to the Jitsi interface, where you can participate in the session.
+4. You are now able to conduct a Live Session
 
 **d. Document**
 
@@ -186,11 +184,11 @@ This section displays the assignments that need to be completed. It includes det
 
 1. Answer in text form via the Add Answer field
 
-2. Or you can upload a document using the Upload Document button.
+2. Or you can upload a document using the Upload Document button
 
-3. Once completed, click Submit.
+3. Once completed, click Submit
 
-4. Submitted answers, along with their grades, will appear in the assignment interface.                    
+4. Submitted answers, along with their grades, will appear in the assignment interface
 
 ![](/img/my-course-26.jpg)
 
@@ -202,23 +200,23 @@ This section displays the assignments that need to be completed. It includes det
 
 ![](/img/my-course-28.png)
 
-Pada menu Nilai akan menampilkan nilai akhir, peringkat dan komponen nilai. 
+The Grades menu shows final grades, rankings, and grade components.
 
 ![](/img/my-course-29.png)
 
-Anda juga dapat melihat detail peringkat teman sekelas dengan cara klik “Lihat Detail”
+View detailed rankings by clicking "See Details"
 
 ![](/img/my-course-30.png)
 
-Anda jugadapat memfilter berdasarkan nama dengan cara klik “Cari berdasarkan nama”
+You can also Filter rankings by name using the "Search by Name" feature
 
 ![](/img/my-course-31.png)
 
-### **4. Catatan**
+### **4. Notes**
 
 ![](/img/my-course-32.png)
 
-Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda catat pada konten Video atau Dokumen. Anda dapat membaca dan mempelajari kembali catatan yang sudah Anda buat *(seperti gambar).*
+The Notes section contains notes you have recorded from the Video or Document content.You can revisit and study the notes you’ve created (*as shown in the example*).
 
 ![](/img/my-course-33.png)
 
@@ -226,27 +224,27 @@ Catatan  yang ditampilkan pada kolom ini merupakan catatan yang sudah Anda cata
 
 ![](/img/my-course-34.png)
 
-Pada menu ini, berfungsi sebagai menu untuk Pengajar dan Peserta dapat berdiskusi mengenai kelas tersebut. 
+The Forum menu serves as a platform for instructors and participants to discuss the class.
 
-**Cara untuk membuat Forum :**
+**How to Create a Forum Thread :**
 
-1. Anda dapat kilk + **Add Thread** pada pojok kanan atas
+1. Click + Add Thread in the top-right corner
 
 ![](/img/my-course-35.jpg)
 
-2. Kemudian akan muncul tampilan seperti gambar
+2. A form will appear as shown in the example
 
 ![](/img/my-course-36.jpg)
 
-3. Tuliskan Judul dan Deskripsi
-4. Kemudian klik tombol Kirim pada pojok kanan bawah
+3. Enter a Title and Description.
 
-Apabila sudah klik kirim, maka Thread/Utas yang Anda buat akan muncul pada menu forum
-seperti gambar di bawah ini.
+4. Click the Submit button in the bottom-right corner.
+
+Once submitted, your thread will appear in the Forum menu, as shown in the example.
 
 ![](/img/my-course-37.jpg)
 
-Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar begitupun sebaliknya.
+Threads you create can be commented on by classmates and instructors, and vice versa.
 
 ![](/img/my-course-38.png)
 
@@ -254,14 +252,14 @@ Thread/Utas yang Anda buat dapat dikomentari oleh teman sekelas dan Pengajar beg
 
 ![](/img/my-course-39.jpg)
 
-Pada bagian ini, Anda dapat melihat Recordings/Rekaman pada saat Live Session. Sehingga Anda dapat mempelajari kembali materi yang disampaikan oleh Pengajar pada saat Live Session. 
+This section allows you to access Recordings of Live Sessions. So you can review the material delivered during the session.
 
-Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+Recordings can be downloaded by clicking the Download button.
 
 ![](/img/my-course-40.jpg)
 
-## **b. Katalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
+## **b. Catalog**[​](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)
 
-[](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)Bagian ini berisikan jenis – jenis kursus atau kelas yang sedang ditayangkan.
+[](https://help.stg.pintar.co.id/docs/enterprise/access-user-guide/#2-katalog)The Catalog section contains a list of available courses or classes currently being offered.
 
 ![](/img/my-course-41.png)
