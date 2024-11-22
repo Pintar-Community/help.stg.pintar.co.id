@@ -27,7 +27,7 @@ The heading Pintar Total Users at the top displays a breakdown of the platform's
 
 ![](/img/enterprise-admin-dashboard-3.png)
 
-The central section displays a "Completion Rate" metric, categorized into:
+The central section displays a "**Completion Rate**" metric, categorized into:
 
 1. Assigned Courses	: Courses that are compulsory for users.
 2. General Courses	: Elective courses that users may or may not choose to complete.
@@ -47,4 +47,4 @@ A pie chart visualization will be presented, illustrating the distribution of us
 
 ![](/img/enterprise-admin-dashboard-6.png)
 
- Pada bagian paling bawah ada title: **Leaderboard** yaitu untuk melihat peringkat dari user pada *course* tertentu.
+**Leaderboard** section at the bottom provides a ranking of users based on their performance in specific courses.
