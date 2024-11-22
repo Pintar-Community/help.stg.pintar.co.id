@@ -78,4 +78,28 @@ the form is as follows:
 
    e. To create a folder related to the existing content, click **Create Folder**.
 
-![]()
+![](/img/enterprise-admin-course-18.png)
+
+   f. Complete **Title** and **Description** fields, and then click Save.
+
+![](/img/enterprise-admin-course-13.png)
+
+   g. Quiz Folder section will display all the materials you've organized into folders.
+
+![](/img/enterprise-admin-course-14.png)
+
+**4. ARCHIVE COURSE**
+
+   a. Select **course** menu then click **Archive Course**.
+
+   b. Select the company that fits your search criteria.
+
+![](/img/enterprise-admin-course-15.png)
+
+   c. Click filter to find Archive Course
+
+![](/img/enterprise-admin-course-16.png)
+
+   d. Choose the filters that match the course you're looking for, and then click apply.
+
+![](/img/enterprise-admin-course-17.png)
