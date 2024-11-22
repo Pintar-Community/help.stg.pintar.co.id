@@ -119,3 +119,63 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
    c. Isi bagian **New Permission (Role)**, kemudian klik **NEXT**.
 
 ![](/img/enterprise-admin-user-26.png)
+
+   d. Selanjutnya pada tampilan di bawah ini, isi **New Permission (Permission)**.  Super admin bisa memilih permission/ izin yang akan diberikan kepada user sesuai dengan kebutuhan,  lalu klik **CREATE**.
+
+![](/img/enterprise-admin-user-27.png)
+
+1. Super admin dapat memberikan permission untuk meninjau **Survey**.
+
+![](/img/enterprise-admin-user-28.png)
+
+   a. View Survey	:Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.
+
+   b. Survey Listing	:Super admin dapat memberikan permission kepada user untuk melihat daftar/list survei.
+
+   c. Create Survey	:Super admin dapat memberikan permission kepada user untuk membuat survei.
+
+   d. Edit Survey	:Super admin dapat memberikan permission kepada user untuk mengedit survei.
+
+   e. Delete Survey	:Super admin dapat memberikan permission kepada user untuk menghapus survei yang ada.
+
+   f. Survey Reporting:Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
+
+
+
+2. Super admin dapat memberikan permission untuk meninjau **Courses**
+
+![](/img/enterprise-admin-user-29.png)
+
+![](/img/enterprise-admin-user-30.png)
+
+   a. View Course	:Super admin dapat memberikan permission kepada user untuk melihat kursus yang masuk.
+
+   b. Duplicate Course:Super admin dapat memberikan permission kepada user untuk menggandakan kursus.
+
+   c. Publish Course	:Super admin dapat memberikan permission kepada user untuk menerbitkan kursus.
+
+   d. Course Publish Approval	:Super admin dapat memberikan permission kepada user untuk persetujuan menerbitkan kursus.
+
+   e. Course Listing	:Super admin dapat memberikan permission kepada user untuk membuat daftar/ list kursus.
+
+   f. Delete Course	:Super admin dapat memberikan permission kepada user untuk menghapus kursus.
+
+  g. Import Course	:Super admin dapat memberikan permission kepada user untuk mengimpor kursus.
+
+   h. Edit Course Section Schedule	:Super admin dapat memberikan permission kepada user untuk mengedit jadwal bagian kursus.
+
+   i. Create Course	:Super admin dapat memberikan permission kepada user untuk membuat kursus.
+
+   j. Edit Course	:Super admin dapat memberikan permission kepada user untuk mengedit kursus.
+
+   k. View Course Survey :Super admin dapat memberikan permission kepada user untuk melihat survei kursus.
+
+   l. Create Course Survey:Super admin dapat memberikan permission kepada user untuk membuat kursus survei.
+
+   m. Edit Course Survey :Super admin dapat memberikan permission kepada user untuk  mengedit kursus survei.
+
+
+
+3. Super admin dapat memberikan permission untuk meninjau **Master Data**
+
+![](/img/enterprise-admin-user-31.png)

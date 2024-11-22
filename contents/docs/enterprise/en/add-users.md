@@ -118,3 +118,62 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
    c. Fill in the **New Permission (Role)** field, then click **NEXT**.
 
 ![](/img/enterprise-admin-user-26.png)
+
+   d. In the next view, fill in the **New Permission (Permission)** section. The super admin can select the permissions to be granted to the user as needed, then click **CREATE**.
+
+![](/img/enterprise-admin-user-27.png)
+
+1. The super admin can grant permission to review **surveys**.
+
+![](/img/enterprise-admin-user-28.png)
+
+   a. View Survey	:The super admin can grant permission to users to view incoming surveys.
+
+   b. Survey Listing	:The super admin can grant permission to users to view the survey list.
+
+   c. Create Survey	:The super admin can grant permission to users to create surveys.
+
+   d. Edit Survey	:Super admin can grant permission to users to edit surveys.
+
+   e. Delete Survey	:Super admin can grant permission to users to delete existing surveys.
+
+   f. Survey Reporting:Super admin can grant permission to users to see the results of survey reporting.
+
+
+2. Super admin can grant permission to review **Courses**.
+
+![](/img/enterprise-admin-user-29.png)
+
+![](/img/enterprise-admin-user-30.png)
+
+   a. View Course	: Super admin can grant permission to users to view assigned courses.
+
+   b. Duplicate Course : Super admin can grant permission to users to duplicate courses.
+
+   c. Publish Course	: Super admin can grant permission to users to publish courses.
+
+   d. Course Publish Approval : Super admin can grant permission to users to approve publishing courses.
+
+   e. Course Listing	: Super admin can grant permission to users to create course lists.
+
+   f. Delete Course	: Super admin can grant permission to users to delete courses.
+
+   g. Import Course	: Super admin can grant permission to users to import courses.
+
+   h. Edit Course Section Schedule: Super admin can grant permission to users to edit course section schedules.
+
+   i. Create Course	: Super admin can grant permission to users to create courses.
+
+   j. Edit Course	: Super admin can grant permission to users to edit courses.
+
+   k. View Course Survey : Super admin can grant permission to users to view course surveys.
+
+   l. Create Course Survey: Super admin can grant permission to users to view course surveys.
+
+   m. Edit Course Survey : Super admin can grant permission to users to edit survey courses.
+
+
+
+3. Super admin can grant permission to review **Master Data**
+
+![](/img/enterprise-admin-user-31.png)
