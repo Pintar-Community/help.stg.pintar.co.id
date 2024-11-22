@@ -25,3 +25,7 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
    a. Click **New User**, and the form below will appear. Fill in the required details. Then, click **Save** to save directly or **Save & Add New** to save and immediately add a new user.
 
 ![](/img/enterprise-admin-user-5.png)
+
+   b. Once saved, the user will appear in the **User Listing** menu as shown in the following view.
+
+![](/img/enterprise-admin-user-6.png)

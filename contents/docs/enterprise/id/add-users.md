@@ -25,3 +25,7 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
    a. Klik **New User** maka akan ada tampilan di bawah ini, Kemudian diisi. Selanjutnya, klik **Save** untuk simpan langsung atau **Save & Add New** untuk simpan dan dapat langsung menambah user baru
 
 ![](/img/enterprise-admin-user-5.png)
+
+   b. Apabila sudah di Save, maka akan muncul di menu ‘**User Listing**’ pada tampilan berikut:
+
+![](/img/enterprise-admin-user-6.png)
