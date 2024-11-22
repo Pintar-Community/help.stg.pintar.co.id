@@ -2,27 +2,20 @@
 title: (Admin) Dashboard
 sidebar_position: 6
 ---
-
-
-
 Untuk Login ke Portal admin, lakukan cara
 berikut:
 
-1)      Akses melalui URL: <https://portal.pintar.co/login> 
+1) Akses melalui URL: <https://portal.pintar.co/login> 
 
-2)      Masukan alamat email pada kolom Email. 
+2) Masukan alamat email pada kolom Email. 
 
-3)      Masukan kata sandi pada kolom Password.
+3) Masukan kata sandi pada kolom Password.
 
-4)      Klik tombol Sign In.
-
- 
+4) Klik tombol Sign In.
 
 ![](/img/enterprise-admin-dashboard-1.png)
 
 Ketika sudah berhasil login, maka akan muncul tampilan Dashboard seperti di bawah ini:
-
- 
 
 ![](/img/enterprise-admin-dashboard-2.png)
 
@@ -36,8 +29,6 @@ Ketika sudah berhasil login, maka akan muncul tampilan Dashboard seperti di bawa
 
 4.      Admins                  : User yang menjadi admin
 
- 
-
 ![](/img/enterprise-admin-dashboard-3.png)
 
 Pada bagian tengah ada title: **Completion Rate** dibagi 2 (dua) yaitu:
@@ -46,7 +37,6 @@ Pada bagian tengah ada title: **Completion Rate** dibagi 2 (dua) yaitu:
 2. General Courses    : kursus yang boleh diambil atau tidak oleh user
 
 ![](/img/enterprise-admin-dashboard-4.png)
-
 
 Dalam tampilan ini ada diagram lingkaran akan muncul jumlah persentase dan jumlah
 user. 
