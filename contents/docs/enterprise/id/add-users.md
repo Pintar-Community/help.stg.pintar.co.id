@@ -179,3 +179,19 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 3. Super admin dapat memberikan permission untuk meninjau **Master Data**
 
 ![](/img/enterprise-admin-user-31.png)
+
+   a. View Master Data	  :Super admin dapat memberikan permission kepada user untuk melihat master data yang berisi Branch & Department dan Recording.
+
+   b. Master Data Listing :Super admin dapat memberikan permission kepada user untuk membuat Master Data Listing.
+
+   c. Create Master Data :Super admin dapat memberikan permission kepada user untuk membuat dan memasukan data pada master data.
+
+   d. Edit Master Data     :Super admin dapat memberikan permission kepada user untung mengedit data pada master data.
+
+   e. Delete Master Data :Super admin dapat memberikan permission kepada user untuk menghapus data yang ada  pada master data.
+
+
+
+4. Super admin dapat memberikan permission untuk meninjau **Users**
+
+![](/img/enterprise-admin-user-32.png)

@@ -177,3 +177,19 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 3. Super admin can grant permission to review **Master Data**
 
 ![](/img/enterprise-admin-user-31.png)
+
+   a. View Master Data	  : Super admin can grant permission to users to view master data which contains Branch & Department and Recording.
+
+   b. Master Data Listing : Super admin can grant permission to users to create Master Data Listings.
+
+   c. Create Master Data : Super admin can grant permission to users to create and enter data in master data.
+
+   d. Edit Master Data     : Super admin can grant permission to users to edit data in the master data.
+
+   e. Delete Master Data : Super admin can grant permission to users to delete data in the master data.
+
+
+
+4. Super admin can grant permission to review **Users**
+
+![](/img/enterprise-admin-user-32.png)
