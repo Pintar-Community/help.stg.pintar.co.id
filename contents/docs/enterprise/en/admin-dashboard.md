@@ -18,22 +18,19 @@ Once you've logged in, you'll see the Dashboard as below:
 
 ![](/img/enterprise-admin-dashboard-2.png)
 
- Pada bagian paling atas ada title: Pintar Total Users artinya total user yang ada di Pintar dibagi 4 (empat) yaitu:
+The heading Pintar Total Users at the top displays a breakdown of the platform's user base into four distinct categories:
 
-1.      Enrolled Learners : User yang menjadi pelajar
-
-2.      Potential Learners : User yang terdaftar tetapi belum memiliki kursus
-
-3.      Instructors             : User yang menjadi instruktur
-
-4.      Admins                  : User yang menjadi admin
+1. Enrolled Learners	: Active learners currently participating in courses.
+2. Potential Learners	: Registered users who have yet to enroll in a course.
+3. Instructors		: Users with the role of course instructor.
+4. Admins		        : Users with administrative permissions.
 
 ![](/img/enterprise-admin-dashboard-3.png)
 
-Pada bagian tengah ada title: **Completion Rate** dibagi 2 (dua) yaitu:
+The central section displays a "Completion Rate" metric, categorized into:
 
-1.  Assigned Courses : kursus bersifat mandatory, kursus yang sudah di-assign user langsung
-2. General Courses    : kursus yang boleh diambil atau tidak oleh user
+1. Assigned Courses	: Courses that are compulsory for users.
+2. General Courses	: Elective courses that users may or may not choose to complete.
 
 ![](/img/enterprise-admin-dashboard-4.png)
 

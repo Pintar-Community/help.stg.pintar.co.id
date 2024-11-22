@@ -21,13 +21,10 @@ Ketika sudah berhasil login, maka akan muncul tampilan Dashboard seperti di bawa
 
  Pada bagian paling atas ada title: Pintar Total Users artinya total user yang ada di Pintar dibagi 4 (empat) yaitu:
 
-1.      Enrolled Learners : User yang menjadi pelajar
-
-2.      Potential Learners : User yang terdaftar tetapi belum memiliki kursus
-
-3.      Instructors             : User yang menjadi instruktur
-
-4.      Admins                  : User yang menjadi admin
+1. Enrolled Learners : User yang menjadi pelajar
+2. Potential Learners : User yang terdaftar tetapi belum memiliki kursus
+3. Instructors             : User yang menjadi instruktur
+4. Admins                  : User yang menjadi admin
 
 ![](/img/enterprise-admin-dashboard-3.png)
 
