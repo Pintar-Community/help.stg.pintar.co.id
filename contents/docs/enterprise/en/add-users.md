@@ -29,3 +29,17 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
    b. Once saved, the user will appear in the **User Listing** menu as shown in the following view.
 
 ![](/img/enterprise-admin-user-6.png)
+
+2. **Bulk Import**: Adding multiple active users at once
+
+   a. Select the company from the top-left dropdown.
+
+   b. Click **Download Template** to download a CSV file template for data import.
+
+![](/img/enterprise-admin-user-7.png)
+
+   c. Click **+Import** after the CSV file is filled with user details, you can upload it to import the user data.
+
+![](/img/enterprise-admin-user-8.png)
+
+![](/img/enterprise-admin-user-9.png)

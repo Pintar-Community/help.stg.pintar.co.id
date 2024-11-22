@@ -29,3 +29,17 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
    b. Apabila sudah di Save, maka akan muncul di menu ‘**User Listing**’ pada tampilan berikut:
 
 ![](/img/enterprise-admin-user-6.png)
+
+2. **Bulk Import**: cara memasukkan data user yang aktif dalam jumlah banyak
+
+   a. Pilih perusahaan di kiri atas
+
+   b. Klik **Download Template** untuk mengunduh template file csv untuk data import
+
+![](/img/enterprise-admin-user-7.png)
+
+   c. Klik **+Import** setelah data file csv diisi nama user dapat import untuk input para nama user
+
+![](/img/enterprise-admin-user-8.png)
+
+![](/img/enterprise-admin-user-9.png)
