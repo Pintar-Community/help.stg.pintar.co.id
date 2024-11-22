@@ -1,5 +1,5 @@
 ---
-title: ADD USERS
+title: Add Users
 sidebar_position: 7
 ---
 Tampilan user terdiri dari user listing, user groups, dan permission.

@@ -1,5 +1,5 @@
 ---
-title: ADD USERS
+title: Add Users
 sidebar_position: 7
 ---
 The user interface consists of User Listing, User Groups, and Permissions.
