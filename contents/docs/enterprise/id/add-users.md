@@ -20,7 +20,7 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 ![](/img/enterprise-admin-user-4.png)
 
-1. **New User**:  input pengguna manual atau input pengguna satu-satu 
+**1. New User**:  input pengguna manual atau input pengguna satu-satu 
 
    a. Klik **New User** maka akan ada tampilan di bawah ini, Kemudian diisi. Selanjutnya, klik **Save** untuk simpan langsung atau **Save & Add New** untuk simpan dan dapat langsung menambah user baru
 
@@ -30,7 +30,7 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 ![](/img/enterprise-admin-user-6.png)
 
-2. **Bulk Import**: cara memasukkan data user yang aktif dalam jumlah banyak
+**2.** **Bulk Import**: cara memasukkan data user yang aktif dalam jumlah banyak
 
    a. Pilih perusahaan di kiri atas
 
@@ -44,7 +44,7 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 ![](/img/enterprise-admin-user-9.png)
 
-   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada **Import History**
+   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada **Import History.**
 
 ![](/img/enterprise-admin-user-10.png)
 
@@ -76,7 +76,7 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    k. Selanjutnya akan muncul tampilan data user yang dicari.
 
-3. **Bulk Modify Users**: cara memasukkan data user yang aktif dan tidak aktif dalam jumlah banyak.
+**3. Bulk Modify Users**: cara memasukkan data user yang aktif dan tidak aktif dalam jumlah banyak.
 
    a. Pilih perusahaan di kiri atas
 
@@ -95,3 +95,27 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
    e. Apabila saat import dengan status **FAILED** dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓.
 
 ![](/img/enterprise-admin-user-20.png)
+
+**2. USER GROUPS**
+
+   a. Pilih menu **USERS**, kemudian klik **User Groups**
+
+   b. Pilih perusahaan di kiri atas
+
+![](/img/enterprise-admin-user-21.png)
+
+   c. Klik **+New** di kanan atas, lalu akan masuk ke halaman ‘Assign Group’
+
+![](/img/enterprise-admin-user-22.png)
+
+**3. PERMISSION**
+
+   a. Pilih menu **USERS**, kemudian klik **Permission**.
+
+   b. Klik **New** pada kanan atas, lalu muncul tampilan **New Permission**.
+
+![](/img/enterprise-admin-user-25.png)
+
+   c. Isi bagian **New Permission (Role)**, kemudian klik **NEXT**.
+
+![](/img/enterprise-admin-user-26.png)

@@ -20,7 +20,7 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
 ![](/img/enterprise-admin-user-4.png)
 
-1. **New User**: Manual user input or single-user entry.
+**1.** **New User**: Manual user input or single-user entry.
 
    a. Click **New User**, and the form below will appear. Fill in the required details. Then, click **Save** to save directly or **Save & Add New** to save and immediately add a new user.
 
@@ -30,7 +30,7 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
 ![](/img/enterprise-admin-user-6.png)
 
-2. **Bulk Import**: Adding multiple active users at once
+**2.** **Bulk Import**: Adding multiple active users at once
 
    a. Select the company from the top-left dropdown.
 
@@ -74,7 +74,7 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
    k. The list of assigned users matching the filter criteria will appear.
 
-3. **Bulk Modify Users**: How to Import Active and Inactive Users in Bulk.
+**3.** **Bulk Modify Users**: How to Import Active and Inactive Users in Bulk.
 
    a. Select the company from the dropdown on the top-left corner.
 
@@ -93,3 +93,28 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
    e. If the status shows **FAILED**, download the error log using the ↓ symbol to identify the reasons for failure.
 
 ![](/img/enterprise-admin-user-20.png)
+
+
+**2.** **USER GROUPS**
+
+   a. Navigate to the **USERS** menu and click **User Groups**.
+
+   b. Select the company from the top-left dropdown.
+
+![](/img/enterprise-admin-user-21.png)
+
+   c. Click **+New** in the top-right corner to open the Assign Group page.
+
+![](/img/enterprise-admin-user-22.png)
+
+**3. PERMISSION**
+
+   a. Go to the **USERS** menu and click **Permission**.
+
+   b. Click **New** in the top-right corner to open the **New Permission page**.
+
+![](/img/enterprise-admin-user-25.png)
+
+   c. Fill in the **New Permission (Role)** field, then click **NEXT**.
+
+![](/img/enterprise-admin-user-26.png)
