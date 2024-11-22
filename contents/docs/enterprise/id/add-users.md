@@ -43,3 +43,25 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 ![](/img/enterprise-admin-user-8.png)
 
 ![](/img/enterprise-admin-user-9.png)
+
+   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada **Import History**
+
+![](/img/enterprise-admin-user-10.png)
+
+   e. Apabila saat import dengan status **FAILED,** Anda dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓.
+
+   f. Selanjutnya jika sudah selesai/**SUCCESS.** Kemudian ke menu **Courses**, klik **Course Listing**.
+
+![](/img/enterprise-admin-user-11.png)
+
+   g. Kemudian pilih perusahaan selanjutnya cari judul materi pelatihan dan klik icon pensil untuk assign user. 
+
+![](/img/enterprise-admin-user12.png)
+
+   h. Klik **Assign User**, lalu Klik **Add**
+
+![](/img/enterprise-admin-user-13.png)
+
+
+
+![](/img/enterprise-admin-user-14.png)

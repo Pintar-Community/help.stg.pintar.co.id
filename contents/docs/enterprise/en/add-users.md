@@ -43,3 +43,23 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 ![](/img/enterprise-admin-user-8.png)
 
 ![](/img/enterprise-admin-user-9.png)
+
+   d. Next, click **IMPORT**. The Bulk Import status will appear in the **Import History section**.
+
+![](/img/enterprise-admin-user-10.png)
+
+   e. If the status shows **FAILED**, you can check the errors or reasons by downloading the log using the ↓ symbol.
+
+   f. Next, once the process is complete and marked as **SUCCESS**, go to the **Courses** menu and click **Course Listing**.
+
+![](/img/enterprise-admin-user-11.png)
+
+   g. Select the company and search for the training course title, then click the pencil icon to assign users.
+
+![](/img/enterprise-admin-user12.png)
+
+   h. Click **Assign User**, then click **Add**.
+
+![](/img/enterprise-admin-user-13.png)
+
+![](/img/enterprise-admin-user-14.png)
