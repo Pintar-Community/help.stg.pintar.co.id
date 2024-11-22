@@ -35,21 +35,16 @@ Pada bagian tengah ada title: **Completion Rate** dibagi 2 (dua) yaitu:
 
 ![](/img/enterprise-admin-dashboard-4.png)
 
-Dalam tampilan ini ada diagram lingkaran akan muncul jumlah persentase dan jumlah
-user. 
+Dalam tampilan ini ada diagram lingkaran akan muncul jumlah persentase dan jumlah user. 
 
-1.      Completed                           : jumlah user yang sudah selesai
-
-2.      In progress                           : jumlah user yang masih progress
-
-3.      Not started yet                     : jumlah user yang belum mulai
-
-4.      Expired                                 : jumlah user yang expired
+1. Completed		: jumlah user yang sudah selesai
+2. In progress		: jumlah user yang masih progress
+3. Not started yet	: jumlah user yang belum mulai
+4. Expired			: jumlah user yang expired
 
 ![](/img/enterprise-admin-dashboard-5.png)
 
- Pada bagian bawah ada title: **Internal Courses** terdiri dari **Course Name** yaitu nama kursus dan **Enrolled** yaitu
-jumlah user yang daftar dalam materi pelatihan tersebut.
+ Pada bagian bawah ada title: **Internal Courses** terdiri dari **Course Name** yaitu nama kursus dan **Enrolled** yaitu jumlah user yang daftar dalam materi pelatihan tersebut.
 
 ![](/img/enterprise-admin-dashboard-6.png)
 

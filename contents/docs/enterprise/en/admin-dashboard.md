@@ -34,21 +34,16 @@ The central section displays a "Completion Rate" metric, categorized into:
 
 ![](/img/enterprise-admin-dashboard-4.png)
 
-Dalam tampilan ini ada diagram lingkaran akan muncul jumlah persentase dan jumlah
-user. 
+A pie chart visualization will be presented, illustrating the distribution of users across the following completion statuses. 
 
-1.      Completed                           : jumlah user yang sudah selesai
-
-2.      In progress                           : jumlah user yang masih progress
-
-3.      Not started yet                     : jumlah user yang belum mulai
-
-4.      Expired                                 : jumlah user yang expired
+1. Completed	: Users who have successfully finished the course.
+2. In progress	: Users who are currently enrolled and actively engaged in the course.
+3. Not started yet: Users who have registered but have not initiated the course.
+4. Expired		: Users whose course access has reached its end date.
 
 ![](/img/enterprise-admin-dashboard-5.png)
 
- Pada bagian bawah ada title: **Internal Courses** terdiri dari **Course Name** yaitu nama kursus dan **Enrolled** yaitu
-jumlah user yang daftar dalam materi pelatihan tersebut.
+ **Internal Courses** section at the bottom provides a list of **available courses**, along with the **corresponding enrollment numbers**.
 
 ![](/img/enterprise-admin-dashboard-6.png)
 
