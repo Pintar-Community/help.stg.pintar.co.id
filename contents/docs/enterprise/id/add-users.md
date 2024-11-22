@@ -195,3 +195,66 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 4. Super admin dapat memberikan permission untuk meninjau **Users**
 
 ![](/img/enterprise-admin-user-32.png)
+
+   a. User Listing	:Super admin dapat memberikan permission kepada user untuk melihat daftar/list pengguna.
+
+   b. Edit User		:Super admin dapat memberikan permission kepada user untuk mengedit pengguna.
+
+   c. Delete User	:Super admin dapat memberikan permission kepada user untuk menghapus pengguna.
+
+   d. Import Users	:Super admin dapat memberikan permission kepada user untuk mengimport/memasukkan pengguna.
+
+   e. All Users Data	:Super admin dapat memberikan permission kepada user untuk semua data pengguna.
+
+   f. View User		:Super admin dapat memberikan permission kepada user untuk melihat pengguna.
+
+   g. Create User	:Super admin dapat memberikan permission kepada user untuk membuat pengguna baru.
+
+   h. Add Role		:Super admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
+
+
+
+5. Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
+
+![](/img/enterprise-admin-user-33.png)
+
+   a. View Quiz Bank	: Super admin dapat memberikan permission kepada user untuk melihat bank kuis.
+
+   b. Quiz Bank Listing	: Super admin dapat memberikan permission kepada user untuk melihat daftar/ list bank kuis.
+
+   c. Create Quiz Bank	: Super admin dapat memberikan permission kepada user untuk membuat bank kuis.
+
+   d. Delete Quiz Bank	: Super admin dapat memberikan permission kepada user untuk menghapus bank kuis.
+
+   e. Edit Quiz Bank	: Super admin dapat memberikan permission kepada user untuk mengedit bank kuis.
+
+
+6. Super admin dapat memberikan permission untuk meninjau **User Groups**
+
+![](/img/enterprise-admin-user-34.png)
+
+   a. View User Group	: Super admin dapat memberikan permission kepada user untuk melihat group user.
+
+   b. User Group Listing	: Super admin dapat memberikan permission kepada user untuk melihat user group listing.
+
+   c. Create User Group    : Super admin dapat memberikan permission kepada user untuk membuat use group.
+
+   d. Edit User Group	: Super admin dapat memberikan permission kepada user untuk mengedit user group.
+
+   f. Delete User Group     : Super admin dapat memberikan permission kepada user untuk menghapus user group yang sudah ada.
+
+
+7. Super admin dapat  memberikan permission untuk meninjau **Roles & Permission**
+
+![](/img/enterprise-admin-user-35.png)
+
+   a. Edit Roles & Permission		: Super admin dapat memberikan permission kepada user untuk mengedit laman roles & permission.
+
+   b. View Roles & Permission		: Super admin dapat memberikan permission kepada user untuk melihat laman roles & permission.
+
+   c. Delete Roles & Permission	: Super admin dapat memberikan permission kepada user untuk menghapus bagian pada roles & permission.
+
+   d. Create Roles & Permission	: Super admin dapat memberikan permission kepada user untuk membuat roles & permission.
+
+
+8. Super admin dapat memberikan permission untuk meninjau **Reporting**

@@ -193,3 +193,93 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 4. Super admin can grant permission to review **Users**
 
 ![](/img/enterprise-admin-user-32.png)
+
+   a. User Listing	: Super admin can grant permission to users to view user lists.
+
+   b. Edit User		: Super admin can grant permission to users to edit users.
+
+   c. Delete User	: Super admin can grant permission to users to delete users.
+
+   d. Import Users	: Super admin can grant permission to users to import/input users.
+
+   e. All Users Data	: Super admin can grant permission to users for all user data.
+
+   f. View User		: Super admin can grant permission to users to view other users.
+
+   g. Create User	: Super admin can grant permission to users to create new users.
+
+   h. Add Role		: Super admin can grant permission to users to add user roles.
+
+
+
+5. Super admin can grant permission to review **Quiz Bank**
+
+![](/img/enterprise-admin-user-33.png)
+
+   a. View Quiz Bank	: Super admin can grant permission to users to view the quiz bank.
+
+   b. Quiz Bank Listing	: Super admin can grant permission to users to view the quiz bank list.
+
+   c. Create Quiz Bank	: Super admin can grant permission to users to create quiz banks.
+
+   d. Delete Quiz Bank	: Super admin can grant permission to users to delete quiz banks.
+
+   e. Edit Quiz Bank	: Super admin can grant permission to users to edit quiz banks.
+
+
+
+6. Super admin can grant permission to review **User Groups.**
+
+![](/img/enterprise-admin-user-34.png)
+
+   a. View User Group	: Super admin can grant permission to users to view user groups.
+
+   b. User Group Listing	: Super admin can grant permission to users to view user group listings.
+
+   c. Create User Group    : Super admin can grant permission to users to create user groups.
+
+   d. Edit User Group	: Super admin can grant permission to users to edit user groups.
+
+   e. Delete User Group    : Super admin can grant permission to users to delete existing user groups.
+
+
+
+7. Super admin can grant permission to review **Roles & Permissions**
+
+![](/img/enterprise-admin-user-35.png)
+
+   a. Edit Roles & Permission		: Super admin can grant permission to users to edit the roles & permissions page.
+
+   b. View Roles & Permission		: Super admin can grant permission to users to view the roles & permissions page.
+
+   c. Delete Roles & Permission	: Super admin can grant permission to users to delete parts of roles & permissions.
+
+   d. Create Roles & Permission	: Super admin can grant permission to users to create roles & permissions.
+
+
+8. Super admin can grant permission to review **reporting**
+
+![](/img/enterprise-admin-user-36.png)
+
+   a. View Report	: Super admin can grant permission to users to view incoming reports.
+
+   b. Report Listing	: Super admin can grant permission to users to view listing reports.
+
+   c. Create Report	: Super admin can grant permission to users to create reports.
+
+   d. Edit Report	: Super admin can grant permission to users to edit existing reports.
+
+   e. Delete Report	: Super admin can grant permission to users to delete reports that have been entered or have been created.
+
+
+9. Super admin can grant permission to review the **Dashboard**
+
+![](/img/enterprise-admin-user-37.png)
+
+   a. Dashboard   : Super admin can grant permission to users to explore the dashboard page.
+
+
+
+e. Then users who have been given permission according to these needs will appear in the **Permission Menu**.
+
+![](/img/enterprise-admin-user-38.png)
