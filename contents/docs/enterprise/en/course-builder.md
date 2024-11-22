@@ -48,3 +48,34 @@ e. Then, the created course will appear on the homepage of the course listing.
    c. Fill in the filters according to the Course you want to find, then click **Apply**.
 
 ![](/img/enterprise-admin-course-7.png)
+
+**3. QUIZ BANK**
+
+   a. Select **course** menu then click **Quiz Bank**.
+
+   b. Select the company that is suitable for the type of quiz bank you want to create.
+
+![](/img/enterprise-admin-course-8.png)
+
+   c. To create a new quiz bank, click the **+ NEW** button.
+
+![](/img/enterprise-admin-course-9.png)
+
+![](/img/enterprise-admin-course-10.png)
+
+Choose type of the question, then
+
+![](/img/enterprise-admin-course-11.png)
+
+the form is as follows:
+
+1. Fill in the question.
+2. Fill in the corresponding answer.
+3. Fill in keywords for easier quiz search.
+4. Fill in the feedback (optional, can be left blank), then click **save**.
+
+   d. Your created quiz bank will be displayed on **My Bank page.**
+
+   e. To create a folder related to the existing content, click **Create Folder**.
+
+![]()
