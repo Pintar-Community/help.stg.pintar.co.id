@@ -75,3 +75,23 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 ![](/img/enterprise-admin-user-16.png)
 
    k. Selanjutnya akan muncul tampilan data user yang dicari.
+
+3. **Bulk Modify Users**: cara memasukkan data user yang aktif dan tidak aktif dalam jumlah banyak.
+
+   a. Pilih perusahaan di kiri atas
+
+   b. Klik **Download Template** untuk mengunduh template file csv untuk data import.
+
+![](/img/enterprise-admin-user-17.png)
+
+   c. Klik **+Import** setelah data file csv diisi nama user dapat import untuk input para nama user.
+
+![](/img/enterprise-admin-user-18.png)
+
+   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada ‘**Import History**.
+
+![](/img/enterprise-admin-user-19.png)
+
+   e. Apabila saat import dengan status **FAILED** dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓.
+
+![](/img/enterprise-admin-user-20.png)

@@ -73,3 +73,23 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 ![](/img/enterprise-admin-user-16.png)
 
    k. The list of assigned users matching the filter criteria will appear.
+
+3. **Bulk Modify Users**: How to Import Active and Inactive Users in Bulk.
+
+   a. Select the company from the dropdown on the top-left corner.
+
+   b. Click **Download Template** to download a CSV file for data import.
+
+![](/img/enterprise-admin-user-17.png)
+
+   c. Click **+Import** after filling the CSV file with user details, you can upload it to import the user data.
+
+![](/img/enterprise-admin-user-18.png)
+
+   d. Then click **IMPORT**. The status of the bulk import will be displayed in the **Import History section**.
+
+![](/img/enterprise-admin-user-19.png)
+
+   e. If the status shows **FAILED**, download the error log using the ↓ symbol to identify the reasons for failure.
+
+![](/img/enterprise-admin-user-20.png)
