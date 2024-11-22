@@ -34,3 +34,17 @@ Tampilan **Courses** terdiri dari **Course Listing, Map Course, Quiz Bank dan Ar
    e. Lalu course yang telah dibuat akan muncul pada laman awal course listing.
 
 ![](/img/enterprise-admin-course-5.png)
+
+**2. MAP COURSE**
+
+   a. Pilih menu **course** lalu klik **map course**.
+
+![](/img/enterprise-admin-course-6.png)
+
+   b. Pilih perusahaan dan klik filter untuk mencari **course**.
+
+![](/img/enterprise-admin-course-6.1.png)
+
+   c. Isi filter sesuai Course yang ingin dicari, lalu klik **Apply**.
+
+![](/img/enterprise-admin-course-7.png)

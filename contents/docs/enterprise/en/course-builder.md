@@ -34,3 +34,17 @@ The **Courses** interface consists of **Course Listing, Map Course, Quiz Bank da
 e. Then, the created course will appear on the homepage of the course listing.
 
 ![](/img/enterprise-admin-course-5.png)
+
+**2. MAP COURSE**
+
+   a. Select **course** menu then click **map course**.
+
+![](/img/enterprise-admin-course-6.png)
+
+   b. Choose the company and click filter to search the **course**.
+
+![](/img/enterprise-admin-course-6.1.png)
+
+   c. Fill in the filters according to the Course you want to find, then click **Apply**.
+
+![](/img/enterprise-admin-course-7.png)
