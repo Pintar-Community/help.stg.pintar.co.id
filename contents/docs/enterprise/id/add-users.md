@@ -258,3 +258,28 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 
 8. Super admin dapat memberikan permission untuk meninjau **Reporting**
+
+![](/img/enterprise-admin-user-36.png)
+
+   a. View Report	: Super admin dapat memberikan permission kepada user untuk melihat report yang masuk.
+
+   b. Report Listing	: Super admin dapat memberikan permission kepada user untuk melihat report listing.
+
+   c. Create Report	: Super admin dapat memberikan permission kepada user untuk membuat report.
+
+   d. Edit Report	: Super admin dapat memberikan permission kepada user untuk mengedit report yang ada.
+
+   e. Delete Report	: Super admin dapat memberikan permission kepada user untuk menghapus report yang telah masuk atau telah dibuat.
+
+
+9. Super admin dapat memberikan permission untuk meninjau **Dashboard**.
+
+![](/img/enterprise-admin-user-37.png)
+
+
+   a. Dashboard   : Super admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
+
+
+e. Maka akan muncul user yang telah diberikan permission sesuai dengan kebutuhan tersebut di **Menu Permission**.
+
+![](/img/enterprise-admin-user-38.png)
