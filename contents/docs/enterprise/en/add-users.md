@@ -63,3 +63,13 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 ![](/img/enterprise-admin-user-13.png)
 
 ![](/img/enterprise-admin-user-14.png)
+
+   i. Fill in the user details for assignment, then click Add.
+
+![](/img/enterprise-admin-user-15.png)
+
+   j. To verify if the users have been assigned, click **Filter**, fill in the filter data, and click **Apply**.
+
+![](/img/enterprise-admin-user-16.png)
+
+   k. The list of assigned users matching the filter criteria will appear.

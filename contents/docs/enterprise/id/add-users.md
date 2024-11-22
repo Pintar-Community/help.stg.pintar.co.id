@@ -65,3 +65,13 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 
 ![](/img/enterprise-admin-user-14.png)
+
+   i. Isi data sesuai data yang ingin di-assign, lalu klik add
+
+![](/img/enterprise-admin-user-15.png)
+
+   j. Untuk mengecek apakah user sudah ter-assign bisa klik **Filter**, kemudian isi data filter lalu klik **Apply**.
+
+![](/img/enterprise-admin-user-16.png)
+
+   k. Selanjutnya akan muncul tampilan data user yang dicari.
