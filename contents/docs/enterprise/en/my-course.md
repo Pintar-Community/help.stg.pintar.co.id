@@ -16,7 +16,7 @@ Once inside the class, the interface will appear as shown in the example image. 
 
 ### 1. Overview
 
-![](/img/1.jpg)
+![](/img/overview-eng.jpg)
 
 Contains information about the course description and details of the learning provider.
 
@@ -55,7 +55,7 @@ Features video content with options to adjust resolution, playback speed, and fu
 
 * **Notes**
 
-![](/img/2.5.png)
+![](/img/notes-comment.jpg)
 
 This feature is available for both video and document content. It allows you to take important notes while watching a video, making it easier to revisit and organize your thoughts later.
 
@@ -76,11 +76,11 @@ This feature is available for both video and document content. It allows you to 
 
 2. Click the Submit button
 
-![](/img/2.7.png)
+![](/img/comment.jpg)
 
 3. Your comment will appear in the comment section.
 
-![](/img/2.8.png)
+![](/img/comment-2.jpg)
 
 **b. Quiz**
 
@@ -90,11 +90,11 @@ The Quiz section requires you to answer a set of questions. It displays the numb
 
 1. Click the Start Quiz button
 
-![](/img/2.9.png)
+![](/img/quiz-eng.jpg)
 
 2. A quiz interface will appear with
 
-![](/img/2.10.png)
+![](/img/quiz-eng-3.jpg)
 
 * A Timer (top-right corner) showing the duration allowed.
 * Back and Next buttons (bottom-left and bottom-right) to navigate between questions.
@@ -102,21 +102,21 @@ The Quiz section requires you to answer a set of questions. It displays the numb
 
 3. After answering all the questions in the quiz, a review screen will appear as shown in the example image.
 
-![](/img/2.11.png)
+![](/img/quiz-eng-4.jpg)
 
 In the bottom-left corner, you can use the Back button to revise your answers if necessary. Once you are confident and sure of your answers, click the Submit button.
 
 4. After clicking Submit, a Final Submission pop-up will appear. Here, you are encouraged to double-check your answers. If you are certain, click the Send button to finalize your submission.
 
-![](/img/2.12.png)
+![](/img/quiz-eng-5.jpg)
 
 5. Your score will be displayed after submission.
 
-![](/img/2.13.png)
+![](/img/quiz-eng-6.jpg)
 
-*6.* If the Retake button is available, you can attempt the quiz again until the maximum attempts are reached.
+6*.* If the Retake button is available, you can attempt the quiz again until the maximum attempts are reached.
 
-![](/img/2.14.png)
+![](/img/quiz-eng-7.jpg)
 
 7. You can also review your answers by clicking Review Answers. However, if you click Review Answers while there are remaining attempts available, the remaining attempts will automatically reset to zero.
 
@@ -172,13 +172,13 @@ In this section, there are discussion questions provided by the Instructor that 
 
  **f. Assignment**
 
-![](/img/my-course-23.jpg)
+![](/img/assignment-eng.jpg)
 
 This section displays the assignments that need to be completed. It includes details such as the assignment question, Start Date, Due Date, and Completion Status.
 
-![](/img/my-course-24.jpg)
+![](/img/assignment-eng-2.jpg)
 
-![](/img/my-course-25.jpg)
+![](/img/assignment-eng-3.jpg)
 
 **How to submit an Assignment :**
 
@@ -190,31 +190,31 @@ This section displays the assignments that need to be completed. It includes det
 
 4. Submitted answers, along with their grades, will appear in the assignment interface
 
-![](/img/my-course-26.jpg)
+![](/img/assignment-eng-4.jpg)
 
 5. If the deadline has not passed and the assignment has not been graded, you can revise your answer using the "Edit Answer" button.
 
-![](/img/my-course-27.jpg)
+![](/img/assignment-eng-5.jpg)
 
 ### **3. Grades**
 
-![](/img/my-course-28.png)
+![](/img/grade.jpg)
 
 The Grades menu shows final grades, rankings, and grade components.
 
-![](/img/my-course-29.png)
+![](/img/grade-2.jpg)
 
 View detailed rankings by clicking "See Details"
 
-![](/img/my-course-30.png)
+![](/img/grade-3.jpg)
 
 You can also Filter rankings by name using the "Search by Name" feature
 
-![](/img/my-course-31.png)
+![](/img/grade-4.jpg)
 
 ### **4. Notes**
 
-![](/img/my-course-32.png)
+![](/img/notes.jpg)
 
 The Notes section contains notes you have recorded from the Video or Document content.You can revisit and study the notes you’ve created (*as shown in the example*).
 
