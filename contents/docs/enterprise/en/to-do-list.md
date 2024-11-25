@@ -8,19 +8,19 @@ This section contains reminders for activities and tasks that need to be complet
 
 This section provides information about tasks that have not been completed yet, along with their deadlines.
 
-![](/img/Enterprise-LMS-Dashboard_1.4.png)
+![](/img/unfinished-assignment.jpg)
 
 #### 2. Today's Event
 
 This section displays information about live sessions or classes scheduled for the day you access the LMS.
 
-![](/img/Enterprise-LMS-Dashboard_1.5.png)
+![](/img/todays-session.jpg)
 
 #### 3. Upcoming Event
 
 This section contains information about upcoming live sessions or classes scheduled for dates close to when you are using the LMS.
 
-![](/img/Enterprise-LMS-Dashboard_1.6.png)
+![](/img/upcoming-event.jpg)
 
 #### How to View the Complete To-Do List :
 
@@ -38,4 +38,4 @@ This section contains information about upcoming live sessions or classes schedu
 
 4. You will then be directed to the specific activity (*such as Task, Exam, or Live Session*) listed in the To-Do List
 
-![](/img/to-do-list-4.jpg)
+![](/img/to-do-list-3.jpg)
