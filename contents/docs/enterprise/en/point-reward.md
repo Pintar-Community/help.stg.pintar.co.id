@@ -14,7 +14,7 @@ To explore the Points and Rewards feature, users can access it by clicking the P
 
 After clicking the Points Icon, you will be directed to the Rewards page as shown below.
 
-![](/img/reward_1.2.png)
+![](/img/poin-reward.jpg)
 
 1. **My Reward :** At point number 1, if you click on the My Rewards icon, a screen like the one shown below will appear. You can view the details of the rewards, including how to use them and the cashback vouchers available for redemption.
 
