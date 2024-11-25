@@ -6,10 +6,10 @@ In this section, you can view the Leaderboard table, which displays the total po
 
 1. To view the complete list of participants, click “See All” in the top-right corner.
 
-   ![](/img/leaderboard.jpg)
+   ![](/img/leaderboard-eng.jpg)
 2. The full Leaderboard will then be displayed
 
-   ![](/img/leaderboard-1.jpg)
+   ![](/img/leaderboard-eng-2.jpg)
 3. You can also search for other participants’ points and rankings by entering their name in the search field
 
-![](/img/leaderboard-2.jpg)
+![](/img/leaderboard-eng-3.jpg)
