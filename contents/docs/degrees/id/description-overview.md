@@ -26,11 +26,11 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 
 ![](/img/d-o-4.jpg)
 
-5.  Anda dapat mengisi Deskripsi pada menu Couse Overview dengan klik ikon pensil
+5. Anda dapat mengisi Deskripsi pada menu Couse Overview dengan klik ikon pensil
 
 ![](/img/d-o-5.jpg)
 
-6.  Isi deskripsi kelas tersebut, kemudian klik Save
+6. Isi deskripsi kelas tersebut, kemudian klik Save
 
 ![](/img/d-o-6.jpg)
 
@@ -38,10 +38,10 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 
 ![](/img/d-o-7.jpg)
 
-8.  Pilih dokumen yang akan diupload
+8. Pilih dokumen yang akan diupload
 
 ![](/img/d-o-8.jpg)
 
-9.  Deskripsi dan Dokumen Anda sudah selesai diupload
+9. Deskripsi dan Dokumen Anda sudah selesai diupload
 
 ![](/img/d-o-9.jpg)
