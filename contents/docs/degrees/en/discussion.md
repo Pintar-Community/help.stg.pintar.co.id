@@ -7,11 +7,8 @@ Pada bagian ini, Anda dapat memberikan pertanyaan berupa diskusi pada setiap ses
 ![](/img/diskusi_.jpg)
 
 1. Berisi soal diskusi
-
 2. Terdapat Due Date/Tenggat Waktu untuk menjawab diskusi oleh students
-
 3. Anda juga dapat memberikan jawaban berupa kesimpulan dari pertanyaan diskusi tersebut pada kolom “Add your answer”
-
 4. Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
 
 Berikut adalah contoh jawaban diskusi yang telah disubmit oleh student.
@@ -24,14 +21,10 @@ jawaban diskusi student dengan beberapa ketentuan seperti gambar di bawah ini.
 ![](/img/diskusi_2.jpg)
 
 1. Thumb Up/Ikon Jempol : Hanya sebagai apresiasi dari jawaban student dan tidak mendapatkan nilai. Apabila Anda hanya memberikan Thumb Up/Ikon Jempol pada jawaban student, maka student tersebut tidak mendapatkan nilai
-
 2. Reply : pada bagian ini Anda dapat mengomentari jawaban student
-
 3. Mark as check : mendapatkan nilai 1 poin. Apabila Anda mengklik “Mark as check” pada jawaban student, maka student tersebut akan mendapatkan nilai 1 pada diskusi tersebut
 
 4. Bagian ini menampilkan waktu student mensubmit jawaban diskusi tersebut
-
-
 
 Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktur.
 
