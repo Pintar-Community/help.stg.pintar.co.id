@@ -8,6 +8,8 @@ Pada bagian ini berisi konten berupa Video. Anda dapat membuka tampilan video de
 
 Fitur ini berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
 
+![](/img/Enterprise-LMS-Video_1.2.png)
+
 * Kecepatan Video
 
 Fitur ini berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
