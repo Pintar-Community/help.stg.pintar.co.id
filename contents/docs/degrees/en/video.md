@@ -6,7 +6,7 @@ Pada bagian ini berisi konten berupa Video. Anda dapat membuka tampilan video de
 
 * Resolution
 
-Fitur ini berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan.
+Fitur ini berguna untuk mengatur jenis resolusi yang akan digunakkan sesuai dengan yang Anda inginkan. 
 
 ![](/img/Enterprise-LMS-Video_1.2.png)
 
