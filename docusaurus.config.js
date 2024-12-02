@@ -12,15 +12,15 @@ const config = {
     "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png",
 
   // Set the production url of your site here
-  url: "https://help.pintar.co",
+  url: "https://help.stg.pintar.co.id",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "Pintar-Pemenang-Asia", // Usually your GitHub org/user name.
-  projectName: "help.pintar.co", // Usually your repo name.
+  organizationName: "Pintar-Community", // Usually your GitHub org/user name.
+  projectName: "help.stg.pintar.co.id", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
