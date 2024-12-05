@@ -4,13 +4,13 @@ sidebar_position: 5
 ---
 ### View All Class per Academic Year
 
-![](/img/degree-lecture-filter-ay.jpg)
+![](/img/degree-lecture-filter-ay-3.jpg)
 
-Bagian ini berfungsi untuk memfilter tampilan dashboard berdasarkan Academic Year/Tahun Ajaran. Anda dapat memfilter berdasarkan Academic Year/Tahun Ajaran yang mau diakses.
+This section functions to filter the dashboard view based on the Academic Year. You can filter it according to the Academic Year you wish to access.
 
 ![](/img/degree-lecture-filter-ay-2.jpg)
 
-Cara menampilkan dashboard sesuai Academic Year :
+**How to Display the Dashboard by Academic Year:**
 
-1. Anda dapat menampilkan Academi Year secara keseluruhan yaitu dengan memilih All
-2. Apabila Anda tidak ingin menampilkan secara keseluruhan, Anda dapat memilih berdasarkan Academic Year yang akan diakses (Contoh : 2024/2025 Ganjil)
+1. To display all Academic Years, select All.
+2. If you do not wish to display all Academic Years, you can select a specific Academic Year to access (*e.g., 2024/2025 Odd Semester*).
