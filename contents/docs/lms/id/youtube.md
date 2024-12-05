@@ -24,32 +24,36 @@ Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat 
 
  **Cara mengupload Video berupa Youtube :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard
+1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
 ![](/img/diskusi_4.jpg)
 
-2. Pilih Manage Class
+2. Pilih Manage Class.
 
 ![](/img/diskusi_5.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage
+3. Pilih kelas yang akan diedit, kemudian klik Manage.
 
 ![](/img/diskusi_6.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material
+4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
 
 ![](/img/diskusi_7.jpg)
 
-5. Pilih sesi yang akan ditambahkan Artikel, kemudian klik + Add Content
+5. Pilih sesi yang akan ditambahkan Artikel, kemudian klik + Add Content.
 
 ![](/img/diskusi_8.jpg)
 
-6. Kemudian pilih content Youtube
+6. Kemudian pilih content Youtube.
 
 ![](/img/degree-lecture-youtube-2.jpg)
 
-7. Tuliskan judul dan input link Youtube
+7. Tuliskan judul dan input link Youtube.
 
 ![](/img/degree-lecture-youtube.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save
+8. Apabila sudah diisi, kemudian klik Save.
+
+9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+
+![](/img/degree-lecture-publish.jpg)
