@@ -1,12 +1,12 @@
 ---
-title: Description & Overview
+title: Deskripsi & Ringkasan
 sidebar_position: 9
 ---
-![](/img/degree-lecture-description.jpg)
+![](/img/degree-lecture-deskripsi.jpg)
 
-![](/img/degree-lecture-description-2.jpg)
+![](/img/degree-lecture-deskripsi-2.jpg)
 
-Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran. Pada menu **Overview** ini, Instruktur dapat menambahkan supporting dokumen seperti silabus dan dokumen lainnya.
+Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran. Pada menu ini, Instruktur dapat menambahkan supporting dokumen seperti silabus dan dokumen lainnya.
 
 **Cara Menambahkan Deskripsi :**
 
@@ -45,3 +45,9 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 9. Deskripsi dan Dokumen Anda sudah selesai diupload
 
 ![](/img/d-o-9.jpg)
+
+10. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+
+11. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+
+![](/img/degree-lecture-publish.jpg)
