@@ -2,7 +2,7 @@
 title: (Lecture) Event Calendar
 sidebar_position: 1
 ---
-![](/img/degree-lecture-event-calendar-2.jpg)
+![](/img/degree-lecture-event-calendar-3.jpg)
 
 In this Event Calendar, you will find tasks and learning activities that instructors need to carry out in the respective class. This menu is located on the LMS Dashboard, on the right side.
 
