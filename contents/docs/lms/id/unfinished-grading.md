@@ -1,5 +1,5 @@
 ---
-title: Unfinished Grading
+title: Penilaian Belum Selesai
 sidebar_position: 2
 ---
 ![](/img/ug-1.jpg)
@@ -13,7 +13,7 @@ oleh Instruktur.
 
 ![](/img/ug-2.jpg)
 
-2. Untuk melihat nama student yang belum dinilai, Anda dapat klik judul pada konten (*ex : Ujian Tengah Semester)* seperti gambar dan akan diarahkan pada menu penilaian yang harus dilengkapi.
+2. Untuk melihat nama student yang belum dinilai, Anda dapat klik judul pada konten (con *: Ujian Tengah Semester)* seperti gambar dan akan diarahkan pada menu penilaian yang harus dilengkapi.
 
 ![](/img/ug-3.jpg)
 
