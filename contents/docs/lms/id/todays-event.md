@@ -1,5 +1,5 @@
 ---
-title: Today's Event
+title: Acara Hari Ini
 sidebar_position: 3
 ---
 ![](/img/degree-lecture-today-s-event.jpg)
