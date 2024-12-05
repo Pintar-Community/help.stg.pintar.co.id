@@ -1,10 +1,8 @@
 ---
-title: Content Material
+title: Konten Kursus
 sidebar_position: 10
 ---
-
-
-![](/img/degree-lecture-content-material.jpg)
+![](/img/degree-lecture-content-material-indo.jpg)
 
 Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. Pada bagian ini akan terdiri dari beberapa konten berupa :
 
@@ -17,5 +15,5 @@ Serta berisi tugas-tugas berupa :
 
 1. Diskusi
 2. Quiz
-3. Individual Assignment
-4. Exam
+3. Tugas Individu
+4. Ujian
