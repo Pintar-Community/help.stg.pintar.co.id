@@ -1,5 +1,5 @@
 ---
-title: (Lecture) Event Calender
+title: (Lecture) Event Calendar
 sidebar_position: 1
 ---
 ![](/img/degree-lecture-event-calendar-2.jpg)
