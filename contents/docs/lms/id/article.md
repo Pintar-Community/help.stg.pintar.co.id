@@ -32,7 +32,7 @@ Pada konten ini berisi materi berupa Artikel. Apabila Anda sebagai instruktur in
 
 ![](/img/articlee-6.jpg)
 
-7.  Anda dapat membuat judul artikel dan isi artikel pada kolom yang tersedia
+7. Anda dapat membuat judul artikel dan isi artikel pada kolom yang tersedia
 
 ![](/img/articlee-7.jpg)
 
