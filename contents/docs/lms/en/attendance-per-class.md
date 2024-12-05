@@ -4,19 +4,18 @@ sidebar_position: 7
 ---
 ![](/img/degree-lecture-attendance.jpg)
 
-Pada dashboard juga terdapat kolom **Attandance**. Menu ini berguna untuk melihat kehadiran students disetiap pertemuan pada masing-masing kelas.
+The dashboard also includes an Attendance column. This menu is useful for viewing students' attendance for each session in their respective classes.
 
-**Cara melihat Kehadiran Students :**
+**How to View Students' Attendance :**
 
-1. Klik *See detail* untuk membuka tampilan Attandancenya dan akan muncul tampilan seperti gambar
+1. Click "See Detail" to open the Attendance view, and a screen similar to the example image will appear.
 
 ![](/img/degree-lecture-attendance-2.jpg)
 
+2. You can view the details of students' attendance for each session/meeting.
 
-2. Anda dapat melihat rincian kehadiran students disetiap sesi/pertemuan.
+Notes : 
 
-Keterangan : 
+0 % = Absent
 
-0 % = Tidak Hadir
-
-100 % = Hadir
+100 % = Present
