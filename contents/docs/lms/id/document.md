@@ -30,7 +30,7 @@ Pada bagian ini, Anda dapat memberikan materi berupa dokumen dengan format PDF. 
 
 ![](/img/doc-5.jpg)
 
-6. Kemudian pilih content Assignment.
+6. Kemudian pilih content Dokumen.
 
 ![](/img/doc-6.jpg)
 

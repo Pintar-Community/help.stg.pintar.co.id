@@ -30,7 +30,7 @@ In this section, you can provide materials in the form of PDF documents. These m
 
 ![](/img/doc-5.jpg)
 
-6. Choose the Assignment content type.
+6. Choose the Document content type.
 
 ![](/img/doc-6.jpg)
 
