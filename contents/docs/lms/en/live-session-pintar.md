@@ -4,9 +4,7 @@ sidebar_position: 18
 ---
 ![](/img/live-session-pintar-1.jpg)
 
-Pada Live Session
-ini, Anda sebagai Instruktur dan seluruh student akan melaksanakan sesi
-langsung menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas
+Pada Live Session ini, Anda sebagai Instruktur dan seluruh student akan melaksanakan sesi langsung menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas
 yang sudah disepakati oleh Instruktur dan Student. 
 
 ![](/img/live-session-pintar-2.jpg)
@@ -14,12 +12,9 @@ yang sudah disepakati oleh Instruktur dan Student.
 Pada tampilan Live Session, akan ada beberapa informasi seperti :
 
 1. Judul Live Session
-
 2. Jadwal pelaksanaan Live Session
-
-3. Durasi pelaksanaan Live Session
-
-4. Tombol Join : Anda dapat klik button join untuk masuk ke room Live Session. Anda sudah dapat join Live Session 10 menit sebelum pelaksanaan Live Session.
+3. Durasi pelaksanaan Live Session
+4. Tombol Join : Anda dapat klik button join untuk masuk ke room Live Session. Anda sudah dapat join Live Session 10 menit sebelum pelaksanaan Live Session.
 
 Apabila Anda sudah join ke room Live Session, maka akan muncul tampilan Live Session pada Jitsi seperti gambar.
 
@@ -68,3 +63,7 @@ Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda a
 ![](/img/live-session-pintar-7.jpg)
 
 8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+
+9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+
+![](/img/degree-lecture-publish.jpg)
