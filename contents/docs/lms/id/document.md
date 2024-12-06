@@ -26,7 +26,7 @@ Pada bagian ini, Anda dapat memberikan materi berupa dokumen dengan format PDF. 
 
 ![](/img/doc-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan dokumen, kemudian klik + Add Content.
 
 ![](/img/doc-5.jpg)
 
