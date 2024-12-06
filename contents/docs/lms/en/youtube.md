@@ -40,7 +40,7 @@ This feature allows you to enlarge the video display for a clearer view.
 
 ![](/img/diskusi_7.jpg)
 
-5. Select the session where you want to add a video, then click + Add Content.
+5. Select the session where you want to add a youtube, then click + Add Content.
 
 ![](/img/diskusi_8.jpg)
 

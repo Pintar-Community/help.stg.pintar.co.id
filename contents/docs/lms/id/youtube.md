@@ -40,7 +40,7 @@ Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat 
 
 ![](/img/diskusi_7.jpg)
 
-5. Pilih sesi yang akan ditambahkan Artikel, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan Youtube, kemudian klik + Add Content.
 
 ![](/img/diskusi_8.jpg)
 
