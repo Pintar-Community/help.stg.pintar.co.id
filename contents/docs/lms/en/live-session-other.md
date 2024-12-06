@@ -41,7 +41,7 @@ Additionally, you can record student attendance based on their participation in 
 
 ![](/img/articlee-4.jpg)
 
-5. Select the session where you want to add a Live Session, then click + Add Content.
+5. Select the session where you want to add a Live Session (Other), then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
@@ -49,7 +49,7 @@ Additionally, you can record student attendance based on their participation in 
 
 ![](/img/livesession_6.jpg)
 
-*7.* Fill in all the required information about the Live Session (*Title, Description, URL Link, Start Date, Duration*).
+7*.* Fill in all the required information about the Live Session (*Title, Description, URL Link, Start Date, Duration*).
 
 ![](/img/livesession_7.jpg)
 

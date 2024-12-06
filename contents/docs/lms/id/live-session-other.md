@@ -42,7 +42,7 @@ Kemudian, apabila Anda juga dapat mengisi absensi students sesuai kehadiran pada
 
 ![](/img/articlee-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan Live Session (Other), kemudian klik + Add Content.
 
 ![](/img/articlee-5.jpg)
 
@@ -54,8 +54,8 @@ Kemudian, apabila Anda juga dapat mengisi absensi students sesuai kehadiran pada
 
 ![](/img/livesession_7.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
 ![](/img/degree-lecture-publish.jpg)
