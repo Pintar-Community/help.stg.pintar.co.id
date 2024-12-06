@@ -35,6 +35,7 @@ The Offline Class feature is used for attendance tracking in offline or face-to-
 ![](/img/degree-lecture-offline-class-6.jpg)
 
 **Steps to Add an Offline Class :**
+
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/degree-lecture-manage-class.jpg)

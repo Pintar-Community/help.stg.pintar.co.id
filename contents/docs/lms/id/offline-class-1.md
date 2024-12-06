@@ -2,8 +2,6 @@
 title: Offline Class
 sidebar_position: 16
 ---
-
-
 ![](/img/offlineclass_.jpg)
 
 Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran yang dilaksanakan secara Offline atau Tatap Muka.
@@ -37,6 +35,7 @@ Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran 
 ![](/img/degree-lecture-offline-class-6.jpg)
 
 **Cara Menambahkan Offline Class :**
+
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
 ![](/img/degree-lecture-manage-class.jpg)
@@ -53,7 +52,7 @@ Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran 
 
 ![](/img/degree-lecture-manage-class-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan Offline Class, kemudian klik + Add Content.
 
 ![](/img/articlee-5.jpg)
 
