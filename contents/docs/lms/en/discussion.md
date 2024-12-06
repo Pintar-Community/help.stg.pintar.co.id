@@ -2,7 +2,6 @@
 title: Discussion
 sidebar_position: 13
 ---
-
 In this section, you can create discussion questions for each session, which students will answer and may receive grades for.
 
 ![](/img/diskusi_.jpg)
@@ -11,7 +10,6 @@ In this section, you can create discussion questions for each session, which stu
 2. Includes a Due Date for students to submit their answers.
 3. You can provide a summary or conclusion of the discussion question in the “Add your answer” field.
 4. Once you’ve entered your response, click the “Post” button to submit it.
-
 
 Example of a Student’s Submitted Answer.
 

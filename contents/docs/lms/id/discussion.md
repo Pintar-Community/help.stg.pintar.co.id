@@ -11,8 +11,6 @@ Pada bagian ini, Anda dapat memberikan pertanyaan berupa diskusi pada setiap ses
 3. Anda juga dapat memberikan jawaban berupa kesimpulan dari pertanyaan diskusi tersebut pada kolom “Add your answer”
 4. Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
 
-
-
 Berikut adalah contoh jawaban diskusi yang telah disubmit oleh student.
 
 ![](/img/degree-lecture-diskusi-2.jpg)
@@ -49,7 +47,7 @@ Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktu
 
 ![](/img/diskusi_7.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan diskusi, kemudian klik + Add Content.
 
 ![](/img/diskusi_8.jpg)
 
