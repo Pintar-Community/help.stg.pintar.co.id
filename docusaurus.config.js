@@ -72,7 +72,7 @@ const config = {
       image: "assets/Pintar-Logogram-Red-Cutout.png",
       colorMode: {
         defaultMode: "light",
-        disableSwitch: false,
+        disableSwitch: true,
       },
       tableOfContents: {
         minHeadingLevel: 2,
