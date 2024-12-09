@@ -23,15 +23,15 @@ Apabila Anda sudah join ke room Live Session, maka akan muncul tampilan Live Ses
 
 **Contoh apabila Anda hadir saat Live Session**
 
-Apabila Anda hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Joined/Bergabung.
+Apabila Anda hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Bergabung.
 
-![](/img/live-session-pintar-4.jpg)
+![](/img/degree-lecture-ls-pintar-6.jpg)
 
 **Contoh apabila Anda tidak hadir saat Live Session**
 
-Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Skipped/Dilewati.
+Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Dilewati.
 
-![](/img/live-session-pintar-5.jpg)
+![](/img/degree-lecture-ls-pintar-5.jpg)
 
 **Cara Menambahkan Live Session (Pintar) :**
 
@@ -51,7 +51,7 @@ Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda a
 
 ![](/img/articlee-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Pilih sesi yang akan ditambahkan Live Session (Pintar), kemudian klik + Add Content.
 
 ![](/img/articlee-5.jpg)
 
@@ -63,8 +63,8 @@ Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda a
 
 ![](/img/live-session-pintar-7.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
 ![](/img/degree-lecture-publish.jpg)
