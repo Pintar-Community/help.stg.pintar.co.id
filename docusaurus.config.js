@@ -1,15 +1,15 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Pintar Help",
-  tagline: "Documentation for Pintar Webiste",
-  favicon:
-    "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/pico/logo_pintaria_mobile.png",
+  title: "We are ready to help you",
+  tagline:
+    "Discover solutions and tips in our FAQ to enhance your journey with PINTAR",
+  favicon: "assets/favicon.png",
 
   // Set the production url of your site here
   url: "https://help.stg.pintar.co.id",
@@ -69,13 +69,20 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image:
-        "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg",
+      image: "assets/Pintar-Logogram-Red-Cutout.png",
+      colorMode: {
+        defaultMode: "light",
+        disableSwitch: false,
+      },
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 5,
+      },
       navbar: {
-        title: "Help",
+        title: "",
         logo: {
           alt: "Pintar Logo",
-          src: "https://storage.googleapis.com/cdn-1.pintaria.com/pintaria/v6/images/logo_pintar.svg",
+          src: "assets/Pintar-Logotype-Red-Cutout.png",
         },
         items: [
           { to: "/", label: "Home", position: "left" },
@@ -138,63 +145,85 @@ const config = {
             type: "localeDropdown",
             position: "right",
           },
+          {
+            type: "html",
+            position: "right",
+            value:
+              "<a class='button-login' href='https://pintar.co/id/home/auth'>Login</>",
+          },
         ],
       },
       footer: {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "PINTAR",
             items: [
               {
-                label: "Degree",
-                to: "/docs/degrees/introduction",
+                label: "Tentang Kami",
+                href: "https://pintar.co/id/about-us?type=ABOUT_US",
               },
               {
-                label: "Enterprise",
-                to: "/docs/enterprise/introduction",
+                label: "Snacks",
+                href: "https://pintar.co/id/snacks",
               },
               {
-                label: "FAQ",
-                to: "/docs/faq/introduction",
+                label: "Promosi",
+                href: "#",
               },
               {
-                label: "Blog",
-                to: "/blog",
+                label: "Acara",
+                href: "#",
+              },
+              {
+                label: "Karier",
+                href: "#",
               },
             ],
           },
           {
-            title: "Social",
+            title: "PRODUK",
+            items: [
+              {
+                label: "Korporasi",
+                href: "https://enterprise.pintar.co/",
+              },
+              {
+                label: "Kuliah",
+                href: "https://degrees.pintar.co/",
+              },
+              {
+                label: "Opportunity",
+                href: "#",
+              },
+              {
+                label: "Kursus",
+                href: "https://skills.pintar.co/",
+              },
+              {
+                label: "Prakerja",
+                href: "https://skills.pintar.co/prakerja",
+              },
+            ],
+          },
+          {
+            title: "Connect with us",
             items: [
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/pintar_co",
+                href: "https://www.instagram.com/pintar_co/",
               },
               {
-                label: "Tik Tok",
+                label: "Youtube",
+                href: "https://www.youtube.com/@PINTAR_CO",
+              },
+              {
+                label: "TikTok",
                 href: "https://www.tiktok.com/@pintar_co",
               },
               {
-                label: "Linked In",
+                label: "LinkedIn",
                 href: "https://www.linkedin.com/company/pintarco/",
-              },
-              {
-                label: "GitHub",
-                href: "https://github.com/Pintar-Pemenang-Asia/help.pintar.co",
-              },
-            ],
-          },
-          {
-            title: "More",
-            items: [
-              {
-                label: "About Us",
-                to: "https://pintar.co/about",
-              },
-              {
-                label: "Contact Us",
-                to: "https://pintar.co/page/contact-us",
               },
             ],
           },
