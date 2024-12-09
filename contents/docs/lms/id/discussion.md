@@ -1,5 +1,5 @@
 ---
-title: Discussion
+title: Diskusi
 sidebar_position: 13
 ---
 Pada bagian ini, Anda dapat memberikan pertanyaan berupa diskusi pada setiap sesi yang nanti akan dijawab oleh students dan dapat diberikan nilai.
