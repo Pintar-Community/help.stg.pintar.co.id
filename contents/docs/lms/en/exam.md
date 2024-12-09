@@ -2,7 +2,7 @@
 title: Exam
 sidebar_position: 21
 ---
-This section will display the exams that students must complete. This section will display the exam questions along with the start date and due date.
+This section will display the exams that students must complete. This section will display the exam questions along with the Start date and Due date.
 
 ![](/img/degree-lecture-exam-8.jpg)
 

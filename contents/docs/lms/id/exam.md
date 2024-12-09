@@ -2,7 +2,7 @@
 title: Ujian
 sidebar_position: 21
 ---
-Bagian ini akan menampilkan Ujian yang harus dikerjakan oleh students. Pada bagian ini akan menampilkan soal ujian beserta Start date dan Due date.
+Bagian ini akan menampilkan Ujian yang harus dikerjakan oleh students. Pada bagian ini akan menampilkan soal ujian beserta Tanggal mulai dan Batas waktu.
 
 ![](/img/degree-lecture-exam-7.jpg)
 
