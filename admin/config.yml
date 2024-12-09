@@ -1,7 +1,7 @@
 backend:
   name: github
-  branch: main 
-  repo: Pintar-Community/help.pintar.co
+  branch: main
+  repo: Pintar-Community/help.stg.pintar.co.id
   base_url: https://oauth.soc.pintar.co
   auth_endpoint: /auth
   commit_messages:
@@ -10,7 +10,7 @@ backend:
     delete: Delete {{collection}} “{{slug}}”
     uploadMedia: Upload “{{path}}" [skip ci]
     deleteMedia: Delete “{{path}}” [skip ci]
-    openAuthoring: '{{message}}'
+    openAuthoring: "{{message}}"
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
@@ -269,7 +269,7 @@ collections:
         widget: "list"
         i18n: true
       - label: "Authors"
-        name: "authors" 
+        name: "authors"
         i18n: true
         widget: "select"
         options: ["juniyadi", "yusran"]
