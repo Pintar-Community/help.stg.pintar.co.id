@@ -8,7 +8,7 @@ This section will display the exams that students must complete. This section wi
 
 ![](/img/degree-lecture-exam-6.jpg)
 
-**How to add Exam questions:**
+##### **How to add Exam questions :**
 
 1. Click the Profile logo in the top right corner of the Dashboard.
 
