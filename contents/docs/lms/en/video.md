@@ -10,15 +10,15 @@ This feature is useful for setting the type of resolution to be used according t
 
 ![](/img/Enterprise-LMS-Video_1.2.png)
 
-* Video Speed
+* **Video Speed**
 
 This feature is useful for setting the video speed. You can speed up or slow down the video speed with this feature function.
 
-* Full Screen
+* **Full Screen**
 
 This feature is useful for enlarging the video screen. You can see the video more clearly with this feature function.
 
-**How to upload a video:**
+##### **How to upload a video :**
 
 1. Click the Profile logo in the top right corner of the Dashboard.
 

@@ -18,7 +18,7 @@ Fitur ini berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun
 
 Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
 
-**Cara mengupload Video :**
+##### **Cara mengupload Video :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
