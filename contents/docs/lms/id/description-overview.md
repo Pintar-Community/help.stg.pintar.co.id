@@ -8,13 +8,13 @@ sidebar_position: 9
 
 Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran. Pada menu ini, Instruktur dapat menambahkan supporting dokumen seperti silabus dan dokumen lainnya.
 
-**Cara Menambahkan Deskripsi :**
+##### **Cara Menambahkan Deskripsi :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard
+1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
 ![](/img/d-o-1.jpg)
 
-2. Pilih Manage Class
+2. Pilih Manage Class.
 
 ![](/img/d-o-2.jpg)
 
@@ -38,7 +38,7 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 
 ![](/img/d-o-7.jpg)
 
-8. Pilih dokumen yang akan diupload
+8. Pilih dokumen yang akan diupload.
 
 ![](/img/d-o-8.jpg)
 

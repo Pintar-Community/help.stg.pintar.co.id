@@ -8,7 +8,7 @@ sidebar_position: 9
 
 This section contains information about the class description and details of the learning provider. In this menu, instructors can add supporting documents such as syllabi and other materials.
 
-**Steps to Add a Description :**
+##### **Steps to Add a Description :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
