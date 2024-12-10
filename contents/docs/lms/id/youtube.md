@@ -22,7 +22,7 @@ Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat 
 
 ![](/img/degree-lecture-youtube-5.jpg)
 
- **Cara mengupload Video berupa Youtube :**
+#####  **Cara mengupload Video berupa Youtube :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
