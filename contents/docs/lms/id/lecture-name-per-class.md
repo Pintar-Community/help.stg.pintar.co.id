@@ -1,5 +1,5 @@
 ---
-title: Lecture Name per Class
+title: Nama Dosen per Kelas
 sidebar_position: 36
 ---
 Setelah Anda berhasil Login maka tampilannya akan seperti ini
@@ -16,6 +16,6 @@ Untuk melihat Mata Kuliah sesuai dengan Tahun Ajaran, Anda dapat klik Tahun Ajar
 
 ![](/img/view-all-class-per-academic-year-4.ind.png)
 
-Setelah Anda pilih Tahun Ajaran, maka akan muncul **Lecture Name per Class** sesuai dengan Tahun Ajaran yang anda pilih seperti berikut:
+Setelah Anda pilih Tahun Ajaran, maka akan muncul **Nama Dosen per Kelas** sesuai dengan Tahun Ajaran yang anda pilih seperti berikut:
 
 ![](/img/lecture-name-per-class.ind.png)
