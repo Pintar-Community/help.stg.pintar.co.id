@@ -2,8 +2,6 @@
 title: Quiz
 sidebar_position: 20
 ---
-
-
 ![](/img/degree-lecture-quiz.jpg)
 
 Pada konten Quiz ini, terdiri atas 3 jenis Quiz (*Pre Quiz, Practice Quiz, dan Post Quiz*). Pada tampilan Quiz ini,  Anda juga dapat melihat informasi berupa jumlah pertanyaan quiz, durasi quiz, nilai minimum quiz, dan metode penilaian yang diambil.
@@ -12,7 +10,7 @@ Pada konten Quiz ini, terdiri atas 3 jenis Quiz (*Pre Quiz, Practice Quiz, dan P
 
 Untuk melihat status pengerjaan quiz oleh students, Anda dapat melihat detailnya pada menu Performance pada Dashboard. 
 
-**Cara menambahkan Quiz :**
+##### **Cara menambahkan Quiz :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
@@ -40,7 +38,7 @@ Untuk melihat status pengerjaan quiz oleh students, Anda dapat melihat detailnya
 
 7. Pada content Quiz, terdiri dari 2 bagian (Quiz Settings dan Quiz Material).
 
-**\- Quiz Settings**
+###### **\- Quiz Settings**
 
 Anda dapat mengisi semua informasi yang terdapat pada Quiz Settings.
 
@@ -66,9 +64,7 @@ i. Review Quiz Result : Review pada quiz dapat disetting menjadi aktif/nonaktif
 
 j. Shuffle Question & Option Order : Pertanyaan pada Quiz dapat dimunculkan secara acak ataupun berurutan
 
-
-
-**\- Quiz Material**
+###### **\- Quiz Material**
 
 Untuk menambahkan soal Quiz, Anda dapat melakukannya pada section Quiz Material ini.
 
@@ -135,6 +131,8 @@ Untuk menambahkan soal Quiz, Anda dapat melakukannya pada section Quiz Material 
 ![](/img/degree-lecture-quiz-13.jpg)
 
 \- Kemudian klik Save untuk menyimpan
+
+
 
 8. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
