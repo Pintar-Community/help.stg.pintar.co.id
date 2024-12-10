@@ -6,7 +6,7 @@ sidebar_position: 3
 
 This section contains Today’s Event, which includes Live Sessions. The Live Sessions displayed in Today’s Event are those scheduled to take place when the Instructor accesses the LMS.
 
-##### **How to Access Live Sessions from the Today’s Event Menu :**
+#### **How to Access Live Sessions from the Today’s Event Menu :**
 
 1. To view all events, click the View All button in the top-right corner. A screen like the example image will be displayed.
 

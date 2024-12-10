@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Pada bagian ini berisi Acara Hari Ini yang berupa Live Session. Pelaksanaan Live Session yang akan muncul pada Acara Hari ini adalah Live Session yang akan dilaksanakan pada saat Instruktur mengakses LMS.
 
-##### **Cara mengakses Live Session dari menu Acara Hari Ini :**
+#### **Cara mengakses Live Session dari menu Acara Hari Ini :**
 
 1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti gambar.
 
