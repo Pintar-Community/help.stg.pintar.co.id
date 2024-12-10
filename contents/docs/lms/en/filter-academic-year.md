@@ -10,7 +10,7 @@ This section functions to filter the dashboard view based on the Academic Year. 
 
 ![](/img/degree-lecture-filter-ay-2.jpg)
 
-**How to Display the Dashboard by Academic Year:**
+##### **How to Display the Dashboard by Academic Year:**
 
 1. To display all Academic Years, select All.
 2. If you do not wish to display all Academic Years, you can select a specific Academic Year to access (*e.g., 2024/2025 Odd Semester*).
