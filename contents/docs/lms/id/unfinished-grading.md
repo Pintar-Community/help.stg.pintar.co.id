@@ -7,7 +7,7 @@ sidebar_position: 2
 Pada menu Penilaian Belum Selesai berisi kegiatan-kegiatan yang belum dinilai
 oleh Instruktur.
 
-**Cara untuk menilai Tugas/Ujian :**
+##### **Cara untuk menilai Tugas/Ujian :**
 
 1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti digambar.
 

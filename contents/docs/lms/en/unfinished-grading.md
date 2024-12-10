@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The Unfinished Grading menu contains activities that have not yet been graded by the Instructor.
 
-**How to Grade Assignments/Exams :**
+##### **How to Grade Assignments/Exams :**
 
 1. To view all items, click the View All button in the top-right corner. This will display a screen as shown in the image.
 
