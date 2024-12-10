@@ -6,7 +6,7 @@ sidebar_position: 16
 
 Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran yang dilaksanakan secara Offline atau Tatap Muka.
 
-**Cara mengisi Absensi pada menu Offline Class :**
+##### **Cara mengisi Absensi pada menu Offline Class :**
 
 1. Klik sesi yang berisi Offline Class.
 
@@ -34,7 +34,7 @@ Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran 
 
 ![](/img/degree-lecture-offline-class-6.jpg)
 
-**Cara Menambahkan Offline Class :**
+##### **Cara Menambahkan Offline Class :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
