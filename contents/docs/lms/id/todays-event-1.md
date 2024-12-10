@@ -1,5 +1,5 @@
 ---
-title: Today's Event
+title: Acara Hari Ini
 sidebar_position: 32
 ---
 Today’s Event atau Acara Hari Ini menu yang berisi jadwal Live Session atau jadwal Offline Class yang akan diadakan pada Hari Ini.
