@@ -1,5 +1,5 @@
 ---
-title: To Do List
+title: Daftar Kegiatan
 sidebar_position: 31
 ---
 **To Do List** atau Tugas Yang Belum Dikerjakan menu yang berisi Tugas yang belum Anda kerjakan beserta Batas Waktu pengerjaannya.
