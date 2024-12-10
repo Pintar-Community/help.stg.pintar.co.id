@@ -28,7 +28,7 @@ Example of Graded and Commented Answers.
 
 ![](/img/diskusi_3.jpg)
 
-##### Steps to Upload a Discussion Question:
+##### Steps to Upload a Discussion Question :
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
