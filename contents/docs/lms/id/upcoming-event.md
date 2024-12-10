@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Pada bagian ini berisi Acara Akan Datang berupa Live Session. Pelaksanaan Live Session yang akan muncul pada Acara Akan Datang adalah Live Session yang akan dilaksanakan pada hari yang akan datang saat Instruktur mengakses LMS.
 
-##### **Cara untuk melihat jadwal Live Session yang akan datang :**
+#### **Cara untuk melihat jadwal Live Session yang akan datang :**
 
 1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti gambar.
 

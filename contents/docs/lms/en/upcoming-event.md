@@ -6,7 +6,7 @@ sidebar_position: 4
 
 This section contains Upcoming Events, which include Live Sessions. The Live Sessions displayed in Upcoming Events are those scheduled for future dates when the Instructor accesses the LMS.
 
-##### **How to View the Schedule for Upcoming Live Sessions :**
+#### **How to View the Schedule for Upcoming Live Sessions :**
 
 1. To display all scheduled sessions, click the See More button in the top-right corner. A screen similar to the example image will be displayed.
 
