@@ -1,5 +1,5 @@
 ---
-title: View All Class per Academic Year
+title: Daftar Kelas per Tahun Ajaran
 sidebar_position: 34
 ---
 Setelah Anda berhasil Login maka tampilannya akan seperti ini
