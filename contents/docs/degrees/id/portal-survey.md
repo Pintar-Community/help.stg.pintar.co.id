@@ -2,11 +2,9 @@
 title: (Portal) Survey
 sidebar_position: 6
 ---
-
-
 ![](/img/admin-portal-degrees-survey-1.jpg)
 
-##### 1. Survey Listing
+#### 1. Survey Listing
 
 **Cara membuat Survey :**
 
@@ -44,7 +42,7 @@ sidebar_position: 6
 
   ![](/img/admin-portal-degrees-survey-11.jpg)
 
-##### 2. Survey Report
+#### 2. Survey Report
 
 **Cara export Survey Report :**
 
