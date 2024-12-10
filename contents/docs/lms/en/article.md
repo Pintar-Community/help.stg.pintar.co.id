@@ -6,7 +6,7 @@ sidebar_position: 11
 
 This content contains materials in the form of articles. If you, as an instructor, want to provide reading materials for students, you can upload them in the Article section.
 
-**Steps to Add an Article :**
+##### **Steps to Add an Article :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
