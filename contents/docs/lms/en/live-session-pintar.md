@@ -31,7 +31,7 @@ If you miss the session, your attendance status will change to Skipped.
 
 ![](/img/live-session-pintar-5.jpg)
 
-**Steps to Add a Live Session (Pintar) :**
+##### **Steps to Add a Live Session (Pintar) :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 

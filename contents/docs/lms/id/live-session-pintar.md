@@ -33,7 +33,7 @@ Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda a
 
 ![](/img/degree-lecture-ls-pintar-5.jpg)
 
-**Cara Menambahkan Live Session (Pintar) :**
+##### **Cara Menambahkan Live Session (Pintar) :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
