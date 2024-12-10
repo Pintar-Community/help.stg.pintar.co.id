@@ -6,7 +6,7 @@ Pada menu ini, berfungsi sebagai tempat untuk Instruktur dan Peserta dapat berdi
 
 ![](/img/degree-lecture-forum-indo-2.jpg)
 
-**Cara membuat Forum :**
+##### **Cara membuat Forum :**
 
 1. Anda dapat kilk + Add Thread pada pojok kanan atas.
 

@@ -6,7 +6,7 @@ This menu functions as a place for instructors and participants to discuss the c
 
 ![](/img/degree-lecture-forum.jpg)
 
-**How to create a forum :**
+##### **How to create a forum :**
 
 1. You can click + Add Thread on the top right corner.
 
