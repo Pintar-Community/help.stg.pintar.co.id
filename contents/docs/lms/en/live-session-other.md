@@ -23,7 +23,7 @@ Additionally, you can record student attendance based on their participation in 
 
 ![](/img/livesession_3.jpg)
 
-**Steps to Add a Live Session (Other) :**
+##### **Steps to Add a Live Session (Other) :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 

@@ -24,7 +24,7 @@ Kemudian, apabila Anda juga dapat mengisi absensi students sesuai kehadiran pada
 
 ![](/img/livesession_3.jpg)
 
-**Cara Menambahkan Live Session (Other) :**
+##### **Cara Menambahkan Live Session (Other) :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
