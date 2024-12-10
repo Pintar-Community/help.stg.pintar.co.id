@@ -1,5 +1,5 @@
 ---
-title: (Degree Student) Event Calendar
+title: (Degree Student) Kalender Acara
 sidebar_position: 30
 ---
 Setelah Anda masuk ke program yang Anda pilih, Anda akan masuk ke Menu Dashboard.
