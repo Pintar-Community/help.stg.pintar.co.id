@@ -1,5 +1,5 @@
 ---
-title: Credit / SKS per Class
+title: SKS per Kelas
 sidebar_position: 35
 ---
 Setelah Anda berhasil Login maka tampilannya akan seperti ini
@@ -16,6 +16,6 @@ Untuk melihat Mata Kuliah sesuai dengan Tahun Ajaran, Anda dapat klik Tahun Ajar
 
 ![](/img/view-all-class-per-academic-year-4.ind.png)
 
-Setelah Anda pilih Tahun Ajaran, maka akan muncul **Credit / SKS per Class** sesuai dengan Tahun Ajaran yang anda pilih seperti berikut:
+Setelah Anda pilih Tahun Ajaran, maka akan muncul **SKS per Class** sesuai dengan Tahun Ajaran yang anda pilih seperti berikut:
 
 ![](/img/credit-per-class.ind.png)

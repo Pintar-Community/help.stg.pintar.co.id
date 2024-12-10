@@ -1,5 +1,5 @@
 ---
-title: Credit / SKS per Class
+title: Credit per Class
 sidebar_position: 35
 ---
 After you have successfully logged in, the display will look like this
@@ -16,6 +16,6 @@ To see courses based on the academic year, click Academic Year to select the aca
 
 ![](/img/view-all-class-per-academic-year-4.eng.png)
 
-After you select the Academic Year, the **Credit / SKS per Class** will appear according to the Academic Year you chosen as follows :
+After you select the Academic Year, the **Credit per Class** will appear according to the Academic Year you chosen as follows :
 
 ![](/img/credit-per-class.eng.png)
