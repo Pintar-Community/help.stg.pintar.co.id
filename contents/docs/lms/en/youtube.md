@@ -22,7 +22,7 @@ This feature allows you to enlarge the video display for a clearer view.
 
 ![](/img/degree-lecture-youtube-5.jpg)
 
-##### **Steps to Upload a YouTube Video :**
+#### **Steps to Upload a YouTube Video :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
