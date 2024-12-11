@@ -6,7 +6,7 @@ sidebar_position: 16
 
 The Offline Class feature is used for attendance tracking in offline or face-to-face learning sessions.
 
-##### **Steps to Record Attendance in the Offline Class Menu :**
+#### **Steps to Record Attendance in the Offline Class Menu :**
 
 1. Select the session that includes the Offline Class.
 
@@ -34,7 +34,7 @@ The Offline Class feature is used for attendance tracking in offline or face-to-
 
 ![](/img/degree-lecture-offline-class-6.jpg)
 
-##### **Steps to Add an Offline Class :**
+#### **Steps to Add an Offline Class :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
