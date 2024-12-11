@@ -44,4 +44,4 @@ Pada bagian ini, Anda dapat memberikan materi berupa dokumen dengan format PDF. 
 
 9. Apabila sudah diupload, kemudian klik Save pada pojok kanan bawah.
 
-10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.

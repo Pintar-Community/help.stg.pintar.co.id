@@ -14,11 +14,11 @@ In this section, you can provide materials in the form of PDF documents. These m
 
 ![](/img/diskusi_4.jpg)
 
-2. Select Manage Class.
+2.  Select Manage Class.
 
 ![](/img/diskusi_5.jpg)
 
-3. Choose the class you want to edit, then click Manage.
+3.  Choose the class you want to edit, then click Manage.
 
 ![](/img/diskusi_6.jpg)
 
@@ -26,7 +26,7 @@ In this section, you can provide materials in the form of PDF documents. These m
 
 ![](/img/doc-4.jpg)
 
-5. Select the session where you want to add a document, then click + Add Content.
+5.  Select the session where you want to add a document, then click + Add Content.
 
 ![](/img/doc-5.jpg)
 
