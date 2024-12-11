@@ -54,6 +54,6 @@ Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat 
 
 8. Apabila sudah diisi, kemudian klik Save.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
 ![](/img/degree-lecture-publish.jpg)
