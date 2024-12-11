@@ -1,5 +1,5 @@
 ---
-title: Performa
+title: Performa per Kelas
 sidebar_position: 8
 ---
 ![](/img/degree-lecture-performa.jpg)

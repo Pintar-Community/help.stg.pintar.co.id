@@ -1,5 +1,5 @@
 ---
-title: Performance
+title: Performance per Class
 sidebar_position: 8
 ---
 ![](/img/performance-1.jpg)
