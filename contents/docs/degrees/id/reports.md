@@ -2,7 +2,7 @@
 title: Reports
 sidebar_position: 7
 ---
-![]()
+![](/img/admin-portal-degrees-reports.jpg)
 
 ### 1. Student Reports
 
