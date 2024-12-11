@@ -6,7 +6,7 @@ Menu **Penilaian Tugas** sama dengan menu **Exam** yang merupakan menu untuk mel
 
 ![](/img/degree-lecture-penilaian-belum-selesai-7.jpg)
 
-###### **Cara menilai Tugas :**
+#### **Cara menilai Tugas :**
 
 1. Klik Lihat Detail pada menu Submitted Assignment.
 

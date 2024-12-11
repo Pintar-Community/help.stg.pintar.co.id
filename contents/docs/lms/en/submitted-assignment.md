@@ -6,7 +6,7 @@ The **Submitted Assignment** menu is similar to the **Exam** menu, as both are u
 
 ![](/img/degree-lecture-submitted-assignment.jpg)
 
-###### **How to assess assignments :**
+#### **How to assess assignments :**
 
 1. Click Review on the Submitted Assignment menu.
 
