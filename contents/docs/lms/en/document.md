@@ -8,7 +8,7 @@ In this section, you can provide materials in the form of PDF documents. These m
 
 ![](/img/document_1.4.png)
 
-##### Steps to Upload a Document:
+#### Steps to Upload a Document:
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 

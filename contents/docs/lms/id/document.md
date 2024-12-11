@@ -8,7 +8,7 @@ Pada bagian ini, Anda dapat memberikan materi berupa dokumen dengan format PDF. 
 
 ![](/img/document_1.4.png)
 
-##### Cara mengupload Dokumen :
+#### Cara mengupload Dokumen :
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
