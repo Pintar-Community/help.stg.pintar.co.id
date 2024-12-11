@@ -10,7 +10,7 @@ In this Quiz content, there are 3 types of Quiz (*Pre Quiz, Practice Quiz, and P
 
 To see the status of students completing the quiz, you can see the details in the Performance menu on the Dashboard.
 
-##### **How to add a Quiz :**
+#### **How to add a Quiz :**
 
 1. Click the Profile logo in the top right corner of the Dashboard
 
@@ -38,7 +38,9 @@ To see the status of students completing the quiz, you can see the details in th
 
 7. In the Quiz content, it consists of 2 parts (Quiz Settings and Quiz Material).
 
-###### **\- Quiz Settings**
+
+
+#### **\- Quiz Settings**
 
 You can fill in all the information in Quiz Settings.
 
@@ -64,13 +66,15 @@ i. Review Quiz Result: Review on quizzes can be set to active/inactive.
 
 j. Shuffle Question & Option Order: Questions on the Quiz can appear randomly or sequentially.
 
-###### **\- Quiz Material**
+
+
+#### **\- Quiz Material**
 
 To add a Quiz question, you can do so in the Quiz Material section.
 
 ![](/img/degree-lecture-quiz-5.jpg)
 
-**Types of Quizzes you can add :**
+#### **Types of Quizzes you can add :**
 
 **a. Single Choice**
 
