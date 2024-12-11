@@ -6,7 +6,7 @@ sidebar_position: 11
 
 Pada konten ini berisi materi berupa Artikel. Apabila Anda sebagai instruktur ingin memberikan bacaan berupa artikel kepada students, dapat diupload pada konten Artikel ini.
 
-##### **Cara Menambahkan Artikel :**
+#### **Cara Menambahkan Artikel :**
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
