@@ -29,7 +29,7 @@ Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktu
 
 ![](/img/degree-lecture-diskusi-4.jpg)
 
-##### Cara mengupload Soal Diskusi :
+#### Cara mengupload Soal Diskusi :
 
 1. Klik logo Profile pada pojok kanan atas pada Dashboard.
 
@@ -61,8 +61,8 @@ Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktu
 
 8. Setting Deadline.
 
-9. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+9. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
 
-10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
 ![](/img/degree-lecture-publish.jpg)
