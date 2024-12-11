@@ -18,7 +18,7 @@ This feature is useful for setting the video speed. You can speed up or slow dow
 
 This feature is useful for enlarging the video screen. You can see the video more clearly with this feature function.
 
-##### **How to upload a video :**
+#### **How to upload a video :**
 
 1. Click the Profile logo in the top right corner of the Dashboard.
 
