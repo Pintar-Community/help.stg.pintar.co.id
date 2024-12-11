@@ -6,7 +6,7 @@ sidebar_position: 12
 
 This section displays the assignments that students need to complete. It includes the assignment details, along with the Start Date and Due Date.
 
-##### **Steps to Add an Assignment :**
+#### **Steps to Add an Assignment :**
 
 1. Click the Profile icon in the top-right corner of the Dashboard.
 
