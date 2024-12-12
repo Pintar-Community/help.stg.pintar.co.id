@@ -2,21 +2,41 @@
 title: Academic
 sidebar_position: 9
 ---
+![](/img/admin-portal-degrees-academic-1.jpg)
+
 ### 1. Curriculum
 
 #### Cara membuat Curriculum :
 
 * Klik Academic
 * Pilih Curriculum
+
+  ![](/img/admin-portal-degrees-academic-2.jpg)
 * Kemudian akan muncul tampilan Curriculum
+
+  ![](/img/admin-portal-degrees-academic-3.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-academic-4.jpg)
 * Lengkapi General Information seperti gambar
+
+  ![](/img/admin-portal-degrees-academic-5.jpg)
 * Klik Save
 * Klik Semester & Course
+
+  ![](/img/admin-portal-degrees-academic-6.jpg)
 * Klik Edit
+
+  ![](/img/admin-portal-degrees-academic-7.jpg)
 * Klik Add Course
+
+  ![](/img/admin-portal-degrees-academic-10.jpg)
 * Klik Select Course, kemudian pilih course yang akan diassign ke semester tersebut
+
+  ![](/img/admin-portal-degrees-academic-12.jpg)
 * Lakukan hal yang sama pada semester yang lain
+
+  ![](/img/admin-portal-degrees-academic-13.jpg)
 
 
 

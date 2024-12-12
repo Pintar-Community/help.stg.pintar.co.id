@@ -2,21 +2,41 @@
 title: Academic
 sidebar_position: 9
 ---
+![](/img/admin-portal-degrees-academic-1.jpg)
+
 #### 1. Curriculum
 
 #### How to make a Curriculum :
 
 * Click Academic
 * Select Curriculum
+
+  ![](/img/admin-portal-degrees-academic-2.jpg)
 * Then the Curriculum display will appear
+
+  ![](/img/admin-portal-degrees-academic-3.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-academic-4.jpg)
 * Fill the General Information
+
+  ![](/img/admin-portal-degrees-academic-5.jpg)
 * Click Save
 * Click Semester & Course
+
+  ![](/img/admin-portal-degrees-academic-6.jpg)
 * Click Edit
+
+  ![](/img/admin-portal-degrees-academic-7.jpg)
 * Click Add Course
+
+  ![](/img/admin-portal-degrees-academic-10.jpg)
 * Click Select Course, then select the course that will be assigned to the semester
+
+  ![](/img/admin-portal-degrees-academic-12.jpg)
 * Do the same for the other semester
+
+  ![](/img/admin-portal-degrees-academic-13.jpg)
 
 
 
