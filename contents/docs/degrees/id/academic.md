@@ -46,24 +46,60 @@ sidebar_position: 9
 
 * Klik Academic
 * Pilih Study Plan
+
+  ![](/img/admin-portal-degrees-study-plan-1.jpg)
 * Kemudian akan muncul tampilan Study Plan
+
+  ![](/img/admin-portal-degrees-study-plan-2.jpg)
 * Klik New
+
+  ![]()
 * Lengkapi General Information seperti gambar
+
+  ![]()
 * Klik Save
 * Klik Course Assignment
+
+  ![]()
 * Klik Edit
+
+  ![]()
 * Klik Add Course
+
+  ![]()
 * Klik Select Course, kemudian pilih course yang akan diassign ke semester tersebut
+
+  ![]()
 * Klik Save
+
+  ![]()
 * Lakukan hal yang sama pada semester yang lain
+
+  ![]()
 * Klik Semester Assignment
+
+  ![]()
 * Klik Add
+
+  ![]()
 * Kemudian akan muncul pop up seperti gambar
+
+  ![]()
 * Pilih Enrollment Year
+
+  ![]()
 * Pilih Enrollment Type
+
+  ![]()
 * Pilih Batch
+
+  ![]()
 * Pilih Semester
+
+  ![]()
 * Jika sudah dipilih, kemudian klik Save
+
+  ![]()
 
 
 

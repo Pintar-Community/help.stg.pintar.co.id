@@ -46,24 +46,60 @@ sidebar_position: 9
 
 * Click Academic
 * Choose Study Plan
+
+  ![](/img/admin-portal-degrees-study-plan-1.jpg)
 * Then the Study Plan display will appear
+
+  ![](/img/admin-portal-degrees-study-plan-2.jpg)
 * Click New
+
+  ![]()
 * Fill the General Information
+
+  ![]()
 * Click Save
 * Click Course Assignment
+
+  ![]()
 * Click Edit
+
+  ![]()
 * Click Add Course
+
+  ![]()
 * Click Select Course, then select the course that will be assigned to the semester
+
+  ![]()
 * Click Save
+
+  ![]()
 * Do the same for the other semester
+
+  ![]()
 * Click Semester Assignment
+
+  ![]()
 * Click Add
+
+  ![]()
 * Then a pop up image will appear as shown below
+
+  ![]()
 * Select Enrollment Year
+
+  ![]()
 * Select Enrollment Type
+
+  ![]()
 * Select Batch
+
+  ![]()
 * Select Semester
+
+  ![]()
 * Once selected, click Save
+
+  ![]()
 
 
 
