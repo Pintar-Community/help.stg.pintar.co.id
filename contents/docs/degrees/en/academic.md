@@ -115,3 +115,31 @@ sidebar_position: 9
 * Select Status
 * Click Save
 * Here is an example of the Grading Rules screen that has been filled out.
+
+
+
+### 7. Faculty
+
+#### How to add Faculty :
+
+* Click Academic
+* Click Faculty
+* Click New
+* Select language
+* Fill in the Faculty Name and Faculty Description (Optional)
+* Click Save
+* Here is an example of the Faculty Menu screen that has been filled out.
+
+
+
+### 8. Program Code
+
+#### How to add Program Code :
+
+* Click Academic
+* Click Program Code
+* Click New
+* The screen display will appear as follows
+* Fill the code and name
+* Click Save
+* Here is an example of the Program Code screen that has been filled out

@@ -115,3 +115,31 @@ sidebar_position: 9
 * Pilih Status
 * Klik Save
 * Berikut contoh tampilan Grading Rules yang sudah diisi
+
+
+
+### 7. Faculty
+
+#### Cara menambahkan Fakultas :
+
+* Klik Academic
+* Klik Faculty
+* Klik New
+* Pilih Bahasa
+* Isi Nama Fakultas dan Deskripsi Fakultas (Optional)
+* Klik Save
+* Berikut contoh tampilan menu Fakultas yang sudah diisi
+
+
+
+### 8. Program Code
+
+#### Cara menambahkan Program Code :
+
+* Klik Academic
+* Klik Program Code
+* Klik New
+* Kemudian akan muncul tampilan seperti berikut
+* Isi Code dan Nama
+* Klik Save
+* Berikut contoh tampilan menu Program Code yang sudah diisi
