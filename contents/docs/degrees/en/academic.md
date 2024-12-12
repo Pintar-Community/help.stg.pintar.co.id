@@ -69,3 +69,49 @@ sidebar_position: 9
 * Click Save
 * You can also search for the student's name in the "Search student name" column
 * Click the icon as shown in the image to proceed to the next class. Then follow the same steps.
+
+
+
+### 4. Attendance Management
+
+#### How to set Attendance Management :
+
+* Click Academic
+* Click Attendance Management
+* Click New
+* Then the Attendance Management display will appear
+* Fill in the minimum attendance column for students to take the exam
+* Select attendance tracking
+* Enable the button on the items required for students
+* Click Save
+
+
+
+### **5. Lecture Attendance Management**
+
+#### **How to set Lecture Attendance Management :**
+
+* Click Academic
+* Click Lecturer Attendance Management
+* Click New
+* Then the Lecturer Attendance Management display will appear
+* Select attendance tracking
+* Enable the button on the items required for Lecturer
+* Click Save
+
+
+
+### 6. Grading Management
+
+#### How to create Grading Rules :
+
+* Click Academic
+* Click Grading Management
+* Click New
+* The screen display will appear as follows
+* Select Grading Rules
+* Select Grade
+* Fill the Grade Point and Minimum Score
+* Select Status
+* Click Save
+* Here is an example of the Grading Rules screen that has been filled out.

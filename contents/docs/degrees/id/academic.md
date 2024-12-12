@@ -69,3 +69,49 @@ sidebar_position: 9
 * Kemudian klik Save
 * Anda juga dapat mencari nama student pada kolom “Search student name”
 * Klik tanda seperti gambar untuk melanjutkan ke kelas berikutnya dan lakukan langkah yang sama.
+
+
+
+### 4. Attendance Management
+
+#### Cara setting Attendance Management :
+
+* Klik Academic
+* Klik Attendance Management
+* Klik New
+* Kemudian akan muncul tampilan Attendance Management
+* Isi kolom minimum kehadiran Students untuk mengikuti ujian
+* Pilih attendance tracking
+* Aktifkan button enable pada items yang menjadi kewajiban Students
+* Klik Save
+
+
+
+### **5. Lecture Attendance Management**
+
+#### Cara setting Lecture Attendance Management :
+
+* Klik Academic
+* Klik Lecturer Attendance Management
+* Klik New
+* Kemudian akan muncul tampilan Lecturer Attendance Management
+* Pilih attendance tracking
+* Aktifkan button enable pada items yang menjadi kewajiban Lecture
+* Klik Save
+
+
+
+### 6. Grading Management
+
+#### Cara membuat Grading Rules :
+
+* Klik Academic
+* Klik Grading Management
+* Klik New
+* Kemudian akan muncul tampilan seperti berikut
+* Pilih Grading Rules
+* Pilih Grade
+* Isi Grade Point dan Minimun Score
+* Pilih Status
+* Klik Save
+* Berikut contoh tampilan Grading Rules yang sudah diisi
