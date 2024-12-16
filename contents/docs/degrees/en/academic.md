@@ -246,11 +246,23 @@ sidebar_position: 9
 
 * Click Academic
 * Click Faculty
+
+  ![](/img/admin-portal-degrees-faculty-1.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-faculty-2.jpg)
 * Select language
-* Fill in the Faculty Name and Faculty Description (Optional)
+
+  ![](/img/admin-portal-degrees-faculty-3.jpg)
+* Fill in the Faculty Name and Faculty Description (*Optional*)
+
+  ![](/img/admin-portal-degrees-faculty-4.jpg)
 * Click Save
+
+  ![](/img/admin-portal-degrees-faculty-5.jpg)
 * Here is an example of the Faculty Menu screen that has been filled out.
+
+  ![](/img/admin-portal-degrees-faculty-6.jpg)
 
 ### 8. Program Code
 
@@ -258,8 +270,20 @@ sidebar_position: 9
 
 * Click Academic
 * Click Program Code
+
+  ![](/img/admin-portal-degrees-program-code-1.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-program-code-6.jpg)
 * The screen display will appear as follows
+
+  ![](/img/admin-portal-degrees-program-code-2.jpg)
 * Fill the code and name
+
+  ![](/img/admin-portal-degrees-program-code-3.jpg)
 * Click Save
+
+  ![](/img/admin-portal-degrees-program-code-4.jpg)
 * Here is an example of the Program Code screen that has been filled out
+
+  ![](/img/admin-portal-degrees-program-code-5.jpg)

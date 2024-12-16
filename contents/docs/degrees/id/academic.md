@@ -246,11 +246,23 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Faculty
+
+  ![](/img/admin-portal-degrees-faculty-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-faculty-2.jpg)
 * Pilih Bahasa
-* Isi Nama Fakultas dan Deskripsi Fakultas (Optional)
+
+  ![](/img/admin-portal-degrees-faculty-3.jpg)
+* Isi Nama Fakultas dan Deskripsi Fakultas (*Optional*)
+
+  ![](/img/admin-portal-degrees-faculty-4.jpg)
 * Klik Save
-* Berikut contoh tampilan menu Fakultas yang sudah diisi
+
+  ![](/img/admin-portal-degrees-faculty-5.jpg)
+* Berikut contoh tampilan menu Fakultas yang sudah diisi.
+
+  ![](/img/admin-portal-degrees-faculty-6.jpg)
 
 ### 8. Program Code
 
@@ -258,8 +270,20 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Program Code
+
+  ![](/img/admin-portal-degrees-program-code-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-program-code-6.jpg)
 * Kemudian akan muncul tampilan seperti berikut
+
+  ![](/img/admin-portal-degrees-program-code-2.jpg)
 * Isi Code dan Nama
+
+  ![](/img/admin-portal-degrees-program-code-3.jpg)
 * Klik Save
+
+  ![](/img/admin-portal-degrees-program-code-4.jpg)
 * Berikut contoh tampilan menu Program Code yang sudah diisi
+
+  ![](/img/admin-portal-degrees-program-code-5.jpg)
