@@ -38,8 +38,6 @@ sidebar_position: 9
 
   ![](/img/admin-portal-degrees-academic-13.jpg)
 
-
-
 ### 2. Study Plan
 
 #### Cara membuat Study Plan :
@@ -53,55 +51,51 @@ sidebar_position: 9
   ![](/img/admin-portal-degrees-study-plan-2.jpg)
 * Klik New
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-3.jpg)
 * Lengkapi General Information seperti gambar
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-4.jpg)
 * Klik Save
 * Klik Course Assignment
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-6.jpg)
 * Klik Edit
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-7.jpg)
 * Klik Add Course
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-8.jpg)
 * Klik Select Course, kemudian pilih course yang akan diassign ke semester tersebut
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-9.jpg)
 * Klik Save
-
-  ![]()
 * Lakukan hal yang sama pada semester yang lain
 
-  ![]()
+  ![](/img/admin-portal-degrees-academic-13.jpg)
 * Klik Semester Assignment
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-10.jpg)
 * Klik Add
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-11.jpg)
 * Kemudian akan muncul pop up seperti gambar
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-12.jpg)
 * Pilih Enrollment Year
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-13.jpg)
 * Pilih Enrollment Type
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-14.jpg)
 * Pilih Batch
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-15.jpg)
 * Pilih Semester
 
-  ![]()
+  ![](/img/admin-portal-degrees-study-plan-16.jpg)
 * Jika sudah dipilih, kemudian klik Save
 
-  ![]()
-
-
+  ![](/img/admin-portal-degrees-study-plan-17.jpg)
 
 ### 3. Class Management
 
@@ -109,24 +103,56 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Class Management
+
+  ![](/img/admin-portal-degrees-class-management-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-class-management-2.jpg)
 * Kemudian akan muncul tampilan Class Management
+
+  ![](/img/admin-portal-degrees-class-management-3.jpg)
 * Pilih Program
+
+  ![](/img/admin-portal-degrees-class-management-4.jpg)
 * Pilih Academic Year
+
+  ![](/img/admin-portal-degrees-class-management-5.jpg)
 * Klik Check Enrolled Student untuk mengecek data user
+
+  ![](/img/admin-portal-degrees-class-management-7.jpg)
 * Klik Add New Class untuk menambahkan kelas baru
+
+  ![](/img/admin-portal-degrees-class-management-8.jpg)
 * Isi Class Name dan Class Code
+
+  ![](/img/admin-portal-degrees-class-management-9.jpg)
 * Pilih Lecturers
+
+  ![](/img/admin-portal-degrees-class-management-10.jpg)
 * Klik Save
+
+  ![](/img/admin-portal-degrees-class-management-12.jpg)
 * Klik three dot button pada kelas yang sudah dibuat
+
+  ![](/img/admin-portal-degrees-class-management-13.jpg)
 * Klik Assign Students untuk menambahkan user pada kelas tersebut
+
+  ![](/img/admin-portal-degrees-class-management-14.jpg)
 * Klik Add
+
+  ![](/img/admin-portal-degrees-class-management-15.jpg)
 * Pilih nama student yang akan ditambahkan pada kelas tersebut
+
+  ![](/img/admin-portal-degrees-class-management-16.jpg)
 * Kemudian klik Save
+
+  ![](/img/admin-portal-degrees-class-management-17.jpg)
 * Anda juga dapat mencari nama student pada kolom “Search student name”
+
+  ![](/img/admin-portal-degrees-class-management-18.jpg)
 * Klik tanda seperti gambar untuk melanjutkan ke kelas berikutnya dan lakukan langkah yang sama.
 
-
+  ![](/img/admin-portal-degrees-class-management-19.jpg)
 
 ### 4. Attendance Management
 
@@ -141,8 +167,6 @@ sidebar_position: 9
 * Aktifkan button enable pada items yang menjadi kewajiban Students
 * Klik Save
 
-
-
 ### **5. Lecture Attendance Management**
 
 #### Cara setting Lecture Attendance Management :
@@ -154,8 +178,6 @@ sidebar_position: 9
 * Pilih attendance tracking
 * Aktifkan button enable pada items yang menjadi kewajiban Lecture
 * Klik Save
-
-
 
 ### 6. Grading Management
 
@@ -172,8 +194,6 @@ sidebar_position: 9
 * Klik Save
 * Berikut contoh tampilan Grading Rules yang sudah diisi
 
-
-
 ### 7. Faculty
 
 #### Cara menambahkan Fakultas :
@@ -185,8 +205,6 @@ sidebar_position: 9
 * Isi Nama Fakultas dan Deskripsi Fakultas (Optional)
 * Klik Save
 * Berikut contoh tampilan menu Fakultas yang sudah diisi
-
-
 
 ### 8. Program Code
 
