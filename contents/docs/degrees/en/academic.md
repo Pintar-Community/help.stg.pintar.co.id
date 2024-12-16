@@ -160,12 +160,28 @@ sidebar_position: 9
 
 * Click Academic
 * Click Attendance Management
+
+  ![](/img/admin-portal-degrees-attendance-management-1.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-attendance-management-2.jpg)
 * Then the Attendance Management display will appear
+
+  ![](/img/admin-portal-degrees-attendance-management-3.jpg)
 * Fill in the minimum attendance column for students to take the exam
+
+  ![](/img/admin-portal-degrees-attendance-management-4.jpg)
 * Select attendance tracking
+
+  ![](/img/admin-portal-degrees-attendance-management-5.jpg)
 * Enable the button on the items required for students
+
+  ![](/img/admin-portal-degrees-attendance-management-6.jpg)
+
+  ![](/img/admin-portal-degrees-attendance-management-7.jpg)
 * Click Save
+
+  ![](/img/admin-portal-degrees-attendance-management-8.jpg)
 
 ### **5. Lecture Attendance Management**
 
@@ -173,11 +189,23 @@ sidebar_position: 9
 
 * Click Academic
 * Click Lecturer Attendance Management
+
+  ![](/img/admin-portal-degrees-lecture-attendance-1.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-lecture-attendance-2.jpg)
 * Then the Lecturer Attendance Management display will appear
+
+  ![](/img/admin-portal-degrees-lecture-attendance-6.jpg)
 * Select attendance tracking
+
+  ![](/img/admin-portal-degrees-lecture-attendance-3.jpg)
 * Enable the button on the items required for Lecturer
+
+  ![](/img/admin-portal-degrees-lecture-attendance-4.jpg)
 * Click Save
+
+  ![](/img/admin-portal-degrees-lecture-attendance-5.jpg)
 
 ### 6. Grading Management
 
@@ -185,14 +213,32 @@ sidebar_position: 9
 
 * Click Academic
 * Click Grading Management
+
+  ![](/img/admin-portal-degrees-grading-management-1.jpg)
 * Click New
+
+  ![](/img/admin-portal-degrees-grading-management-2.jpg)
 * The screen display will appear as follows
+
+  ![](/img/admin-portal-degrees-grading-management-3.jpg)
 * Select Grading Rules
+
+  ![](/img/admin-portal-degrees-grading-management-4.jpg)
 * Select Grade
+
+  ![](/img/admin-portal-degrees-grading-management-6.jpg)
 * Fill the Grade Point and Minimum Score
+
+  ![](/img/admin-portal-degrees-grading-management-7.jpg)
 * Select Status
+
+  ![](/img/admin-portal-degrees-grading-management-8.jpg)
 * Click Save
+
+  ![](/img/admin-portal-degrees-grading-management-9.jpg)
 * Here is an example of the Grading Rules screen that has been filled out.
+
+  ![](/img/admin-portal-degrees-grading-management-10.jpg)
 
 ### 7. Faculty
 

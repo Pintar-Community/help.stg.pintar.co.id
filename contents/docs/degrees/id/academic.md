@@ -160,12 +160,28 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Attendance Management
+
+  ![](/img/admin-portal-degrees-attendance-management-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-attendance-management-2.jpg)
 * Kemudian akan muncul tampilan Attendance Management
+
+  ![](/img/admin-portal-degrees-attendance-management-3.jpg)
 * Isi kolom minimum kehadiran Students untuk mengikuti ujian
+
+  ![](/img/admin-portal-degrees-attendance-management-4.jpg)
 * Pilih attendance tracking
+
+  ![](/img/admin-portal-degrees-attendance-management-5.jpg)
 * Aktifkan button enable pada items yang menjadi kewajiban Students
+
+  ![](/img/admin-portal-degrees-attendance-management-6.jpg)
+
+  ![](/img/admin-portal-degrees-attendance-management-7.jpg)
 * Klik Save
+
+  ![](/img/admin-portal-degrees-attendance-management-8.jpg)
 
 ### **5. Lecture Attendance Management**
 
@@ -173,11 +189,23 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Lecturer Attendance Management
+
+  ![](/img/admin-portal-degrees-lecture-attendance-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-lecture-attendance-2.jpg)
 * Kemudian akan muncul tampilan Lecturer Attendance Management
+
+  ![](/img/admin-portal-degrees-lecture-attendance-6.jpg)
 * Pilih attendance tracking
+
+  ![](/img/admin-portal-degrees-lecture-attendance-3.jpg)
 * Aktifkan button enable pada items yang menjadi kewajiban Lecture
+
+  ![](/img/admin-portal-degrees-lecture-attendance-4.jpg)
 * Klik Save
+
+  ![](/img/admin-portal-degrees-lecture-attendance-5.jpg)
 
 ### 6. Grading Management
 
@@ -185,14 +213,32 @@ sidebar_position: 9
 
 * Klik Academic
 * Klik Grading Management
+
+  ![](/img/admin-portal-degrees-grading-management-1.jpg)
 * Klik New
+
+  ![](/img/admin-portal-degrees-grading-management-2.jpg)
 * Kemudian akan muncul tampilan seperti berikut
+
+  ![](/img/admin-portal-degrees-grading-management-3.jpg)
 * Pilih Grading Rules
+
+  ![](/img/admin-portal-degrees-grading-management-4.jpg)
 * Pilih Grade
+
+  ![](/img/admin-portal-degrees-grading-management-6.jpg)
 * Isi Grade Point dan Minimun Score
+
+  ![](/img/admin-portal-degrees-grading-management-7.jpg)
 * Pilih Status
+
+  ![](/img/admin-portal-degrees-grading-management-8.jpg)
 * Klik Save
-* Berikut contoh tampilan Grading Rules yang sudah diisi
+
+  ![](/img/admin-portal-degrees-grading-management-9.jpg)
+* Berikut contoh tampilan Grading Rules yang sudah diisi.
+
+  ![](/img/admin-portal-degrees-grading-management-10.jpg)
 
 ### 7. Faculty
 
