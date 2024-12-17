@@ -85,7 +85,7 @@ Isi bagian **New Permission (Role),** kemudian klik **NEXT.**
 
 Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memilih permission/izin yang akan diberikan kepada user sesuai dengan kebutuhan, lalu klik **CREATE.**
 
-### a. Admin dapat memberikan permission untuk Archive Course
+### a. Permission untuk Archive Course
 
 ![](/img/16.-create.png)
 
@@ -98,7 +98,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Unarchive Sub-Course : Admin dapat memberikan permission kepada user untuk meng unarchive kan kelas pada sub-course
 * View Archive History : Admin dapat memberikan permission kepada user untuk melihat history pada archive
 
-### b. Admin dapat memberikan permission untuk Institutional Data Management
+### b. Permission untuk Institutional Data Management
 
 ![](/img/17.-data-management.png)
 
@@ -108,7 +108,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Delete Institutional Data Management : Admin dapat memberikan permission kepada user untuk hapus institutional data management
 * Create Institutional Data Management : Admin dapat memberikan permission kepada user untuk membuat institutional data management
 
-### c. Admin dapat memberikan permission untuk Parent Course
+### c. Permission untuk Parent Course
 
 ![](/img/18.-parent-course.png)
 
@@ -123,7 +123,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * View Parent Course Survey : Admin dapat memberikan permission kepada user untuk melihat survey parent course
 * Edit Parent Course Section Schedule : Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di parent course
 
-### d. Admin dapat memberikan permission untuk Sub-Course
+### d. Permission untuk Sub-Course
 
 ![](/img/19.-sub-course.png)
 
@@ -139,7 +139,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Create Sub-Course Survey : Admin dapat memberikan permission kepada user untuk membuat survey pada sub-course
 * Edit Sub-Course Survey : Admin dapat memberikan permission kepada user untuk edit survey pada sub-course
 
-### e. Admin dapat memberikan permission untuk Quiz Bank
+### e. Permission untuk Quiz Bank
 
 ![](/img/20.-quiz-bank.png)
 
@@ -150,7 +150,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Bulk Import Quiz Bank : Admin dapat memberikan permission kepada user untuk bulk import quiz bank
 * Download Bulk Import Quiz Bank : Admin dapat memberikan permission kepada user untuk unduh bulk import quiz bank
 
-### f. Admin dapat memberikan permission untuk Reporting
+### f. Permission untuk Reporting
 
 ![](/img/21.-reporting.png)
 
@@ -161,7 +161,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * View Export History : Admin dapat memberikan permission kepada user untuk melihat history export report
 * Download Export History : Admin dapat memberikan permission kepada user untuk unduh history export report
 
-### g. Admin dapat memberikan permission untuk Roles & Permission
+### g. Permission untuk Roles & Permission
 
 ![](/img/22.-roles-permission.png)
 
@@ -170,7 +170,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Create Roles & Permission : Admin dapat memberikan permission kepada user untuk membuat roles & permission
 * View Roles & Permission : Admin dapat memberikan permission kepada user untuk melihat roles & permission
 
-### h. Admin dapat memberikan permission untuk Survey
+### h. Permission untuk Survey
 
 ![](/img/23.-survey.png)
 
@@ -180,13 +180,13 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Create Survey : Admin dapat memberikan permission kepada user untuk membuat survey
 * View Survey : Admin dapat memberikan permission kepada user untuk melihat survey
 
-### i. Admin dapat memberikan permission untuk Users
+### i. Permission untuk Users
 
 ![](/img/24.-users.png)
 
 * View User Transaction : Admin dapat memberikan permission kepada user untuk melihat transaksi pembayaran user
 
-### j. Admin dapat memberikan permission untuk University Staff
+### j. Permission untuk University Staff
 
 ![](/img/25.-university-staff.png)
 
@@ -194,7 +194,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Create University Staff : Admin dapat memberikan permission kepada user untuk membuat akun LMS untuk staff dan dosen universitas
 * Edit University Staff : Admin dapat memberikan permission kepada user untuk edit akun LMS staff dan dosen universitas
 
-### k. Admin dapat memberikan permission untuk Study Plan
+### k. Permission untuk Study Plan
 
 ![](/img/26.-study-plan.png)
 
@@ -203,7 +203,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Study Plan : Admin dapat memberikan permission kepada user untuk edit study plan
 * Delete Study Plan : Admin dapat memberikan permission kepada user untuk menghapus study plan
 
-### l. Admin dapat memberikan permission untuk Attendance Management
+### l. Permission untuk Attendance Management
 
 ![](/img/27.-attendance-management.png)
 
@@ -212,7 +212,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Attendance Management : Admin dapat memberikan permission kepada user untuk edit attendance management
 * Delete Attendance Management : Admin dapat memberikan permission kepada user untuk menghapus attendance management
 
-### m. Admin dapat memberikan permission untuk Faculty
+### m. Permission untuk Faculty
 
 ![](/img/28.-faculty.png)
 
@@ -221,7 +221,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Faculty : Admin dapat memberikan permission kepada user untuk edit faculty
 * Delete Faculty : Admin dapat memberikan permission kepada user untuk menghapus faculty
 
-### n. Admin dapat memberikan permission untuk Grading Management
+### n. Permission untuk Grading Management
 
 ![](/img/29.-grading-management.png)
 
@@ -230,7 +230,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Grading Management : Admin dapat memberikan permission kepada user untuk edit grading management
 * Delete Grading Management : Admin dapat memberikan permission kepada user untuk menghapus grading management
 
-### o. Admin dapat memberikan permission untuk Class Management
+### o. Permission untuk Class Management
 
 ![](/img/30.-class-management.png)
 
@@ -239,7 +239,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Class Management : Admin dapat memberikan permission kepada user untuk edit class management
 * Delete Class Management : Admin dapat memberikan permission kepada user untuk menghapus class management
 
-### p. Admin dapat memberikan permission untuk Program
+### p. Permission untuk Program
 
 ![](/img/31.-program.png)
 
@@ -249,7 +249,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Program : Admin dapat memberikan permission kepada user untuk edit program
 * Publish Program : Admin dapat memberikan permission kepada user untuk publish program
 
-### q. Admin dapat memberikan permission untuk Finance
+### q. Permission untuk Finance
 
 ![](/img/32.-finance.png)
 
@@ -258,7 +258,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * View Payment Details : Admin dapat memberikan permission kepada user untuk melihat detail pembayaran
 * Create Payment Details : Admin dapat memberikan permission kepada user untuk membuat detail pembayaran
 
-### r. Admin dapat memberikan permission untuk Program Code
+### r. Permission untuk Program Code
 
 ![](/img/33.-program-code.png)
 
@@ -267,7 +267,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Edit Program Code : Admin dapat memberikan permission kepada user untuk edit program code
 * Delete Program Code : Admin dapat memberikan permission kepada user untuk menghapus program code
 
-### s. Admin dapat memberikan permission untuk Student
+### s. Permission untuk Student
 
 ![](/img/34.-student.png)
 
@@ -278,7 +278,7 @@ Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memil
 * Assign Program : Admin dapat memberikan permission kepada user untuk assign program
 * Bulk Assign Program : Admin dapat memberikan permission kepada user untuk bulk assign program
 
-### t. Admin dapat memberikan permission untuk Curriculum
+### t. Permission untuk Curriculum
 
 ![](/img/35.-curriculum.png)
 

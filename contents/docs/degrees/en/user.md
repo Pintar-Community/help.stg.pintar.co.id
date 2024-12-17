@@ -85,7 +85,7 @@ Fill in **New Permission (Role),** then click **NEXT**.
 
 In the display below, fill in the **New Permission**. Admins can select the permissions to be granted to users according to their needs, then click **CREATE**.
 
-### a. Admin can give  permission to Archive Course
+### a. Permission to Archive Course
 
 ![](/img/16.-create.png)
 
@@ -99,7 +99,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Unarchive Sub-Course    	: Admin can give permission to users to unarchive classes in sub-courses. 
 * View Archive History       	: Admin can give permission to users to view history in the archive 
 
-### b. Admin can give  permission to Institutional Data Management
+### b. Permission to Institutional Data Management
 
 ![](/img/17.-data-management.png)
 
@@ -109,7 +109,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Delete Institutional Data Management	: Admin can give permission to users to delete institutional data management.
 * Create Institutional Data Management	: Admin can give permission to users to create institutional data management
 
-### c. Admin can give permission to Parent Course
+### c. Permission to Parent Course
 
 ![](/img/18.-parent-course.png)
 
@@ -124,7 +124,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * View Parent Course Survey : Admin can give permission to users to view parent course surveys.
 * Edit Parent Course Section Schedule : Admin can give permission to users to edit the session schedule in the parent course.
 
-### d. Admin can give permission for Sub-Course
+### d. Permission for Sub-Course
 
 ![](/img/19.-sub-course.png)
 
@@ -140,7 +140,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Create Sub-Course Survey : Admin can give permission to the user to create a survey on the sub-course.
 * Edit Sub-Course Survey : Admin can give permission to users to edit surveys on the sub-course.
 
-### e. Admin can give  permission for Quiz Bank
+### e. Permission for Quiz Bank
 
 ![](/img/20.-quiz-bank.png)
 
@@ -151,7 +151,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Bulk Import Quiz Bank : Admin can give permission to users to bulk import quiz banks.
 * Download Bulk Import Quiz Bank : Admin can give permission to users to download bulk import quiz bank.
 
-### f. Admin can give permission to Reporting
+### f. Permission to Reporting
 
 ![](/img/21.-reporting.png)
 
@@ -162,7 +162,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * View Export History : Admin can give permission to users to view export report history.
 * Download Export History : Admin can give permission to users to download history export report.
 
-### g. Admin can give permission to Roles & Permission
+### g. Permission to Roles & Permission
 
 ![](/img/22.-roles-permission.png)
 
@@ -171,7 +171,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Create Roles & Permission : Admin can give permission to users to create roles & permissions.
 * View Roles & Permission : Admin can give permission to users to view roles & permissions.
 
-### h. Admin can give  permission to Survey
+### h. Permission to Survey
 
 ![](/img/23.-survey.png)
 
@@ -181,13 +181,13 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Create Survey : Admin can give permission to users to create surveys.
 * View Survey : Admin can give permission to users to view surveys.
 
-### i. Admin can give permission to Users
+### i. Permission to Users
 
 ![](/img/24.-users.png)
 
 * View User Transaction : Admin can give permission to users to view user payment transactions
 
-### j. Admin can give permission to University Staff
+### j. Permission to University Staff
 
 ![](/img/25.-university-staff.png)
 
@@ -195,7 +195,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Create University Staff : Admin can give permission to users to create LMS accounts for university staff and lecturers.
 * Edit University Staff : Admin can give permission to users to edit LMS accounts for university staff and lecturers.
 
-### k. Admin can give permission to Study Plan
+### k. Permission to Study Plan
 
 ![](/img/26.-study-plan.png)
 
@@ -204,7 +204,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Study Plan : Admin can give permission to users to edit the study plan.
 * Delete Study Plan : Admin can give permission to the user to delete the study plan.
 
-### l. Admin can give permission to Attendance Management
+### l. Permission to Attendance Management
 
 ![](/img/27.-attendance-management.png)
 
@@ -213,7 +213,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Attendance Management : Admin can give permission to users to edit attendance management.
 * Delete Attendance Management : Admin can give permission to users to delete attendance management.
 
-### m. Admin can give  permission to Faculty
+### m. Permission to Faculty
 
 ![](/img/28.-faculty.png)
 
@@ -222,7 +222,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Faculty : Admin can give permission to users to edit faculty.
 * Delete Faculty : Admin can give permission to users to delete faculty.
 
-### n. Admin can give permission to Grading Management
+### n. Permission to Grading Management
 
 ![](/img/29.-grading-management.png)
 
@@ -231,7 +231,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Grading Management : Admin can give permission to users to edit grading management.
 * Delete Grading Management : Admin can give permission to users to delete grading management.
 
-### o. Admin can give permission to Class Management
+### o. Permission to Class Management
 
 ![](/img/30.-class-management.png)
 
@@ -240,7 +240,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Class Management : Admin can give permission to users to edit class management.
 * Delete Class Management : Admin can give permission to users to delete class management.
 
-### p. Admin can give permission to Program
+### p. Permission to Program
 
 ![](/img/31.-program.png)
 
@@ -250,7 +250,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Program : Admin can give permission to users to edit the programs.
 * Publish Program : Admin can give permission to users to publish programs.
 
-### q. Admin can give permission to Finance
+### q. Permission to Finance
 
 ![](/img/32.-finance.png)
 
@@ -259,7 +259,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * View Payment Details : Admin can permit users to view payment details.
 * Create Payment Details : Admin can permit  users to create payment details.
 
-### r. Admin can give permission to Program Code
+### r. Permission to Program Code
 
 ![](/img/33.-program-code.png)
 
@@ -268,7 +268,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Edit Program Code : Admin can permit users to edit program code
 * Delete Program Code : Admin permit users to delete program code
 
-### s. Admin can give permission to Student
+### s. Permission to Student
 
 ![](/img/34.-student.png)
 
@@ -279,7 +279,7 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 * Assign Program : Admin can permit users to assign programs.
 * Bulk Assign Program : Admin can permit users to bulk assign programs
 
-### t. Admin can give  permission to Curriculum
+### t. Permission to Curriculum
 
 ![](/img/35.-curriculum.png)
 
@@ -299,6 +299,6 @@ In the display below, fill in the **New Permission**. Admins can select the perm
 
 : Admin permit users to delete curriculum
 
-After everything is set Admin, can click CREATE. Then the **permission** has been created.
+After everything is set Admin, can click **CREATE**. Then the permission has been created.
 
 ![](/img/36.-create.png)
