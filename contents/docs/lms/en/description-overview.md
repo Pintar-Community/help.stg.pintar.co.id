@@ -30,24 +30,24 @@ This section contains information about the class description and details of the
 
 ![](/img/d-o-5.jpg)
 
-5. Fill in the class description, then click Save.
+6. Fill in the class description, then click Save.
 
 ![](/img/d-o-6.jpg)
 
-6. You can also add supporting documents by clicking Upload Document at the bottom of the page.
+7. You can also add supporting documents by clicking Upload Document at the bottom of the page.
 
 ![](/img/d-o-7.jpg)
 
-7. Select the document you want to upload.
+8. Select the document you want to upload.
 
 ![](/img/d-o-8.jpg)
 
-8. Your description and documents will now be successfully uploaded.
+9. Your description and documents will now be successfully uploaded.
 
 ![](/img/d-o-9.jpg)
 
-9. Once completed, click Save in the bottom-right corner.
+10. Once completed, click Save in the bottom-right corner.
 
-10. Select the Publish menu in the top-right corner, then click the Publish button.
+11. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

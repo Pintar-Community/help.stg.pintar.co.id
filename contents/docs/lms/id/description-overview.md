@@ -30,24 +30,24 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 
 ![](/img/d-o-5.jpg)
 
-5. Isi deskripsi kelas tersebut, kemudian klik Save.
+6. Isi deskripsi kelas tersebut, kemudian klik Save.
 
 ![](/img/d-o-6.jpg)
 
-6. Anda juga dapat menambahkan Dokumen pendukung, dengan cara klik Upload Dokumen pada bagian bawah. 
+7. Anda juga dapat menambahkan Dokumen pendukung, dengan cara klik Upload Dokumen pada bagian bawah. 
 
 ![](/img/d-o-7.jpg)
 
-7. Pilih dokumen yang akan diupload.
+8. Pilih dokumen yang akan diupload.
 
 ![](/img/d-o-8.jpg)
 
-8. Deskripsi dan Dokumen Anda sudah selesai diupload.
+9. Deskripsi dan Dokumen Anda sudah selesai diupload.
 
 ![](/img/d-o-9.jpg)
 
-9. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+10. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
 
-10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+11. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
 
 ![](/img/degree-lecture-publish.jpg)
