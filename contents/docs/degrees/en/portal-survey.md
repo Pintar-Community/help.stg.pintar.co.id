@@ -44,7 +44,7 @@ sidebar_position: 6
 
 #### **2. Survey Report**
 
-**How to Export a Survey Report :**
+##### **How to Export a Survey Report :**
 
 * Click on the Survey Reporting menu.
 * Then the following display will appear as shown

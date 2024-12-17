@@ -6,7 +6,7 @@ sidebar_position: 6
 
 #### 1. Survey Listing
 
-**Cara membuat Survey :**
+##### **Cara membuat Survey :**
 
 * Klik menu Survey Listing
 * Klik button New
@@ -44,7 +44,7 @@ sidebar_position: 6
 
 #### 2. Survey Report
 
-**Cara export Survey Report :**
+##### **Cara export Survey Report :**
 
 * Klik menu Survey Reporting
 * Kemudian akan muncul tampilan seperti berikut
