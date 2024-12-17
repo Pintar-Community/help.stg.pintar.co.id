@@ -1,6 +1,6 @@
 ---
 title: Recordings
-sidebar_position: 3
+sidebar_position: 5
 ---
 ![](/img/menu-recording.png)
 
@@ -9,14 +9,9 @@ Pada fitur recordings ini Admin dapat mengunduh rekaman Live Session dari semua 
 ![](/img/1.-menu.png)
 
 1. Program             : Pilih program sesuai dengan rekaman yang akan diunduh
-
-   * Academic Year   : Pilih Tahun Akademik sesuai dengan rekaman yang akan diunduh
-
-   * Course               :Pilih Mata Kuliah sesuai rekaman yang akan diunduh
-
-   * Class                  :Pilih Kelas sesuai dengan rekaman yang akan diunduh, lalu Klik **Generate**
-
-
+2. Academic Year   : Pilih Tahun Akademik sesuai dengan rekaman yang akan diunduh
+3. Course               :Pilih Mata Kuliah sesuai rekaman yang akan diunduh
+4. Class                  :Pilih Kelas sesuai dengan rekaman yang akan diunduh, lalu Klik **Generate**
 
 Maka akan muncul seperti ini
 
