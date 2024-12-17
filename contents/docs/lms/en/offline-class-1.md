@@ -66,6 +66,8 @@ The Offline Class feature is used for attendance tracking in offline or face-to-
 
 In the Offline Class menu, there is an Enable Scoring button. This feature allows you to assign grades for the session if necessary.
 
+
+
 8. Once completed, click Save in the bottom-right corner.
 
 9. Select the Publish menu in the top-right corner, then click the Publish button.
