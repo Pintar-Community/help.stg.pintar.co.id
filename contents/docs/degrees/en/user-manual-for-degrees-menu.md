@@ -1,6 +1,6 @@
 ---
 title: User Manual for Degrees Menu
-sidebar_position: 2
+sidebar_position: 17
 ---
 ## **Login**
 

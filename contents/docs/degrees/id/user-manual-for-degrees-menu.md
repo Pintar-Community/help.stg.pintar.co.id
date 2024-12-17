@@ -1,6 +1,6 @@
 ---
 title: User Manual untuk Menu Degrees
-sidebar_position: 2
+sidebar_position: 17
 ---
 ## **Login**
 
