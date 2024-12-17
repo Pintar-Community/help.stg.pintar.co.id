@@ -6,7 +6,7 @@ In the **User** feature, there are several menus in it, as shown in the followin
 
 ![](/img/00-menu-users.png)
 
-**1. University Staff**
+## **1. University Staff**
 
 University Staff contains Staff and Lecturer, Admin can create Staff or Lecturer accounts using this Menu by clicking +New at the top right.
 
@@ -19,15 +19,10 @@ Then the display will appear as shown below
 To create a new account, Admins must fill in some required data
 
 1. First Name: Write down the first name
-
 2. Last Name : Write down the last name
-
 3. Email: Write down the email that will be used by the user
-
 4. Phone: Write down the user's cell phone number
-
 5. Role : Choose the role (Degree Admin for admin and Degree Instructor for lecturer)
-
 6. University : University will be directly selected according to the account that created it.
 
 After filling in all the Admin can click Save and the email and LMS account password will be sent to the User's email to get verification from the User.
@@ -42,7 +37,7 @@ Admin can search for Staff or Lecturers using the User's **Name** or **Email**, 
 
 ![](/img/5.-univ-staff.png)
 
-**2. User Transaction**
+## **2. User Transaction**
 
 User Transaction is used by Admin to view student payment transactions.
 
@@ -56,7 +51,7 @@ To make it easier for Admin to check student payment transactions, Admin can cli
 
 Admin can search for student transaction data using the student's name, email or mobile phone number, then click **Apply**
 
-**3. Student List**
+## **3. Student List**
 
 Student List is used by Admin to view data on students registered at the University.
 
@@ -74,7 +69,7 @@ To download student data, Admin can click **Export Data**
 
 ![](/img/12.-export-data.png)
 
-**4. Permission**
+## **4. Permission**
 
 Permission is used by Admin to manage what actions can be performed by the User.
 
@@ -90,7 +85,7 @@ Fill in **New Permission (Role),** then click **NEXT**.
 
 In the display below, fill in the **New Permission**. Admins can select the permissions to be granted to users according to their needs, then click **CREATE**.
 
-a. Admin can give  permission to Archive Course
+### a. Admin can give  permission to Archive Course
 
 ![](/img/16.-create.png)
 
@@ -104,7 +99,7 @@ a. Admin can give  permission to Archive Course
 * Unarchive Sub-Course    	: Admin can give permission to users to unarchive classes in sub-courses. 
 * View Archive History       	: Admin can give permission to users to view history in the archive 
 
-b. Admin can give  permission to Institutional Data Management
+### b. Admin can give  permission to Institutional Data Management
 
 ![](/img/17.-data-management.png)
 
@@ -114,7 +109,7 @@ b. Admin can give  permission to Institutional Data Management
 * Delete Institutional Data Management	: Admin can give permission to users to delete institutional data management.
 * Create Institutional Data Management	: Admin can give permission to users to create institutional data management
 
-c. Admin can give permission to Parent Course
+### c. Admin can give permission to Parent Course
 
 ![](/img/18.-parent-course.png)
 
@@ -129,7 +124,7 @@ c. Admin can give permission to Parent Course
 * View Parent Course Survey : Admin can give permission to users to view parent course surveys.
 * Edit Parent Course Section Schedule : Admin can give permission to users to edit the session schedule in the parent course.
 
-d. Admin can give permission for Sub-Course
+### d. Admin can give permission for Sub-Course
 
 ![](/img/19.-sub-course.png)
 
@@ -145,7 +140,7 @@ d. Admin can give permission for Sub-Course
 * Create Sub-Course Survey : Admin can give permission to the user to create a survey on the sub-course.
 * Edit Sub-Course Survey : Admin can give permission to users to edit surveys on the sub-course.
 
-e. Admin can give  permission for Quiz Bank
+### e. Admin can give  permission for Quiz Bank
 
 ![](/img/20.-quiz-bank.png)
 
@@ -156,7 +151,7 @@ e. Admin can give  permission for Quiz Bank
 * Bulk Import Quiz Bank : Admin can give permission to users to bulk import quiz banks.
 * Download Bulk Import Quiz Bank : Admin can give permission to users to download bulk import quiz bank.
 
-f. Admin can give permission to Reporting
+### f. Admin can give permission to Reporting
 
 ![](/img/21.-reporting.png)
 
@@ -167,7 +162,7 @@ f. Admin can give permission to Reporting
 * View Export History : Admin can give permission to users to view export report history.
 * Download Export History : Admin can give permission to users to download history export report.
 
-g. Admin can give permission to Roles & Permission
+### g. Admin can give permission to Roles & Permission
 
 ![](/img/22.-roles-permission.png)
 
@@ -176,7 +171,7 @@ g. Admin can give permission to Roles & Permission
 * Create Roles & Permission : Admin can give permission to users to create roles & permissions.
 * View Roles & Permission : Admin can give permission to users to view roles & permissions.
 
-h. Admin can give  permission to Survey
+### h. Admin can give  permission to Survey
 
 ![](/img/23.-survey.png)
 
@@ -186,13 +181,13 @@ h. Admin can give  permission to Survey
 * Create Survey : Admin can give permission to users to create surveys.
 * View Survey : Admin can give permission to users to view surveys.
 
-i. Admin can give permission to Users
+### i. Admin can give permission to Users
 
 ![](/img/24.-users.png)
 
 * View User Transaction : Admin can give permission to users to view user payment transactions
 
-j. Admin can give permission to University Staff
+### j. Admin can give permission to University Staff
 
 ![](/img/25.-university-staff.png)
 
@@ -200,7 +195,7 @@ j. Admin can give permission to University Staff
 * Create University Staff : Admin can give permission to users to create LMS accounts for university staff and lecturers.
 * Edit University Staff : Admin can give permission to users to edit LMS accounts for university staff and lecturers.
 
-k. Admin can give permission to Study Plan
+### k. Admin can give permission to Study Plan
 
 ![](/img/26.-study-plan.png)
 
@@ -209,7 +204,7 @@ k. Admin can give permission to Study Plan
 * Edit Study Plan : Admin can give permission to users to edit the study plan.
 * Delete Study Plan : Admin can give permission to the user to delete the study plan.
 
-l. Admin can give permission to Attendance Management
+### l. Admin can give permission to Attendance Management
 
 ![](/img/27.-attendance-management.png)
 
@@ -218,7 +213,7 @@ l. Admin can give permission to Attendance Management
 * Edit Attendance Management : Admin can give permission to users to edit attendance management.
 * Delete Attendance Management : Admin can give permission to users to delete attendance management.
 
-m. Admin can give  permission to Faculty
+### m. Admin can give  permission to Faculty
 
 ![](/img/28.-faculty.png)
 
@@ -227,7 +222,7 @@ m. Admin can give  permission to Faculty
 * Edit Faculty : Admin can give permission to users to edit faculty.
 * Delete Faculty : Admin can give permission to users to delete faculty.
 
-n. Admin can give permission to Grading Management
+### n. Admin can give permission to Grading Management
 
 ![](/img/29.-grading-management.png)
 
@@ -236,7 +231,7 @@ n. Admin can give permission to Grading Management
 * Edit Grading Management : Admin can give permission to users to edit grading management.
 * Delete Grading Management : Admin can give permission to users to delete grading management.
 
-o. Admin can give permission to Class Management
+### o. Admin can give permission to Class Management
 
 ![](/img/30.-class-management.png)
 
@@ -245,7 +240,7 @@ o. Admin can give permission to Class Management
 * Edit Class Management : Admin can give permission to users to edit class management.
 * Delete Class Management : Admin can give permission to users to delete class management.
 
-p. Admin can give permission to Program
+### p. Admin can give permission to Program
 
 ![](/img/31.-program.png)
 
@@ -255,7 +250,7 @@ p. Admin can give permission to Program
 * Edit Program : Admin can give permission to users to edit the programs.
 * Publish Program : Admin can give permission to users to publish programs.
 
-q. Admin can give permission to Finance
+### q. Admin can give permission to Finance
 
 ![](/img/32.-finance.png)
 
@@ -264,7 +259,7 @@ q. Admin can give permission to Finance
 * View Payment Details : Admin can permit users to view payment details.
 * Create Payment Details : Admin can permit  users to create payment details.
 
-r. Admin can give permission to Program Code
+### r. Admin can give permission to Program Code
 
 ![](/img/33.-program-code.png)
 
@@ -273,7 +268,7 @@ r. Admin can give permission to Program Code
 * Edit Program Code : Admin can permit users to edit program code
 * Delete Program Code : Admin permit users to delete program code
 
-s. Admin can give permission to Student
+### s. Admin can give permission to Student
 
 ![](/img/34.-student.png)
 
@@ -284,7 +279,7 @@ s. Admin can give permission to Student
 * Assign Program : Admin can permit users to assign programs.
 * Bulk Assign Program : Admin can permit users to bulk assign programs
 
-t. Admin can give  permission to Curriculum
+### t. Admin can give  permission to Curriculum
 
 ![](/img/35.-curriculum.png)
 

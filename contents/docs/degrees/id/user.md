@@ -6,7 +6,7 @@ Pada fitur **User** ada beberapa Menu di dalamnya, seperti yang terlampir pada g
 
 ![](/img/00-menu-users.png)
 
-**1. University Staff**
+## **1. University Staff**
 
 University Staff berisikan data Staff dan Dosen, Admin dapat membuat akun Staff atau Dosen menggunakan Menu ini dengan cara Klik +New di bagian kanan atas.
 
@@ -37,7 +37,7 @@ Admin dapat mencari Staff atau Dosen menggunakan Nama ataupun Email User, lalu K
 
 ![](/img/5.-univ-staff.png)
 
-**2. User Transaction**
+## **2. User Transaction**
 
 User Transaction ini digunakan Admin untuk melihat transaksi pembayaran mahasiswa.
 
@@ -51,7 +51,7 @@ Untuk mempermudah Admin dalam cek transaksi pembayaran mahasiswa Admin dapat Kli
 
 Admin dapat mencari data transaksi mahasiswa menggunakan nama, email ataupun nomor handphone mahasiswa lalu Klik **Apply**.
 
-**3. Student List**
+## **3. Student List**
 
 Student List digunakan untuk Admin melihat data Mahasiswa yang terdaftar dalam Universitas.
 
@@ -69,7 +69,7 @@ Untuk mengunduh data Mahasiswa, Admin dapat Klik **Export Data**
 
 ![](/img/12.-export-data.png)
 
-**4. Permission**
+## **4. Permission**
 
 Permission digunakan Admin untuk mengatur apa saja yang dapat dilakukan oleh User.
 
@@ -79,13 +79,13 @@ Untuk membuat Permission baru, Admin dapat Klik **+New**
 
 ![](/img/14.-new.png)
 
-Isi bagian New Permission (Role), kemudian klik **NEXT.**
+Isi bagian **New Permission (Role),** kemudian klik **NEXT.**
 
 ![](/img/15.-new-permission.png)
 
-Selanjutnya pada tampilan di bawah ini, isi New Permission (Permission). Admin bisa memilih permission/izin yang akan diberikan kepada user sesuai dengan kebutuhan, lalu klik **CREATE.**
+Selanjutnya pada tampilan di bawah ini, isi **New Permission**. Admin bisa memilih permission/izin yang akan diberikan kepada user sesuai dengan kebutuhan, lalu klik **CREATE.**
 
-a. Admin dapat memberikan permission untuk Archive Course
+### a. Admin dapat memberikan permission untuk Archive Course
 
 ![](/img/16.-create.png)
 
@@ -98,7 +98,7 @@ a. Admin dapat memberikan permission untuk Archive Course
 * Unarchive Sub-Course : Admin dapat memberikan permission kepada user untuk meng unarchive kan kelas pada sub-course
 * View Archive History : Admin dapat memberikan permission kepada user untuk melihat history pada archive
 
-b. Admin dapat memberikan permission untuk Institutional Data Management
+### b. Admin dapat memberikan permission untuk Institutional Data Management
 
 ![](/img/17.-data-management.png)
 
@@ -108,7 +108,7 @@ b. Admin dapat memberikan permission untuk Institutional Data Management
 * Delete Institutional Data Management : Admin dapat memberikan permission kepada user untuk hapus institutional data management
 * Create Institutional Data Management : Admin dapat memberikan permission kepada user untuk membuat institutional data management
 
-c. Admin dapat memberikan permission untuk Parent Course
+### c. Admin dapat memberikan permission untuk Parent Course
 
 ![](/img/18.-parent-course.png)
 
@@ -123,7 +123,7 @@ c. Admin dapat memberikan permission untuk Parent Course
 * View Parent Course Survey : Admin dapat memberikan permission kepada user untuk melihat survey parent course
 * Edit Parent Course Section Schedule : Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di parent course
 
-d. Admin dapat memberikan permission untuk Sub-Course
+### d. Admin dapat memberikan permission untuk Sub-Course
 
 ![](/img/19.-sub-course.png)
 
@@ -139,7 +139,7 @@ d. Admin dapat memberikan permission untuk Sub-Course
 * Create Sub-Course Survey : Admin dapat memberikan permission kepada user untuk membuat survey pada sub-course
 * Edit Sub-Course Survey : Admin dapat memberikan permission kepada user untuk edit survey pada sub-course
 
-e. Admin dapat memberikan permission untuk Quiz Bank
+### e. Admin dapat memberikan permission untuk Quiz Bank
 
 ![](/img/20.-quiz-bank.png)
 
@@ -150,7 +150,7 @@ e. Admin dapat memberikan permission untuk Quiz Bank
 * Bulk Import Quiz Bank : Admin dapat memberikan permission kepada user untuk bulk import quiz bank
 * Download Bulk Import Quiz Bank : Admin dapat memberikan permission kepada user untuk unduh bulk import quiz bank
 
-f. Admin dapat memberikan permission untuk Reporting
+### f. Admin dapat memberikan permission untuk Reporting
 
 ![](/img/21.-reporting.png)
 
@@ -161,7 +161,7 @@ f. Admin dapat memberikan permission untuk Reporting
 * View Export History : Admin dapat memberikan permission kepada user untuk melihat history export report
 * Download Export History : Admin dapat memberikan permission kepada user untuk unduh history export report
 
-g. Admin dapat memberikan permission untuk Roles & Permission
+### g. Admin dapat memberikan permission untuk Roles & Permission
 
 ![](/img/22.-roles-permission.png)
 
@@ -170,7 +170,7 @@ g. Admin dapat memberikan permission untuk Roles & Permission
 * Create Roles & Permission : Admin dapat memberikan permission kepada user untuk membuat roles & permission
 * View Roles & Permission : Admin dapat memberikan permission kepada user untuk melihat roles & permission
 
-h. Admin dapat memberikan permission untuk Survey
+### h. Admin dapat memberikan permission untuk Survey
 
 ![](/img/23.-survey.png)
 
@@ -180,13 +180,13 @@ h. Admin dapat memberikan permission untuk Survey
 * Create Survey : Admin dapat memberikan permission kepada user untuk membuat survey
 * View Survey : Admin dapat memberikan permission kepada user untuk melihat survey
 
-i. Admin dapat memberikan permission untuk Users
+### i. Admin dapat memberikan permission untuk Users
 
 ![](/img/24.-users.png)
 
 * View User Transaction : Admin dapat memberikan permission kepada user untuk melihat transaksi pembayaran user
 
-Admin dapat memberikan permission untuk University Staff
+### j. Admin dapat memberikan permission untuk University Staff
 
 ![](/img/25.-university-staff.png)
 
@@ -194,7 +194,7 @@ Admin dapat memberikan permission untuk University Staff
 * Create University Staff : Admin dapat memberikan permission kepada user untuk membuat akun LMS untuk staff dan dosen universitas
 * Edit University Staff : Admin dapat memberikan permission kepada user untuk edit akun LMS staff dan dosen universitas
 
-k. Admin dapat memberikan permission untuk Study Plan
+### k. Admin dapat memberikan permission untuk Study Plan
 
 ![](/img/26.-study-plan.png)
 
@@ -203,7 +203,7 @@ k. Admin dapat memberikan permission untuk Study Plan
 * Edit Study Plan : Admin dapat memberikan permission kepada user untuk edit study plan
 * Delete Study Plan : Admin dapat memberikan permission kepada user untuk menghapus study plan
 
-l. Admin dapat memberikan permission untuk Attendance Management
+### l. Admin dapat memberikan permission untuk Attendance Management
 
 ![](/img/27.-attendance-management.png)
 
@@ -212,7 +212,7 @@ l. Admin dapat memberikan permission untuk Attendance Management
 * Edit Attendance Management : Admin dapat memberikan permission kepada user untuk edit attendance management
 * Delete Attendance Management : Admin dapat memberikan permission kepada user untuk menghapus attendance management
 
-m. Admin dapat memberikan permission untuk Faculty
+### m. Admin dapat memberikan permission untuk Faculty
 
 ![](/img/28.-faculty.png)
 
@@ -221,7 +221,7 @@ m. Admin dapat memberikan permission untuk Faculty
 * Edit Faculty : Admin dapat memberikan permission kepada user untuk edit faculty
 * Delete Faculty : Admin dapat memberikan permission kepada user untuk menghapus faculty
 
-n. Admin dapat memberikan permission untuk Grading Management
+### n. Admin dapat memberikan permission untuk Grading Management
 
 ![](/img/29.-grading-management.png)
 
@@ -230,7 +230,7 @@ n. Admin dapat memberikan permission untuk Grading Management
 * Edit Grading Management : Admin dapat memberikan permission kepada user untuk edit grading management
 * Delete Grading Management : Admin dapat memberikan permission kepada user untuk menghapus grading management
 
-o. Admin dapat memberikan permission untuk Class Management
+### o. Admin dapat memberikan permission untuk Class Management
 
 ![](/img/30.-class-management.png)
 
@@ -239,7 +239,7 @@ o. Admin dapat memberikan permission untuk Class Management
 * Edit Class Management : Admin dapat memberikan permission kepada user untuk edit class management
 * Delete Class Management : Admin dapat memberikan permission kepada user untuk menghapus class management
 
-p. Admin dapat memberikan permission untuk Program
+### p. Admin dapat memberikan permission untuk Program
 
 ![](/img/31.-program.png)
 
@@ -249,7 +249,7 @@ p. Admin dapat memberikan permission untuk Program
 * Edit Program : Admin dapat memberikan permission kepada user untuk edit program
 * Publish Program : Admin dapat memberikan permission kepada user untuk publish program
 
-q. Admin dapat memberikan permission untuk Finance
+### q. Admin dapat memberikan permission untuk Finance
 
 ![](/img/32.-finance.png)
 
@@ -258,7 +258,7 @@ q. Admin dapat memberikan permission untuk Finance
 * View Payment Details : Admin dapat memberikan permission kepada user untuk melihat detail pembayaran
 * Create Payment Details : Admin dapat memberikan permission kepada user untuk membuat detail pembayaran
 
-r. Admin dapat memberikan permission untuk Program Code
+### r. Admin dapat memberikan permission untuk Program Code
 
 ![](/img/33.-program-code.png)
 
@@ -267,7 +267,7 @@ r. Admin dapat memberikan permission untuk Program Code
 * Edit Program Code : Admin dapat memberikan permission kepada user untuk edit program code
 * Delete Program Code : Admin dapat memberikan permission kepada user untuk menghapus program code
 
-s. Admin dapat memberikan permission untuk Student
+### s. Admin dapat memberikan permission untuk Student
 
 ![](/img/34.-student.png)
 
@@ -278,7 +278,7 @@ s. Admin dapat memberikan permission untuk Student
 * Assign Program : Admin dapat memberikan permission kepada user untuk assign program
 * Bulk Assign Program : Admin dapat memberikan permission kepada user untuk bulk assign program
 
-t. Admin dapat memberikan permission untuk Curriculum
+### t. Admin dapat memberikan permission untuk Curriculum
 
 ![](/img/35.-curriculum.png)
 
