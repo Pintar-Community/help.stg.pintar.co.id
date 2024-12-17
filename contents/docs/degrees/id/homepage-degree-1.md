@@ -1,5 +1,5 @@
 ---
-title: Homepage Degree
+title: (UI Learner) Homepage Degree
 sidebar_position: 10
 ---
 Bagian ini menampilkan halaman awal dari program Degree.
