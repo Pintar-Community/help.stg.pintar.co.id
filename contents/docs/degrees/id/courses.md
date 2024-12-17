@@ -2,12 +2,11 @@
 title: Courses
 sidebar_position: 3
 ---
-
 Pada fitur **Courses** ada beberapa Menu di dalamnya, seperti yang terlampir pada gambar berikut ini:
 
 ![](/img/00-courses.png)
 
-**1. Course Listing**
+## **1. Course Listing**
 
 Course Listing berisikan Mata Kuliah yang sudah berjalan, untuk mempermudah Admin dalam mencari Mata Kuliah, Admin dapat Klik **Filter**.
 
@@ -44,7 +43,6 @@ Setelah mata kuliah sudah terbuat Admin dapat menambahkan Materi pada mata kulia
 ![](/img/8.-material_3.png)
 
 1. Description : Klik Ikon Pensil lalu tuliskan deskripsi dari mata kuliah yang dibuat.
-
 2. Course Features : Klik Ikon Pensil, lalu pilih bahasa dan Klik Save
 
 ![](/img/9.-course-feature.png)
@@ -87,7 +85,7 @@ Lalu Admin pilih settingan apa saja untuk mata kuliah tersebut lalu Klik **Save*
 
 Jika semuanya sudah tersetting Mata Kuliah sudah dapat diproses untuk langkah selanjutnya.
 
-**2. Quiz Bank**
+## **2. Quiz Bank**
 
 Menu Quiz Bank ini untuk mempermudah Admin dalam memasukkan Quiz ke dalam LMS.
 
@@ -122,7 +120,7 @@ Isi bagian **Title** dan **Description**, lalu klik **Save**
 
 ![](/img/25.-title-description.png)
 
-**3. Archive Course**
+## **3. Archive Course**
 
 Archive Course ini digunakan untuk mengarsipkan Mata Kuliah.
 

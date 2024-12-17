@@ -6,7 +6,7 @@ In the **Courses** feature there are several Menus in it, as attached to the fol
 
 ![](/img/00-courses.png)
 
-**1. Course Listing**
+## **1. Course Listing**
 
 Course Listing contains Courses that are already running, to make it easier for Admin to find Courses, Admin can Click **Filter**.
 
@@ -34,8 +34,6 @@ Then the Admin can fill in a several items as shown below :
 6. Classification	: Select the classification of the course to be created.
 7. Upload Cover	: Upload the cover of the course to be created, after everything is filled in the Admin can click **SAVE**.
 
-
-
 After the course has been created, Admin can add Material to the course. Click **Material**
 
 ![](/img/6.-materials.png)
@@ -45,16 +43,13 @@ After the course has been created, Admin can add Material to the course. Click *
 ![](/img/8.-material_3.png)
 
 1. Description		: Click the Pencil Icon and write the description of the course.
-
-2. Course Features	: Click the Pencil Icon, then select the language and. Click **Save**.
+2. Course Features	: Click the Pencil Icon, then select the language and. Click Save.
 
 ![](/img/9.-course-feature.png)
 
 3. Upload Document	: Upload the course syllabus
 
-
-
-After that, Admins can add Sessions for courses by clicking +ADD SECTION on the bottom left.
+After that, Admins can add Sessions for courses by clicking **+ADD SECTION** on the bottom left.
 
 ![](/img/10.-add-section.png)
 
@@ -82,7 +77,6 @@ Click **ADD**
 2. Weitht(%)		: Value weight in percentage
 3. Content Type		: Select the content that becomes the value weight, then Click **ADD**
 
-
 Admins can also set configurations by clicking **Configuration**
 
 ![](/img/17.-configurations.png)
@@ -91,9 +85,8 @@ Select any settings for the course then click **Save.**
 
 Once everything is set, the course can be processed for the next step.
 
+## **2. Quiz Bank**
 
-
-**2. Quiz Bank**
 This Quiz Bank menu exists to simplify Admin in entering Quiz into LMS.
 
 ![](/img/18.-quiz-bank.png)
@@ -117,12 +110,9 @@ Fill in the form as follows:
 3. Keyword		: IFill in keywords to make it easier when searching for Quiz
 4. Feedback		: Fill in the feedback (optional, can also be left blank), then click **save**
 
-
 Furthermore, if the Admin wants to create a Quiz folder according to the existing material click **Create Folder**
 
 ![](/img/23.-folder-quiz-bank.png)
-
-
 
 ![](/img/24.-create-folder.png)
 
@@ -130,9 +120,7 @@ Fill int the **Title** and **Description**, then click **save.**
 
 ![](/img/25.-title-description.png)
 
-
-
-**3. Archive Course**
+## **3. Archive Course**
 
 Archive Course is used to archive the Course.
 
