@@ -14,7 +14,7 @@ The dashboard also includes an Attendance column. This menu is useful for viewin
 
 2. You can view the details of students' attendance for each session/meeting.
 
-Notes : 
+**Notes :** 
 
 0 % = Absent
 

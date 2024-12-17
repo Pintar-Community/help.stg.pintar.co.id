@@ -14,7 +14,7 @@ Pada dashboard juga terdapat kolom Kehadiran. Menu ini berguna untuk melihat keh
 
 2. Anda dapat melihat rincian kehadiran students disetiap sesi/pertemuan.
 
-Keterangan : 
+**Keterangan :** 
 
 0 % = Tidak Hadir
 
