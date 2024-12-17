@@ -15,8 +15,7 @@ Berikut adalah contoh jawaban diskusi yang telah disubmit oleh student.
 
 ![](/img/degree-lecture-diskusi-2.jpg)
 
-Anda sebagai instruktur juga dapat memberikan nilai pada
-jawaban diskusi student dengan beberapa ketentuan seperti gambar di bawah ini.
+Anda sebagai instruktur juga dapat memberikan nilai pada jawaban diskusi student dengan beberapa ketentuan seperti gambar di bawah ini.
 
 ![](/img/degree-lecture-diskusi-3.jpg)
 
