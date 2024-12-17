@@ -16,7 +16,7 @@ To make it easier for Admin to search for programs, Admin can click the Filter I
 
 Admin can fill in according to the program that Admin wants to find, then click **Apply**.
 
-![](/img/3.-filter-data.png)
+![](/img/program-code-4.png)
 
 Then the program that Admin is looking for will appear.
 
@@ -43,29 +43,23 @@ General Information includes : 
 11. Location Details : Enter the full address of the university.
 12. Payment		: Select PINTAR.
 
-
-
 After everything is filled in, Admin is also required to upload Banners, Thumbnails and Brochures. Then click Save.
 
 If the Admin has clicked Save, the Program has been created, but the Admin still has to complete some more data such as *Learning Info*.
 
-![](/img/6.-learning-info.png)
+![](/img/program-code-7.png)
 
 Learning Info contains : 
 
 1. Learning Method		: Choose the learning method according to the program created
-
 2. Learning Information 	: Write down information related to learning
-
 3. Key Name 			: Write down the keywords of the program creation
-
 4. Date Type 			: Select the Date Type according to the program creation
-
 5. Range			: Set the date according to the opening of the program
 
 After everything is filled in, Click Save, then the Admin can complete the data in the *Enrollment* section.
 
-![](/img/7.-enrollment.png)
+![](/img/program-code-8.png)
 
 Enrollment contains :
 
@@ -82,7 +76,6 @@ After everything is filled in then Click Save, then the Admin can complete the d
 Career contains:
 
 1. Career Description: Write the career objective of the program
-
 2. Career Prospects: Choose several career prospects according to the program created
 
 After the Career section is filled in, Admin can click Save. Then Admin can proceed to the *Student Form Setting* section.

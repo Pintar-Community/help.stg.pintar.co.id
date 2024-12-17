@@ -16,7 +16,7 @@ Untuk mempermudah Admin dalam mencari Program, Admin dapat Klik Icon Filter yang
 
 Admin dapat isi sesuai dengan Program yang ingin Admin cari, lalu Klik **Apply**.
 
-![](/img/3.-filter-data.png)
+![](/img/program-code-4.png)
 
 Maka Program yang Admin cari akan muncul.
 
@@ -43,13 +43,11 @@ General Information berisikan hal terkait:
 11. Rincian Lokasi	: Tuliskan alamat lengkap dari Universitas
 12. Payment		: Pilih PINTAR
 
-
-
 Setelah semuanya diisi, Admin juga wajib upload Banner, Thumbnail dan Brochure lalu Klik Save.
 
 Jika Admin sudah Klik Save, maka Program sudah terbuat namun Admin masih harus melengkapi beberapa data lagi seperti *Learning Info.*
 
-![](/img/6.-learning-info.png)
+![](/img/program-code-7.png)
 
 Learning Info berisikan hal terkait:
 
@@ -61,7 +59,7 @@ Learning Info berisikan hal terkait:
 
 Setelah semuanya diisi lalu Klik Save, lalu Admin dapat melengkapi data pada bagian *Enrollment*
 
-![](/img/7.-enrollment.png)
+![](/img/program-code-8.png)
 
 Enrollment berisikan hal terkait:
 
