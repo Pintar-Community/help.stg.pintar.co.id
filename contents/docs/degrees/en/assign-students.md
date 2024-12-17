@@ -6,7 +6,7 @@ In the Assign Student feature, there are 2 menus in it.
 
 ![](/img/assign-student.png)
 
-**1. Program**
+## **1. Program**
 
 In the **Program Menu**, the Admin can assign students to a different program from their current program by filling out the following fields:
 
@@ -20,8 +20,6 @@ To assign students in large numbers, admins can click **Bulk Upload Students**
 
 ![](/img/2.-bulk-upload-users.png)
 
-
-
 ![](/img/3.-download-template.png)
 
 Admin can click **Download Template** to download the template in Excel. After the Admin fills in the data in the Excel file, the Admin can Upload the document by clicking **Upload**.
@@ -34,8 +32,8 @@ Admin can click **Download Template** to download the template in Excel. After t
 2. Select Academic Year & Type : Select the Academic Year to be assigned
 3. Upload Document : Upload the template document that has been filled in, then Admin can click **Save**
 
+## **2. Add-on Course**
 
-**2. Add-on Course**
 After Admin assigns students between programs in the Program Menu, Admin can already assign students to classes with different programs.
 
 ![](/img/6.-add-on-course.png)

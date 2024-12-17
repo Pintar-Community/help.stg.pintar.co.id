@@ -6,7 +6,7 @@ Pada fitur Assign Student terdapat 2 menu di dalamnya.
 
 ![](/img/assign-student.png)
 
-**1. Program**
+## **1. Program**
 
 Pada **menu Program** ini Admin dapat assign student ke program yang berbeda dari program student tersebut dengan cara mengisi:
 
@@ -33,9 +33,7 @@ Admin dapat Klik **Download Template** untuk mengunduh template dalam bentuk Exc
 2. Select Academic Year & Type : Pilih Tahun Akademik yang akan diassign
 3. Upload Document : Upload dokumen template yang sudah diisi, lalu Admin dapat Klik **Save**
 
-
-
-**2. Add-on Course**
+## **2. Add-on Course**
 
 Setelah Admin assign mahasiswa antar program pada Menu program, Admin sudah bisa assign mahasiswa ke Kelas yang berbeda program.
 
