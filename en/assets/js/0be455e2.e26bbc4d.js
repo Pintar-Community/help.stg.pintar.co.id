@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[9132],{93092:e=>{e.exports=JSON.parse('{"label":"19","permalink":"/en/docs/tags/19","allTagsPath":"/en/docs/tags","count":1,"items":[{"id":"degrees/introduction","title":"Introduction","description":"","permalink":"/en/docs/degrees/introduction"}]}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[4121],{88070:e=>{e.exports=JSON.parse('[{"label":"jitsi","permalink":"/docs/tags/jitsi","count":1}]')}}]);
