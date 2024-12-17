@@ -11,7 +11,6 @@ Before logging into LMS, ensure  that you have received an Email to verify the 
 ![](/img/homepage-degree-3.jpg)
 
 1. Button to Change Language (Indonesia/English)
-
 2. Button to Login to LMS Degree
 
 
@@ -35,8 +34,6 @@ Before logging into LMS, ensure  that you have received an Email to verify the 
 ![](/img/homepage-degree-10.jpg)
 
 You can fill in all the required information to request a demo.
-
-
 
 There are several menus available on the homepage Degree :
 

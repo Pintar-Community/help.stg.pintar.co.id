@@ -11,11 +11,9 @@ Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi 
 ![](/img/homepage-degree-3.jpg)
 
 1. Tombol untuk mengganti bahasa (Indonesia/English)
-
 2. Tombol untuk Login ke LMS Degree
 
-#### 
-Cara Login ke LMS Degree :
+#### Cara Login ke LMS Degree :
 
 * Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi penggantian Password baru yang akan digunakkan. Kemudian Anda dapat login menggunakan Email dan Password tersebut.
 
@@ -28,13 +26,12 @@ Cara Login ke LMS Degree :
 * Klik tombol Masuk
 
 
+
 3. Tombol untuk mengajukan Demo
 
 ![](/img/homepage-degree-10.jpg)
 
 Anda dapat mengisi semua informasi yang dibutuhkan untuk mengajukan Demo.
-
-
 
 Terdapat beberapa menu pada home page Degree :
 
