@@ -4,12 +4,11 @@ sidebar_position: 13
 ---
 ![](/img/enrollment-1.png)
 
-1. On the program details page, there is a detailed explanation such as an overview, academics, registration, career prospects, and also the price of the program
-2. There is a "Register Now" button for you to immediately register for the program
-3. There is a "Request Info" button to find out and get more detailed information regarding the program
+1. On the program details page, there is a detailed explanation such as an overview, academics, registration, career prospects, and also the price of the program.
+2. There is a "Register Now" button for you to immediately register for the program.
+3. There is a "Request Info" button to find out and get more detailed information regarding the program.
 
-#### 
-Purchase Details Page
+#### Purchase Details Page
 
 ![](/img/enrollment-2.png)
 
