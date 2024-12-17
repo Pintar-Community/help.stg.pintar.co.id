@@ -38,8 +38,6 @@ To see the status of students completing the quiz, you can see the details in th
 
 7. In the Quiz content, it consists of 2 parts (Quiz Settings and Quiz Material).
 
-
-
 #### **\- Quiz Settings**
 
 You can fill in all the information in Quiz Settings.
@@ -65,8 +63,6 @@ h. Minimum Score Result : Minimum score for the Quiz
 i. Review Quiz Result: Review on quizzes can be set to active/inactive.
 
 j. Shuffle Question & Option Order: Questions on the Quiz can appear randomly or sequentially.
-
-
 
 #### **\- Quiz Material**
 

@@ -38,8 +38,6 @@ Untuk melihat status pengerjaan quiz oleh students, Anda dapat melihat detailnya
 
 7. Pada content Quiz, terdiri dari 2 bagian (Quiz Settings dan Quiz Material).
 
-
-
 #### **\- Quiz Settings**
 
 Anda dapat mengisi semua informasi yang terdapat pada Quiz Settings.
@@ -65,8 +63,6 @@ h. Minimun Score Result : Nilai minimum untuk Quiz tersebut
 i. Review Quiz Result : Review pada quiz dapat disetting menjadi aktif/nonaktif
 
 j. Shuffle Question & Option Order : Pertanyaan pada Quiz dapat dimunculkan secara acak ataupun berurutan
-
-
 
 #### **\- Quiz Material**
 
