@@ -2,6 +2,7 @@
 title: Courses
 sidebar_position: 3
 ---
+
 Pada fitur **Courses** ada beberapa Menu di dalamnya, seperti yang terlampir pada gambar berikut ini:
 
 ![](/img/00-courses.png)
@@ -26,17 +27,13 @@ Lalu Admin dapat mengisi beberapa hal seperti pada gambar berikut ini:
 
 ![](/img/5.-point-general-information.png)
 
-1. Course Name		: Tuliskan nama mata kuliah yang akan dibuat.
-2. Code			: Tuliskan kode mata kuliah yang akan dibuat.
-3. University		: Pilih Universitas untuk mata kuliah yang akan dibuat.
-4. Credit			: Tuliskan Satuan Kredit Semester (SKS) dari mata kuliah yang akan dibuat.
-5. Category		: Pilihlah kategori dari mata kuliah yang akan dibuat.
-6. Classification		: Pilih klasifikasi dari mata kuliah yang akan dibuat.
-7. Upload Cover		: Upload cover dari mata kuliah yang akan dibuat, setelah semuanya terisi Admin dapat Klik **SAVE**.
-
-![]()
-
-![]()
+1. Course Name : Tuliskan nama mata kuliah yang akan dibuat.
+2. Code : Tuliskan kode mata kuliah yang akan dibuat.
+3. University : Pilih Universitas untuk mata kuliah yang akan dibuat.
+4. Credit : Tuliskan Satuan Kredit Semester (SKS) dari mata kuliah yang akan dibuat.
+5. Category : Pilihlah kategori dari mata kuliah yang akan dibuat.
+6. Classification : Pilih klasifikasi dari mata kuliah yang akan dibuat.
+7. Upload Cover : Upload cover dari mata kuliah yang akan dibuat, setelah semuanya terisi Admin dapat Klik **SAVE**.
 
 Setelah mata kuliah sudah terbuat Admin dapat menambahkan Materi pada mata kuliah Admin dapat Klik **Material**
 
@@ -46,15 +43,13 @@ Setelah mata kuliah sudah terbuat Admin dapat menambahkan Materi pada mata kulia
 
 ![](/img/8.-material_3.png)
 
-1. Description		: Klik Ikon Pensil lalu tuliskan deskripsi dari mata kuliah yang dibuat.
+1. Description : Klik Ikon Pensil lalu tuliskan deskripsi dari mata kuliah yang dibuat.
 
-2. Course Features	: Klik Ikon Pensil, lalu pilih bahasa dan Klik Save
+2. Course Features : Klik Ikon Pensil, lalu pilih bahasa dan Klik Save
 
 ![](/img/9.-course-feature.png)
 
-3. Upload Document	: Upload silabus mata kuliah.
-
-
+3. Upload Document : Upload silabus mata kuliah.
 
 Setelah itu Admin dapat menambahkan Sesi untuk mata kuliah dengan cara Klik **+ADD SECTION** yang berada di kiri bawah.
 
@@ -80,9 +75,9 @@ Lalu Admin dapat Klik **ADD**
 
 ![](/img/16.-point-gradebook.png)
 
-1. Component Name	: Nama bobot nilai
-2. Weitht(%)		: Bobot nilai dalam persentase
-3. Content Type		: Pilih content yang menjadi bobot nilai, lalu Klik **ADD**
+1. Component Name : Nama bobot nilai
+2. Weitht(%) : Bobot nilai dalam persentase
+3. Content Type : Pilih content yang menjadi bobot nilai, lalu Klik **ADD**
 
 Admin juga dapat setting konfigurasi dengan Klik **Configuration**
 
@@ -91,8 +86,6 @@ Admin juga dapat setting konfigurasi dengan Klik **Configuration**
 Lalu Admin pilih settingan apa saja untuk mata kuliah tersebut lalu Klik **Save**.
 
 Jika semuanya sudah tersetting Mata Kuliah sudah dapat diproses untuk langkah selanjutnya.
-
-
 
 **2. Quiz Bank**
 
@@ -114,11 +107,10 @@ Admin dapat memilih Tipe Quiz sesuai dengan Quiz yang akan dibuat.
 
 isi form sebagai berikut:
 
-1. Question		: Isi pertanyaan Quiz
+1. Question : Isi pertanyaan Quiz
 2. Answer Option : Isi jawaban Quiz yang sesuai
-3. Keyword		: Isi keyword agar lebih mudah saat mencari Quiz
-4. Feedback		: Isi feedback (opsional bisa juga dikosongkan), lalu klik **save**
-
+3. Keyword : Isi keyword agar lebih mudah saat mencari Quiz
+4. Feedback : Isi feedback (opsional bisa juga dikosongkan), lalu klik **save**
 
 Selanjutnya apabila Admin ingin membuat folder Quiz sesuai materi yang ada klik **Create Folder**
 
@@ -129,8 +121,6 @@ Selanjutnya apabila Admin ingin membuat folder Quiz sesuai materi yang ada klik 
 Isi bagian **Title** dan **Description**, lalu klik **Save**
 
 ![](/img/25.-title-description.png)
-
-
 
 **3. Archive Course**
 
