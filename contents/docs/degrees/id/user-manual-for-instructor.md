@@ -1,6 +1,6 @@
 ---
 title: User Manual untuk Instruktur
-sidebar_position: 2
+sidebar_position: 18
 ---
 ## **Login**
 
