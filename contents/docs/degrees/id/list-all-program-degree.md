@@ -32,7 +32,7 @@ Program yang terdapat pada program Degree adalah Program Sarjana dan Program Pas
 
 ![](/img/list-all-program-7.jpg)
 
-#### Informasi terkait Program
+### Informasi terkait Program
 
 1. Apabila telah mendapatkan program yang Anda inginkan, kemudian klik tombol “Selengkapnya”.
 
