@@ -4,7 +4,7 @@
         <title>We are ready to help you Blog</title>
         <link>https://help.stg.pintar.co.id/blog</link>
         <description>We are ready to help you Blog</description>
-        <lastBuildDate>Wed, 18 Dec 2024 04:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 04:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>id</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Cara Menulis Konten]]></title>
             <link>https://help.stg.pintar.co.id/blog/cara-menulis-konten</link>
             <guid>https://help.stg.pintar.co.id/blog/cara-menulis-konten</guid>
-            <pubDate>Wed, 18 Dec 2024 04:48:10 GMT</pubDate>
+            <pubDate>Wed, 18 Dec 2024 04:54:25 GMT</pubDate>
             <description><![CDATA[Ada 2 Navigasi pada Help Pintar.]]></description>
             <content:encoded><![CDATA[<p>Ada 2 Navigasi pada Help Pintar.</p><p>Ketika membuat post, ikuti panduan berikut: </p><ol><li>H1 = Judul (Navigasi Kiri)</li><li>H2 = Judul (Navigasi Kanan)</li><li>H3 = Sub-Judul (Navigasi Kanan)</li></ol><p>Jika anda menggunakan markdown, maka harus dibuat dengan # (Tanda Pagar)</p><ol><li>H1 = <code>#</code></li><li>H2 = <code>##</code></li><li>H3 = <code>###</code></li></ol><h2 class="anchor anchorWithStickyNavbar_LWe7" id="contoh-h2">Contoh H2<a href="#contoh-h2" class="hash-link" aria-label="Direct link to Contoh H2" title="Direct link to Contoh H2">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="contoh-h3-1">Contoh H3 (1)<a href="#contoh-h3-1" class="hash-link" aria-label="Direct link to Contoh H3 (1)" title="Direct link to Contoh H3 (1)">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="contoh-h3-1-1">Contoh H3 (1)<a href="#contoh-h3-1-1" class="hash-link" aria-label="Direct link to Contoh H3 (1)" title="Direct link to Contoh H3 (1)">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="contoh-h3-1-2">Contoh H3 (1)<a href="#contoh-h3-1-2" class="hash-link" aria-label="Direct link to Contoh H3 (1)" title="Direct link to Contoh H3 (1)">​</a></h3><h2 class="anchor anchorWithStickyNavbar_LWe7" id="contoh-h2-1">Contoh H2 (1)<a href="#contoh-h2-1" class="hash-link" aria-label="Direct link to Contoh H2 (1)" title="Direct link to Contoh H2 (1)">​</a></h2>]]></content:encoded>
             <category>pembuatan-kontent</category>
