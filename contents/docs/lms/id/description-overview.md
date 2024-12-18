@@ -26,7 +26,7 @@ Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembe
 
 ![](/img/d-o-4.jpg)
 
-5. Anda dapat mengisi Deskripsi pada menu Couse Overview dengan klik ikon pensil.
+5. Anda dapat mengisi Deskripsi pada menu Course Overview dengan klik ikon pensil.
 
 ![](/img/d-o-5.jpg)
 
