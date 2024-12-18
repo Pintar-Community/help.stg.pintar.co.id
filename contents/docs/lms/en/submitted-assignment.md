@@ -26,8 +26,6 @@ d. Review time corresponds to the time you assess Students' answers
 
 e. This section is useful for reviewing Students' assignment answers
 
-
-
 3. After you review the students' answers, then click the Rate button to give a grade.
 
 ![](/img/degree-lecture-submitted-assignment-4.jpg)

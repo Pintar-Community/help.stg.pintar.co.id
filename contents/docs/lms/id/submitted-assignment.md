@@ -26,8 +26,6 @@ d. Waktu peninjauan sesuai dengan waktu Anda menilai jawaban Students
 
 e. Bagian ini berguna untuk meninjau jawaban tugas Students 
 
-
-
 3. Setelah Anda meninjau jawaban Students, kemudian Klik button Beri Nilai untuk memberikan nilai.
 
 ![](/img/degree-lecture-submitted-assignment-indo.jpg)
