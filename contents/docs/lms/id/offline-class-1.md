@@ -66,8 +66,6 @@ Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran 
 
 Pada menu Offline Class terdapat tombol Enable Scoring. Fitur ini dapat digunakan apabila Anda ingin memberikan nilai pada sesi tersebut.
 
-
-
 8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
 
 9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
