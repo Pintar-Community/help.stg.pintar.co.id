@@ -132,8 +132,6 @@ Untuk menambahkan soal Quiz, Anda dapat melakukannya pada section Quiz Material 
 
 \- Kemudian klik Save untuk menyimpan
 
-
-
 8. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
 
 ![](/img/degree-lecture-publish.jpg)

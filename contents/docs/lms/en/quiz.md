@@ -132,8 +132,6 @@ To add a Quiz question, you can do so in the Quiz Material section.
 
 \- Then click Save
 
-
-
 8. Select the Publish menu in the top right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)
