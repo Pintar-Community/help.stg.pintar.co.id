@@ -46,8 +46,6 @@ c. Exam Method: Select the exam method (Quiz/Assignment)
 
 d. Exam Period : Add start date and due date
 
-
-
 8. When it has been filled in, then click Save in the bottom right corner.
 
 9. Select the Publish menu in the top right corner, then click the Publish button.

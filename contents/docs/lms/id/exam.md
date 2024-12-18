@@ -46,8 +46,6 @@ c. Exam Method : Pilih metode exam (Quiz/Assignment)
 
 d. Exam Period : Tambahkan start date dan due date
 
-
-
 8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
 
 9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
