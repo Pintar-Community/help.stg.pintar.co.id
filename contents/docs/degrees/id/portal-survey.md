@@ -1,5 +1,5 @@
 ---
-title: (Portal) Survey
+title: Survey
 sidebar_position: 6
 ---
 ![](/img/admin-portal-degrees-survey-1.jpg)
