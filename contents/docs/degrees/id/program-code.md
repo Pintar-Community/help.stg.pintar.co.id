@@ -1,5 +1,5 @@
 ---
-title: (Portal) Program Code
+title: (Admin) Program Code
 sidebar_position: 1
 ---
 Menu Program ini digunakan untuk membuat Program dalam penerimaan Mahasiswa Baru. Untuk mengakses Menu Program, Admin dapat Klik **Program**

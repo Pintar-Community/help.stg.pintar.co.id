@@ -1,5 +1,5 @@
 ---
-title: (Portal) Program Code
+title: (Admin) Program Code
 sidebar_position: 1
 ---
 Program menu is used to create a program for new student admissions. To access the Program Menu, Admin can click **Program**
