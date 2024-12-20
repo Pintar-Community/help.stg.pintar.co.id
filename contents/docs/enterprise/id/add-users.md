@@ -62,8 +62,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
 ![](/img/enterprise-admin-user-13.png)
 
-
-
 ![](/img/enterprise-admin-user-14.png)
 
    i. Isi data sesuai data yang ingin di-assign, lalu klik add
@@ -140,8 +138,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    f. Survey Reporting:Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
 
-
-
 2. Super admin dapat memberikan permission untuk meninjau **Courses**
 
 ![](/img/enterprise-admin-user-29.png)
@@ -174,8 +170,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    m. Edit Course Survey :Super admin dapat memberikan permission kepada user untuk  mengedit kursus survei.
 
-
-
 3. Super admin dapat memberikan permission untuk meninjau **Master Data**
 
 ![](/img/enterprise-admin-user-31.png)
@@ -190,27 +184,33 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    e. Delete Master Data :Super admin dapat memberikan permission kepada user untuk menghapus data yang ada  pada master data.
 
-
-
 4. Super admin dapat memberikan permission untuk meninjau **Users**
 
-![](/img/enterprise-admin-user-32.png)
+![](/img/users-enterprise.png)
 
-   a. User Listing	:Super admin dapat memberikan permission kepada user untuk melihat daftar/list pengguna.
+ a. All Users Data	:
 
-   b. Edit User		:Super admin dapat memberikan permission kepada user untuk mengedit pengguna.
+Super admin dapat memberikan permission kepada user untuk semua data pengguna.
 
-   c. Delete User	:Super admin dapat memberikan permission kepada user untuk menghapus pengguna.
+b. Import Users	:
 
-   d. Import Users	:Super admin dapat memberikan permission kepada user untuk mengimport/memasukkan pengguna.
+Super admin dapat memberikan permission kepada user untuk mengimport/memasukkan pengguna.
 
-   e. All Users Data	:Super admin dapat memberikan permission kepada user untuk semua data pengguna.
+c. View User		:
 
-   f. View User		:Super admin dapat memberikan permission kepada user untuk melihat pengguna.
+Super admin dapat memberikan permission kepada user untuk melihat pengguna.
 
-   g. Create User	:Super admin dapat memberikan permission kepada user untuk membuat pengguna baru.
+d. Create User	            :
 
-   h. Add Role		:Super admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
+Super admin dapat memberikan permission kepada user untuk membuat pengguna baru.
+
+e. Edit User		:
+
+Super admin dapat memberikan permission kepada user untuk mengedit pengguna.
+
+f. Add Role		:
+
+Super admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
 
 
 
@@ -228,7 +228,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    e. Edit Quiz Bank	: Super admin dapat memberikan permission kepada user untuk mengedit bank kuis.
 
-
 6. Super admin dapat memberikan permission untuk meninjau **User Groups**
 
 ![](/img/enterprise-admin-user-34.png)
@@ -243,7 +242,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    f. Delete User Group     : Super admin dapat memberikan permission kepada user untuk menghapus user group yang sudah ada.
 
-
 7. Super admin dapat  memberikan permission untuk meninjau **Roles & Permission**
 
 ![](/img/enterprise-admin-user-35.png)
@@ -255,7 +253,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
    c. Delete Roles & Permission	: Super admin dapat memberikan permission kepada user untuk menghapus bagian pada roles & permission.
 
    d. Create Roles & Permission	: Super admin dapat memberikan permission kepada user untuk membuat roles & permission.
-
 
 8. Super admin dapat memberikan permission untuk meninjau **Reporting**
 
@@ -271,14 +268,11 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    e. Delete Report	: Super admin dapat memberikan permission kepada user untuk menghapus report yang telah masuk atau telah dibuat.
 
-
 9. Super admin dapat memberikan permission untuk meninjau **Dashboard**.
 
 ![](/img/enterprise-admin-user-37.png)
 
-
    a. Dashboard   : Super admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
-
 
 e. Maka akan muncul user yang telah diberikan permission sesuai dengan kebutuhan tersebut di **Menu Permission**.
 
