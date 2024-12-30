@@ -167,75 +167,145 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 
 
-3. Super admin dapat memberikan permission untuk meninjau **Master Data**
+3. Super admin dapat memberikan permission untuk meninjau **Gamification**
 
-![](/img/enterprise-admin-user-31.png)
+![](/img/user-26.png)
 
-   a. View Master Data	  :Super admin dapat memberikan permission kepada user untuk melihat master data yang berisi Branch & Department dan Recording.
+*   Point Setting
 
-   b. Master Data Listing :Super admin dapat memberikan permission kepada user untuk membuat Master Data Listing.
+: Admin dapat memberikan permission kepada user untuk mengatur point
 
-   c. Create Master Data :Super admin dapat memberikan permission kepada user untuk membuat dan memasukan data pada master data.
+* Edit Point Setting
 
-   d. Edit Master Data     :Super admin dapat memberikan permission kepada user untung mengedit data pada master data.
+: Admin dapat memberikan permission kepada user untuk mengedit point
 
-   e. Delete Master Data :Super admin dapat memberikan permission kepada user untuk menghapus data yang ada  pada master data.
+* Tracking Reward
 
-4. Super admin dapat memberikan permission untuk meninjau **Users**
+: Admin dapat memberikan permission kepada user untuk tracking reward
 
-![](/img/users-enterprise.png)
+* View Point History
 
- a. All Users Data	:
+: Admin dapat memberikan permission kepada user untuk melihat point history
 
-Super admin dapat memberikan permission kepada user untuk semua data pengguna.
+* Add Point
 
-b. Import Users	:
+: Admin dapat memberikan permission kepada user untuk menambahkan point
 
-Super admin dapat memberikan permission kepada user untuk mengimport/memasukkan pengguna.
+* Edit Reward
 
-c. View User		:
+: Admin dapat memberikan permission kepada user untuk mengedit reward
 
-Super admin dapat memberikan permission kepada user untuk melihat pengguna.
+* Create Reward
 
-d. Create User	            :
+: Admin dapat memberikan permission kepada user untuk membuat reward
 
-Super admin dapat memberikan permission kepada user untuk membuat pengguna baru.
+* Delete Reward
 
-e. Edit User		:
+: Admin dapat memberikan permission kepada user untuk menghapus reward
 
-Super admin dapat memberikan permission kepada user untuk mengedit pengguna.
+* View Redeem History
 
-f. Add Role		:
+: Admin dapat memberikan permission kepada user untuk melihat redeem history
 
-Super admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
+* Download Import Vouchers
 
-5. Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
+: Admin dapat memberikan permission kepada user untuk mengunduh voucher
 
-![](/img/enterprise-admin-user-33.png)
+* View Reward
 
-   a. View Quiz Bank	: Super admin dapat memberikan permission kepada user untuk melihat bank kuis.
+: Admin dapat memberikan permission kepada user untuk melihat reward
 
-   b. Quiz Bank Listing	: Super admin dapat memberikan permission kepada user untuk melihat daftar/ list bank kuis.
+4. Super admin dapat memberikan permission untuk meninjau **Institutional Data Management**
 
-   c. Create Quiz Bank	: Super admin dapat memberikan permission kepada user untuk membuat bank kuis.
+![](/img/user-27.png)
 
-   d. Delete Quiz Bank	: Super admin dapat memberikan permission kepada user untuk menghapus bank kuis.
+* Edit Institutional Data Management
 
-   e. Edit Quiz Bank	: Super admin dapat memberikan permission kepada user untuk mengedit bank kuis.
+: Admin dapat memberikan permission kepada user untuk edit institutional data management
 
-6. Super admin dapat memberikan permission untuk meninjau **User Groups**
+* View Institutional Data Management
 
-![](/img/enterprise-admin-user-34.png)
+: Admin dapat memberikan permission kepada user untuk lihat institutional data management
 
-   a. View User Group	: Super admin dapat memberikan permission kepada user untuk melihat group user.
+* Download Recording
 
-   b. User Group Listing	: Super admin dapat memberikan permission kepada user untuk melihat user group listing.
+: Admin dapat memberikan permission kepada user untuk download recording
 
-   c. Create User Group    : Super admin dapat memberikan permission kepada user untuk membuat use group.
+* Delete Institutional Data Management
 
-   d. Edit User Group	: Super admin dapat memberikan permission kepada user untuk mengedit user group.
+: Admin dapat memberikan permission kepada user untuk hapus institutional data management
 
-   f. Delete User Group     : Super admin dapat memberikan permission kepada user untuk menghapus user group yang sudah ada.
+* Create Institutional Data Management
+
+: Admin dapat memberikan permission kepada user untuk membuat institutional data management
+
+1. Super admin dapat memberikan permission untuk meninjau **Management**
+
+![](/img/user-28.png)
+
+* Edit Management Group
+
+: Admin dapat memberikan permission kepada user untuk mengedit management group
+
+* Delete Management Group
+
+: Admin dapat memberikan permission kepada user untuk menghapus management group
+
+* Create Management Group
+
+: Admin dapat memberikan permission kepada user untuk membuat management group
+
+* View Management Group
+
+Admin dapat memberikan permission kepada user untuk lihat management group
+
+6. Super admin dapat memberikan permission untuk meninjau **Parent Courses**
+
+![](/img/user-29.png)
+
+*  Delete Parent Course
+
+: Admin dapat memberikan permission kepada user untuk menghapus parent course
+
+* View Parent Course
+
+: Admin dapat memberikan permission kepada user untuk melihat parent course
+
+* Edit Parent Course
+
+: Admin dapat memberikan permission kepada user untuk edit parent course
+
+* Duplicate Parent Course
+
+: Admin dapat memberikan permission kepada user untuk duplikat parent course
+
+* Publish Parent Course
+
+: Admin dapat memberikan permission kepada user untuk publish parent course
+
+* Edit Parent Course Survey
+
+: Admin dapat memberikan permission kepada user untuk edit survey pada parent course
+
+* Create Parent Course Survey
+
+: Admin dapat memberikan permission kepada user untuk membuat survey pada parent course
+
+* View Map Course
+
+: Admin dapat memberikan permission kepada user untuk melihat Map Course
+
+* Create Parent Course
+
+: Admin dapat memberikan permission kepada user untuk membuat parent course
+
+* View Parent Course Survey
+
+: Admin dapat memberikan permission kepada user untuk melihat survey parent course
+
+* Edit Parent Course Section Schedule
+
+: Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di parent course
 
 7. Super admin dapat  memberikan permission untuk meninjau **Roles & Permission**
 

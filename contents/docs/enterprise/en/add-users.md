@@ -148,65 +148,89 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Dashboard: Admin can grant permission to users to explore the dashboard page.
 
 
-3. Super admin can grant permission to review **Master Data**
+3. Super admin can grant permission to review **Gamification**
 
-![](/img/enterprise-admin-user-31.png)
+![](/img/user-26.png)
 
-   a. View Master Data	  : Super admin can grant permission to users to view master data which contains Branch & Department and Recording.
+* Point Setting
+  : Admin can grant permission to users to set points
+* Edit Point Setting
+  : Admin can grant permission to users to edit points
+* Tracking Reward
+  : Admin can grant permission to users to track rewards
+* View Point History
+  : Admin can grant permission to users to view point history
+* Add Point
+  : Admin can grant permission to users to add points
+* Edit Reward
+  : Admin can grant permission to users to edit rewards
+* Create Reward
+  : Admin can grant permission to users to create rewards
+* Delete Reward
+  : Admin can grant permission to users to delete rewards
+* View Redeem History
+  : Admin can grant permission to users to view redeem history
+* Download Import Vouchers
+  : Admin can grant permission to users to download vouchers
+* View Reward
+  : Admin can grant permission to users to view rewards
 
-   b. Master Data Listing : Super admin can grant permission to users to create Master Data Listings.
+4. Super admin can grant permission to review **Institutional Data Management**
 
-   c. Create Master Data : Super admin can grant permission to users to create and enter data in master data.
+![](/img/user-27.png)
 
-   d. Edit Master Data     : Super admin can grant permission to users to edit data in the master data.
+* Edit Institutional Data Management
+  : Admin can grant permission to users to edit institutional data management
+* View Institutional Data Management
+  : Admin can grant permission to users to view institutional data management
+* Download Recording
+  : Admin can grant permission to users to download recordings
+* Delete Institutional Data Management
+  : Admin can grant permission to users to delete institutional data management
+* Create Institutional Data Management
+  : Admin can grant permission to users to create institutional data management
 
-   e. Delete Master Data : Super admin can grant permission to users to delete data in the master data.
+5. Super admin can grant permission to review **Management**
 
-4. Super admin can grant permission to review **Users**
+![](/img/user-28.png)
 
-![](/img/users-enterprise.png)
+*    Edit Management Group
+  : Admin can grant permission to users to edit the management group
+* Delete Management Group
+  : Admin can grant permission to users to delete the management group
+* Create Management Group
+  : Admin can grant permission to users to create a management group
+* View Management Group
+  Admin can grant permission to users to view the management group
 
-a. All Users Data	: Super admin can grant permission to users for all user data.
+6. Super admin can grant permission to review **Parent Courses.**
 
-b. Import Users	: Super admin can grant permission to users to import/input users.
+![](/img/user-29.png)
 
-c. View User		: Super admin can grant permission to users to view other users.    
+*    Delete Parent Course
+  : Admin can grant permission to the user to delete the parent course
+* View Parent Course
+  : Admin can grant permission to the user to view the parent course
+* Edit Parent Course
+  : Admin can grant permission to the user to edit the parent course
+* Duplicate Parent Course
+  : Admin can grant permission to the user to duplicate the parent course
+* Publish Parent Course
+  : Admin can grant permission to the user to publish the parent course
+* Edit Parent Course Survey
+  : Admin can grant permission to the user to edit the survey on the parent course
+* Create Parent Course Survey
+  : Admin can grant permission to the user to create a survey on the parent course
+* View Map Course
+  : Admin can grant permission to the user to view the Map Course
+* Create Parent Course
+  : Admin can grant permission to the user to create a parent course
+* View Parent Course Survey
+  : Admin can grant permission to the user to view the parent course survey
+* Edit Parent Course Section Schedule
+  : Admin can grant permission to the user to edit the schedule on the session in the parent course
 
-d. Create User	: Super admin can grant permission to users to create new users.
-
-e. Edit User		: Super admin can grant permission to users to edit users.
-
-f. Add Role		: Super admin can grant permission to users to add user roles.
-
-5. Super admin can grant permission to review **Quiz Bank**
-
-![](/img/enterprise-admin-user-33.png)
-
-   a. View Quiz Bank	: Super admin can grant permission to users to view the quiz bank.
-
-   b. Quiz Bank Listing	: Super admin can grant permission to users to view the quiz bank list.
-
-   c. Create Quiz Bank	: Super admin can grant permission to users to create quiz banks.
-
-   d. Delete Quiz Bank	: Super admin can grant permission to users to delete quiz banks.
-
-   e. Edit Quiz Bank	: Super admin can grant permission to users to edit quiz banks.
-
-6. Super admin can grant permission to review **User Groups.**
-
-![](/img/enterprise-admin-user-34.png)
-
-   a. View User Group	: Super admin can grant permission to users to view user groups.
-
-   b. User Group Listing	: Super admin can grant permission to users to view user group listings.
-
-   c. Create User Group    : Super admin can grant permission to users to create user groups.
-
-   d. Edit User Group	: Super admin can grant permission to users to edit user groups.
-
-   e. Delete User Group    : Super admin can grant permission to users to delete existing user groups.
-
-7. Super admin can grant permission to review **Roles & Permissions**
+7. Super admin can grant permission to review **Sub-Courses**
 
 ![](/img/enterprise-admin-user-35.png)
 
