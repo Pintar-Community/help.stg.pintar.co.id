@@ -87,11 +87,9 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
 d. If the status shows **FAILED**, download the error log using the ↓ symbol to identify the reasons for failure.
 
-![](/img/enterprise-admin-user-19.png)
+![](/img/user-18.png)
 
-   e. If the status shows **FAILED**, download the error log using the ↓ symbol to identify the reasons for failure.
 
-![](/img/enterprise-admin-user-20.png)
 
 **2.** **USER GROUPS**
 

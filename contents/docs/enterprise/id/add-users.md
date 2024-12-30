@@ -89,11 +89,9 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 
 
-![](/img/enterprise-admin-user-19.png)
+![](/img/user-18.png)
 
-   e. Apabila saat import dengan status **FAILED** dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓.
 
-![](/img/enterprise-admin-user-20.png)
 
 **2. USER GROUPS**
 
