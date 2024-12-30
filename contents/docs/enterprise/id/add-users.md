@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 Tampilan user terdiri dari user listing, user groups, dan permission.
 
-![](/img/enterprise-admin-user-1.png)
+![](/img/user-1.png)
 
 **1. USER LISTING**
 
@@ -12,23 +12,22 @@ a. Pilih menu **USERS**, kemudian klik User Listing
 
 b. Pilih perusahaan di kiri atas
 
-![](/img/enterprise-admin-user-2.png)
+![](/img/user-2.png)
 
-![](/img/enterprise-admin-user-3.png)
+![](/img/user-3.png)
 
 c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User, Bulk Import, dan Bulk Modify Users.**
 
-![](/img/enterprise-admin-user-4.png)
+![](/img/user-4.png)
 
 **1. New User**:  input pengguna manual atau input pengguna satu-satu 
 
    a. Klik **New User** maka akan ada tampilan di bawah ini, Kemudian diisi. Selanjutnya, klik **Save** untuk simpan langsung atau **Save & Add New** untuk simpan dan dapat langsung menambah user baru
 
-![](/img/enterprise-admin-user-5.png)
+![](/img/user-5.png)
 
-   b. Apabila sudah di Save, maka akan muncul di menu ‘**User Listing**’ pada tampilan berikut:
+   b. Apabila sudah di SAVE, maka user baru akan muncul pada User Listing.
 
-![](/img/enterprise-admin-user-6.png)
 
 **2.** **Bulk Import**: cara memasukkan data user yang aktif dalam jumlah banyak
 
@@ -36,57 +35,59 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    b. Klik **Download Template** untuk mengunduh template file csv untuk data import
 
-![](/img/enterprise-admin-user-7.png)
+![](/img/user-6.png)
 
    c. Klik **+Import** setelah data file csv diisi nama user dapat import untuk input para nama user
 
-![](/img/enterprise-admin-user-8.png)
+![](/img/user-7.png)
 
-![](/img/enterprise-admin-user-9.png)
+![](/img/user-8.png)
 
-   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada **Import History.**
+   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di **Bulk import** pada **Import History.**
 
-![](/img/enterprise-admin-user-10.png)
+![](/img/user-9.png)
 
    e. Apabila saat import dengan status **FAILED,** Anda dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓.
 
    f. Selanjutnya jika sudah selesai/**SUCCESS.** Kemudian ke menu **Courses**, klik **Course Listing**.
 
-![](/img/enterprise-admin-user-11.png)
+![](/img/user-10.png)
 
    g. Kemudian pilih perusahaan selanjutnya cari judul materi pelatihan dan klik icon pensil untuk assign user. 
 
-![](/img/enterprise-admin-user12.png)
+![](/img/user-11.png)
 
    h. Klik **Assign User**, lalu Klik **Add**
 
-![](/img/enterprise-admin-user-13.png)
+![](/img/user-12.png)
 
-![](/img/enterprise-admin-user-14.png)
+![](/img/user-13.png)
 
    i. Isi data sesuai data yang ingin di-assign, lalu klik add
 
-![](/img/enterprise-admin-user-15.png)
+![](/img/user-14.png)
 
    j. Untuk mengecek apakah user sudah ter-assign bisa klik **Filter**, kemudian isi data filter lalu klik **Apply**.
 
-![](/img/enterprise-admin-user-16.png)
+![](/img/user-15.png)
 
    k. Selanjutnya akan muncul tampilan data user yang dicari.
 
 **3. Bulk Modify Users**: cara memasukkan data user yang aktif dan tidak aktif dalam jumlah banyak.
 
-   a. Pilih perusahaan di kiri atas
+a. Klik **Download Template** untuk mengunduh template file csv untuk data import.
 
-   b. Klik **Download Template** untuk mengunduh template file csv untuk data import.
+![](/img/user-16.png)
 
-![](/img/enterprise-admin-user-17.png)
+   b. Klik **+Import** setelah data file csv diisi nama user dapat import untuk input para nama user.
 
-   c. Klik **+Import** setelah data file csv diisi nama user dapat import untuk input para nama user.
+![](/img/user-17.png)
 
-![](/img/enterprise-admin-user-18.png)
+ c. Kemudian klik **IMPORT**, maka akan muncul tampilan di **Bulk Import Modify Users** pada **Import History Modify Users** 
 
-   d. Kemudian klik **IMPORT**, maka akan muncul tampilan di Bulk import pada ‘**Import History**.
+d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓
+
+
 
 ![](/img/enterprise-admin-user-19.png)
 
@@ -211,8 +212,6 @@ Super admin dapat memberikan permission kepada user untuk mengedit pengguna.
 f. Add Role		:
 
 Super admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
-
-
 
 5. Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
 

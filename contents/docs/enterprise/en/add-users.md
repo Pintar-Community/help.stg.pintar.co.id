@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 The user interface consists of User Listing, User Groups, and Permissions.
 
-![](/img/enterprise-admin-user-1.png)
+![](/img/user-1.png)
 
 **1. USER LISTING**
 
@@ -12,23 +12,22 @@ a. Select the **USERS** menu, then click User Listing.
 
 b. Choose the company from the dropdown menu at the top-left corner.
 
-![](/img/enterprise-admin-user-2.png)
+![](/img/user-2.png)
 
-![](/img/enterprise-admin-user-3.png)
+![](/img/user-3.png)
 
 c. Click **New** in the top-right corner to reveal three options: **New User, Bulk Import, and Bulk Modify Users.**
 
-![](/img/enterprise-admin-user-4.png)
+![](/img/user-4.png)
 
 **1.** **New User**: Manual user input or single-user entry.
 
    a. Click **New User**, and the form below will appear. Fill in the required details. Then, click **Save** to save directly or **Save & Add New** to save and immediately add a new user.
 
-![](/img/enterprise-admin-user-5.png)
+![](/img/user-5.png)
 
-   b. Once saved, the user will appear in the **User Listing** menu as shown in the following view.
+   b. Apabila sudah di SAVE, maka user baru akan muncul pada User Listing.
 
-![](/img/enterprise-admin-user-6.png)
 
 **2.** **Bulk Import**: Adding multiple active users at once
 
@@ -36,57 +35,57 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
    b. Click **Download Template** to download a CSV file template for data import.
 
-![](/img/enterprise-admin-user-7.png)
+![](/img/user-6.png)
 
    c. Click **+Import** after the CSV file is filled with user details, you can upload it to import the user data.
 
-![](/img/enterprise-admin-user-8.png)
+![](/img/user-7.png)
 
-![](/img/enterprise-admin-user-9.png)
+![](/img/user-8.png)
 
-   d. Next, click **IMPORT**. The Bulk Import status will appear in the **Import History section**.
+   d. Next, click **IMPORT**. The **Bulk Import** status will appear in the **Import History section**.
 
-![](/img/enterprise-admin-user-10.png)
+![](/img/user-9.png)
 
    e. If the status shows **FAILED**, you can check the errors or reasons by downloading the log using the ↓ symbol.
 
    f. Next, once the process is complete and marked as **SUCCESS**, go to the **Courses** menu and click **Course Listing**.
 
-![](/img/enterprise-admin-user-11.png)
+![](/img/user-10.png)
 
    g. Select the company and search for the training course title, then click the pencil icon to assign users.
 
-![](/img/enterprise-admin-user12.png)
+![](/img/user-11.png)
 
    h. Click **Assign User**, then click **Add**.
 
-![](/img/enterprise-admin-user-13.png)
+![](/img/user-12.png)
 
-![](/img/enterprise-admin-user-14.png)
+![](/img/user-13.png)
 
    i. Fill in the user details for assignment, then click Add.
 
-![](/img/enterprise-admin-user-15.png)
+![](/img/user-14.png)
 
    j. To verify if the users have been assigned, click **Filter**, fill in the filter data, and click **Apply**.
 
-![](/img/enterprise-admin-user-16.png)
+![](/img/user-15.png)
 
    k. The list of assigned users matching the filter criteria will appear.
 
 **3.** **Bulk Modify Users**: How to Import Active and Inactive Users in Bulk.
 
-   a. Select the company from the dropdown on the top-left corner.
+   a. Click **Download Template** to download a CSV file for data import.
 
-   b. Click **Download Template** to download a CSV file for data import.
+![](/img/user-16.png)
 
-![](/img/enterprise-admin-user-17.png)
+   b. Click **+Import** after filling the CSV file with user details, you can upload it to import the user data.
 
-   c. Click **+Import** after filling the CSV file with user details, you can upload it to import the user data.
+![](/img/user-17.png)
 
-![](/img/enterprise-admin-user-18.png)
+   c. Then click **IMPORT**. The status of the bulk import will be displayed in the **Import History Modify Users**.
 
-   d. Then click **IMPORT**. The status of the bulk import will be displayed in the **Import History section**.
+d. If the status shows **FAILED**, download the error log using the ↓ symbol to identify the reasons for failure.
 
 ![](/img/enterprise-admin-user-19.png)
 
