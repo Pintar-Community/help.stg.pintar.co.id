@@ -28,7 +28,6 @@ c. Klik **New** di kanan atas, lalu ditampilkan tiga pilihan berikut, N**ew User
 
    b. Apabila sudah di SAVE, maka user baru akan muncul pada User Listing.
 
-
 **2.** **Bulk Import**: cara memasukkan data user yang aktif dalam jumlah banyak
 
    a. Pilih perusahaan di kiri atas
@@ -87,11 +86,7 @@ a. Klik **Download Template** untuk mengunduh template file csv untuk data impor
 
 d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan alasan/reason dengan cara download dengan symbol ↓
 
-
-
 ![](/img/user-18.png)
-
-
 
 **2. USER GROUPS**
 
@@ -125,7 +120,7 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 ![](/img/user-24.png)
 
-*   Delete Archived Sub-Course
+* Delete Archived Sub-Course
 
 : Admin dapat memberikan permission kepada user untuk menghapus kelas pada sub-course yang di archive kan
 
@@ -157,21 +152,17 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 : Admin dapat memberikan permission kepada user untuk melihat history pada archive
 
-
-
 2. Super admin dapat memberikan permission untuk meninjau **Dashboard**
 
 ![](/img/user-25.png)
 
 * Dashboard: Admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
 
-
-
 3. Super admin dapat memberikan permission untuk meninjau **Gamification**
 
 ![](/img/user-26.png)
 
-*   Point Setting
+* Point Setting
 
 : Admin dapat memberikan permission kepada user untuk mengatur point
 
@@ -263,7 +254,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 ![](/img/user-29.png)
 
-*  Delete Parent Course
+* Delete Parent Course
 
 : Admin dapat memberikan permission kepada user untuk menghapus parent course
 
@@ -309,10 +300,9 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 7. Super admin dapat  memberikan permission untuk meninjau **Sub-Courses**
 
-
 ![](/img/user-30.png)
 
-*   Publish Sub-Course
+* Publish Sub-Course
 
 : Admin dapat memberikan permission kepada user untuk publish sub-course
 
@@ -360,7 +350,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 ![](/img/user-31.png)
 
-*    View Quiz Bank
+* View Quiz Bank
 
 : Admin dapat memberikan permission kepada user untuk melihat quiz bank
 
@@ -431,3 +421,27 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 * View Roles & Permission
 
 : Admin dapat memberikan permission kepada user untuk melihat roles & permission
+
+1. Super admin dapat memberikan permission untuk meninjau **Survey**
+
+![](/img/user-34.png)
+
+* Survey Reporting
+
+: Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
+
+* Edit Survey
+
+: Super admin dapat memberikan permission kepada user untuk mengedit survei.
+
+* Delete Survey
+
+: Super admin dapat memberikan permission kepada user untuk menghapus survei yang ada.
+
+* Create Survey
+
+: Super admin dapat memberikan permission kepada user untuk membuat survei.
+
+* View Survey
+
+: Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.

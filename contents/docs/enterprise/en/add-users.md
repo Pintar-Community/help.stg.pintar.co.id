@@ -28,7 +28,6 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
    b. Apabila sudah di SAVE, maka user baru akan muncul pada User Listing.
 
-
 **2.** **Bulk Import**: Adding multiple active users at once
 
    a. Select the company from the top-left dropdown.
@@ -89,8 +88,6 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-18.png)
 
-
-
 **2.** **USER GROUPS**
 
    a. Navigate to the **USERS** menu and click **User Groups**.
@@ -123,7 +120,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-24.png)
 
-*  Delete Archived Sub-Course
+* Delete Archived Sub-Course
   : Admin can grant permission to users to delete classes in archived sub-courses
 * View Archive
   : Admin can grant users permission to view archived courses
@@ -140,13 +137,11 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * View Archive History
   : Admin can grant users permission to view the history in the archive
 
-
 2. Super admin can grant permission to review **Dashboard**.
 
 ![](/img/user-25.png)
 
 * Dashboard: Admin can grant permission to users to explore the dashboard page.
-
 
 3. Super admin can grant permission to review **Gamification**
 
@@ -194,7 +189,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-28.png)
 
-*    Edit Management Group
+* Edit Management Group
   : Admin can grant permission to users to edit the management group
 * Delete Management Group
   : Admin can grant permission to users to delete the management group
@@ -207,7 +202,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-29.png)
 
-*    Delete Parent Course
+* Delete Parent Course
   : Admin can grant permission to the user to delete the parent course
 * View Parent Course
   : Admin can grant permission to the user to view the parent course
@@ -234,7 +229,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-30.png)
 
-*    Publish Sub-Course
+* Publish Sub-Course
   : Admin can grant permission to users to publish sub-courses
 * Edit Sub-Course
   : Admin can grant permission to users to edit sub-courses
@@ -303,3 +298,13 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
   : Admin can grant permission to users to create roles & permission
 * View Roles & Permission
   : Admin can grant permission to users to view roles & permission
+
+1. The super admin can grant permission to review **surveys**
+
+![](/img/user-34.png)
+
+* Survey Reporting : The super admin can grant permission to users to view the results of survey reporting.
+* Edit Survey : The super admin can grant permission to users to edit surveys.
+* Delete Survey : The super admin can grant permission to users to delete existing surveys.
+* Create Survey : The super admin can grant permission to users to create surveys.
+* View Survey : The super admin can grant permission to users to view incoming surveys.
