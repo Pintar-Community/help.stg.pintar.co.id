@@ -426,22 +426,49 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 ![](/img/user-34.png)
 
-* Survey Reporting
+* Survey Reporting : Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
+* Edit Survey : Super admin dapat memberikan permission kepada user untuk mengedit survei.
+* Delete Survey : Super admin dapat memberikan permission kepada user untuk menghapus survei yang ada.
+* Create Survey : Super admin dapat memberikan permission kepada user untuk membuat survei.
+* View Survey : Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.
 
-: Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
+1. Super admin dapat memberikan permission untuk meninjau **User**
 
-* Edit Survey
+![](/img/user-35.png)
 
-: Super admin dapat memberikan permission kepada user untuk mengedit survei.
+* All Users Data	: Admin dapat memberikan permission kepada user untuk semua data pengguna.
+* Import Users	: Admin dapat memberikan permission kepada user untuk mengimport/memasukkan pengguna.
+* View User	: Admin dapat memberikan permission kepada user untuk melihat pengguna.
+* Create User	 : Admin dapat memberikan permission kepada user untuk membuat pengguna baru.
+* Edit User	: Admin dapat memberikan permission kepada user untuk mengedit pengguna.
+* Add Role	: Admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
 
-* Delete Survey
+1. Super admin dapat memberikan permission untuk meninjau **User Group**
 
-: Super admin dapat memberikan permission kepada user untuk menghapus survei yang ada.
+![](/img/user-36.png)
 
-* Create Survey
+* View User Group : Admin dapat memberikan permission kepada user untuk melihat user group
+* Create User Group : Admin dapat memberikan permission kepada user untuk membuat user group
+* Edit User Group : Admin dapat memberikan permission kepada user untuk mengedit user group
+* Delete User Group : Admin dapat memberikan permission kepada user untuk menghapus user group
 
-: Super admin dapat memberikan permission kepada user untuk membuat survei.
+1. Super admin dapat memberikan permission untuk meninjau **Library**
 
-* View Survey
+![](/img/user-37.png)
 
-: Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.
+* View Partner Library : Admin dapat memberikan permission kepada user untuk melihat partner library
+
+1. Super admin dapat memberikan permission untuk meninjau **Job Portal**
+
+![](/img/user-38.png)
+
+* View Job Portal : Admin dapat memberikan permission kepada user untuk melihat job portal
+* Create Job : Admin dapat memberikan permission kepada user untuk membuat job
+* Edit Job : Admin dapat memberikan permission kepada user untuk mengedit job
+* Delete Job : Admin dapat memberikan permission kepada user untuk menghapus job
+* View Job History : Admin dapat memberikan permission kepada user untuk melihat job history
+* Publish Job : Admin dapat memberikan permission kepada user untuk mempublish job
+
+Setelah semua tersetting Admin dapat Klik **CREATE**, maka permission sudah terbuat.
+
+![](/img/user-39.png)

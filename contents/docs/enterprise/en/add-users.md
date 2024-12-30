@@ -308,3 +308,44 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Delete Survey : The super admin can grant permission to users to delete existing surveys.
 * Create Survey : The super admin can grant permission to users to create surveys.
 * View Survey : The super admin can grant permission to users to view incoming surveys.
+
+1. Super admin can grant permission to review **User**.
+
+![](/img/user-35.png)
+
+* All Users Data: Admin can grant permission to users for all user data.
+* Import Users: Admin can grant permission to users to import/add users.
+* View User: Admin can grant permission to users to view users.
+* Create User: Admin can grant permission to users to create new users.
+* Edit User: Admin can grant permission to users to edit users.
+* Add Role: Admin can grant permission to users to add user roles.
+
+1. Super admin can grant permission to review the **User Group**.
+
+![](/img/user-36.png)
+
+* View User Group : Admin can grant permission to users to view user groups
+* Create User Group : Admin can grant permission to users to create user groups
+* Edit User Group : Admin can grant permission to users to edit user groups
+* Delete User Group : Admin can grant permission to users to delete user groups
+
+1. Super admin can grant permission to review the **Library.**
+
+![](/img/user-37.png)
+
+* View Partner Library :The admin can grant permission to users to view the partner library.
+
+1. The super admin can grant permission to review the **Job Portal.**
+
+![](/img/user-38.png)
+
+* View Job Portal : The admin can grant permission to users to view the job portal.
+* Create Job : The admin can grant permission to users to create jobs.
+* Edit Job : The admin can grant permission to users to edit jobs.
+* Delete Job : The admin can grant permission to users to delete jobs.
+* View Job History : The admin can grant permission to users to view job history.
+* Publish Job : The admin can grant permission to users to publish jobs.
+
+After everything is set up, the admin can click **CREATE**, and the permission will be created.
+
+![](/img/user-39.png)
