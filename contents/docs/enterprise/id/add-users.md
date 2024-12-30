@@ -307,38 +307,127 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di parent course
 
-7. Super admin dapat  memberikan permission untuk meninjau **Roles & Permission**
+7. Super admin dapat  memberikan permission untuk meninjau **Sub-Courses**
 
-![](/img/enterprise-admin-user-35.png)
 
-   a. Edit Roles & Permission		: Super admin dapat memberikan permission kepada user untuk mengedit laman roles & permission.
+![](/img/user-30.png)
 
-   b. View Roles & Permission		: Super admin dapat memberikan permission kepada user untuk melihat laman roles & permission.
+*   Publish Sub-Course
 
-   c. Delete Roles & Permission	: Super admin dapat memberikan permission kepada user untuk menghapus bagian pada roles & permission.
+: Admin dapat memberikan permission kepada user untuk publish sub-course
 
-   d. Create Roles & Permission	: Super admin dapat memberikan permission kepada user untuk membuat roles & permission.
+* Edit Sub-Course
 
-8. Super admin dapat memberikan permission untuk meninjau **Reporting**
+: Admin dapat memberikan permission kepada user untuk edit sub-course
 
-![](/img/enterprise-admin-user-36.png)
+* View Sub-Course
 
-   a. View Report	: Super admin dapat memberikan permission kepada user untuk melihat report yang masuk.
+: Admin dapat memberikan permission kepada user untuk melihat sub-course
 
-   b. Report Listing	: Super admin dapat memberikan permission kepada user untuk melihat report listing.
+* Gradebook Sub-Course
 
-   c. Create Report	: Super admin dapat memberikan permission kepada user untuk membuat report.
+: Admin dapat memberikan permission kepada user untuk setting gradebook sub-course
 
-   d. Edit Report	: Super admin dapat memberikan permission kepada user untuk mengedit report yang ada.
+* View Sub-Course Survey
 
-   e. Delete Report	: Super admin dapat memberikan permission kepada user untuk menghapus report yang telah masuk atau telah dibuat.
+: Admin dapat memberikan permission kepada user untuk melihat survey sub-course
 
-9. Super admin dapat memberikan permission untuk meninjau **Dashboard**.
+* Edit Sub-Course Section Schedule
 
-![](/img/enterprise-admin-user-37.png)
+: Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di sub-course
 
-   a. Dashboard   : Super admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
+* Create Sub-Course
 
-e. Maka akan muncul user yang telah diberikan permission sesuai dengan kebutuhan tersebut di **Menu Permission**.
+: Admin dapat memberikan permission kepada user untuk membuat sub-course
 
-![](/img/enterprise-admin-user-38.png)
+* Delete Sub-Course
+
+: Admin dapat memberikan permission kepada user untuk menghapus sub-course
+
+* Configuration Sub-Course
+
+: Admin dapat memberikan permission kepada user untuk setting configuration pada sub-course
+
+* Create Sub-Course Survey
+
+: Admin dapat memberikan permission kepada user untuk membuat survey pada sub-course
+
+* Edit Sub-Course Survey
+
+: Admin dapat memberikan permission kepada user untuk edit survey pada sub-course
+
+8. Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
+
+![](/img/user-31.png)
+
+*    View Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk melihat quiz bank
+
+* Delete Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk menghapus quiz bank
+
+* Create Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk membuat quiz bank
+
+* Edit Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk edit quiz bank
+
+* Bulk Import Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk bulk import quiz bank
+
+* Download Bulk Import Quiz Bank
+
+: Admin dapat memberikan permission kepada user untuk unduh bulk import quiz bank
+
+9. Super admin dapat memberikan permission untuk meninjau **Reporting**.
+
+![](/img/user-32.png)
+
+* View Report
+
+: Admin dapat memberikan permission kepada user untuk melihat report
+
+* Create Report
+
+: Admin dapat memberikan permission kepada user untuk membuat report
+
+* Edit Report
+
+: Admin dapat memberikan permission kepada user untuk edit report
+
+* Delete Report
+
+: Admin dapat memberikan permission kepada user untuk menghapus report
+
+* View Export History
+
+: Admin dapat memberikan permission kepada user untuk melihat history export report
+
+* Download Export History
+
+: Admin dapat memberikan permission kepada user untuk unduh history export report
+
+1. Super admin dapat memberikan permission untuk meninjau **Role & Permission**.
+
+![](/img/user-33.png)
+
+* Edit Roles & Permission
+
+: Admin dapat memberikan permission kepada user untuk edit roles & permission
+
+* Delete Roles & Permission
+
+: Admin dapat memberikan permission kepada user untuk menghapus roles & permission
+
+* Create Roles & Permission
+
+: Admin dapat memberikan permission kepada user untuk membuat roles & permission
+
+* View Roles & Permission
+
+: Admin dapat memberikan permission kepada user untuk melihat roles & permission

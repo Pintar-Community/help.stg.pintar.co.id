@@ -232,36 +232,74 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 7. Super admin can grant permission to review **Sub-Courses**
 
-![](/img/enterprise-admin-user-35.png)
+![](/img/user-30.png)
 
-   a. Edit Roles & Permission		: Super admin can grant permission to users to edit the roles & permissions page.
+*    Publish Sub-Course
+  : Admin can grant permission to users to publish sub-courses
+* Edit Sub-Course
+  : Admin can grant permission to users to edit sub-courses
+* View Sub-Course
+  : Admin can grant permission to users to view sub-courses
+* Gradebook Sub-Course
+  : Admin can grant permission to users to set up the gradebook for sub-courses
+* View Sub-Course Survey
+  : Admin can grant permission to users to view sub-course surveys
+* Edit Sub-Course Section Schedule
+  : Admin can grant permission to users to edit schedules for sessions in sub-courses
+* Create Sub-Course
+  : Admin can grant permission to users to create sub-courses
+* Delete Sub-Course
+  : Admin can grant permission to users to delete sub-courses
+* Configuration Sub-Course
+  : Admin can grant permission to users to set up configurations for sub-courses
+* Create Sub-Course Survey
+  : Admin can grant permission to users to create surveys for sub-courses
+* Edit Sub-Course Survey
+  : Admin can grant permission to users to edit surveys for sub-courses
 
-   b. View Roles & Permission		: Super admin can grant permission to users to view the roles & permissions page.
+8. Super admin can grant permission to review **Quiz Bank**
 
-   c. Delete Roles & Permission	: Super admin can grant permission to users to delete parts of roles & permissions.
+![](/img/user-31.png)
 
-   d. Create Roles & Permission	: Super admin can grant permission to users to create roles & permissions.
+* View Quiz Bank
+  : Admin can grant permission to users to view the quiz bank
+* Delete Quiz Bank
+  : Admin can grant permission to users to delete the quiz bank
+* Create Quiz Bank
+  : Admin can grant permission to users to create the quiz bank
+* Edit Quiz Bank
+  : Admin can grant permission to users to edit the quiz bank
+* Bulk Import Quiz Bank
+  : Admin can grant permission to users to bulk import the quiz bank
+* Download Bulk Import Quiz Bank
+  : Admin can grant permission to users to download the bulk import quiz bank
 
-8. Super admin can grant permission to review **reporting**
+9. Super admin can grant permission to review the **Reporting**
 
-![](/img/enterprise-admin-user-36.png)
+![](/img/user-32.png)
 
-   a. View Report	: Super admin can grant permission to users to view incoming reports.
+* View Report
+  : Admin can grant permission to users to view reports
+* Create Report
+  : Admin can grant permission to users to create reports
+* Edit Report
+  : Admin can grant permission to users to edit reports
+* Delete Report
+  : Admin can grant permission to users to delete reports
+* View Export History
+  : Admin can grant permission to users to view export report history
+* Download Export History
+  : Admin can grant permission to users to download export report history
 
-   b. Report Listing	: Super admin can grant permission to users to view listing reports.
+1. Super admin can grant permission to review **Role & Permission.**
 
-   c. Create Report	: Super admin can grant permission to users to create reports.
+![](/img/user-33.png)
 
-   d. Edit Report	: Super admin can grant permission to users to edit existing reports.
-
-   e. Delete Report	: Super admin can grant permission to users to delete reports that have been entered or have been created.
-
-9. Super admin can grant permission to review the **Dashboard**
-
-![](/img/enterprise-admin-user-37.png)
-
-   a. Dashboard   : Super admin can grant permission to users to explore the dashboard page.
-
-e. Then users who have been given permission according to these needs will appear in the **Permission Menu**.
-
-![](/img/enterprise-admin-user-38.png)
+* Edit Roles & Permission
+  : Admin can grant permission to users to edit roles & permission
+* Delete Roles & Permission
+  : Admin can grant permission to users to delete roles & permission
+* Create Roles & Permission
+  : Admin can grant permission to users to create roles & permission
+* View Roles & Permission
+  : Admin can grant permission to users to view roles & permission
