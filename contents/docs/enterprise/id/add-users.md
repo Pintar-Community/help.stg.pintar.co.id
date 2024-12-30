@@ -99,11 +99,11 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
    b. Pilih perusahaan di kiri atas
 
-![](/img/enterprise-admin-user-21.png)
+![](/img/user-19.png)
 
    c. Klik **+New** di kanan atas, lalu akan masuk ke halaman ‘Assign Group’
 
-![](/img/enterprise-admin-user-22.png)
+![](/img/user-20.png)
 
 **3. PERMISSION**
 
@@ -111,63 +111,61 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
    b. Klik **New** pada kanan atas, lalu muncul tampilan **New Permission**.
 
-![](/img/enterprise-admin-user-25.png)
+![](/img/user-21.png)
 
    c. Isi bagian **New Permission (Role)**, kemudian klik **NEXT**.
 
-![](/img/enterprise-admin-user-26.png)
+![](/img/user-22.png)
 
    d. Selanjutnya pada tampilan di bawah ini, isi **New Permission (Permission)**.  Super admin bisa memilih permission/ izin yang akan diberikan kepada user sesuai dengan kebutuhan,  lalu klik **CREATE**.
 
-![](/img/enterprise-admin-user-27.png)
+![](/img/user-23.png)
 
-1. Super admin dapat memberikan permission untuk meninjau **Survey**.
+1. Super admin dapat memberikan permission untuk meninjau **Archive Course**.
 
-![](/img/enterprise-admin-user-28.png)
+![](/img/user-24.png)
 
-   a. View Survey	:Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.
+*   Delete Archived Sub-Course
 
-   b. Survey Listing	:Super admin dapat memberikan permission kepada user untuk melihat daftar/list survei.
+: Admin dapat memberikan permission kepada user untuk menghapus kelas pada sub-course yang di archive kan
 
-   c. Create Survey	:Super admin dapat memberikan permission kepada user untuk membuat survei.
+* View Archive
 
-   d. Edit Survey	:Super admin dapat memberikan permission kepada user untuk mengedit survei.
+: Admin dapat memberikan permission kepada user untuk melihat course yang di archive kan
 
-   e. Delete Survey	:Super admin dapat memberikan permission kepada user untuk menghapus survei yang ada.
+* Delete Archived Course
 
-   f. Survey Reporting:Super admin dapat memberikan permission kepada user untuk melihat hasil dari survei reporting.
+: Admin dapat memberikan permission kepada user untuk menghapus course yang di archive kan
 
-2. Super admin dapat memberikan permission untuk meninjau **Courses**
+* Archive Parent Course
 
-![](/img/enterprise-admin-user-29.png)
+: Admin dapat memberikan permission kepada user untuk meng archive kan parent course
 
-![](/img/enterprise-admin-user-30.png)
+* Archive Sub-Course
 
-   a. View Course	:Super admin dapat memberikan permission kepada user untuk melihat kursus yang masuk.
+: Admin dapat memberikan permission kepada user untuk meng archive kan kelas pada sub-course
 
-   b. Duplicate Course:Super admin dapat memberikan permission kepada user untuk menggandakan kursus.
+* Unarchive Parent Course
 
-   c. Publish Course	:Super admin dapat memberikan permission kepada user untuk menerbitkan kursus.
+: Admin dapat memberikan permission kepada user untuk meng unarchive kan parent course
 
-   d. Course Publish Approval	:Super admin dapat memberikan permission kepada user untuk persetujuan menerbitkan kursus.
+* Unarchive Sub-Course
 
-   e. Course Listing	:Super admin dapat memberikan permission kepada user untuk membuat daftar/ list kursus.
+: Admin dapat memberikan permission kepada user untuk meng unarchive kan kelas pada sub-course
 
-   f. Delete Course	:Super admin dapat memberikan permission kepada user untuk menghapus kursus.
+* View Archive History
 
-  g. Import Course	:Super admin dapat memberikan permission kepada user untuk mengimpor kursus.
+: Admin dapat memberikan permission kepada user untuk melihat history pada archive
 
-   h. Edit Course Section Schedule	:Super admin dapat memberikan permission kepada user untuk mengedit jadwal bagian kursus.
 
-   i. Create Course	:Super admin dapat memberikan permission kepada user untuk membuat kursus.
 
-   j. Edit Course	:Super admin dapat memberikan permission kepada user untuk mengedit kursus.
+2. Super admin dapat memberikan permission untuk meninjau **Dashboard**
 
-   k. View Course Survey :Super admin dapat memberikan permission kepada user untuk melihat survei kursus.
+![](/img/user-25.png)
 
-   l. Create Course Survey:Super admin dapat memberikan permission kepada user untuk membuat kursus survei.
+* Dashboard: Admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
 
-   m. Edit Course Survey :Super admin dapat memberikan permission kepada user untuk  mengedit kursus survei.
+
 
 3. Super admin dapat memberikan permission untuk meninjau **Master Data**
 
