@@ -8,7 +8,7 @@ Tampilan **Courses** terdiri dari **Course Listing, Map Course, Quiz Bank dan Ar
 
 ![](/img/enterprise-admin-course-1.png)
 
-1. ## **COURSE LISTING**
+1. **COURSE LISTING**
 
    a. Pilih menu **course** lalu klik **course listing**
 

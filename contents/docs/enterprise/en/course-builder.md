@@ -8,7 +8,7 @@ The **Courses** interface consists of **Course Listing, Map Course, Quiz Bank da
 
 ![](/img/enterprise-admin-course-1.png)
 
-## **1. COURSE LISTING**
+**1. COURSE LISTING**
 
    a. Select **Course Menu**, then click on **Course Listing**
 
