@@ -122,7 +122,7 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 ![](/img/user-23.png)
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Archive Course**.
+1. #### Super admin dapat memberikan permission untuk meninjau **Archive Course**.
 
 ![](/img/user-24.png)
 
@@ -158,13 +158,13 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 : Admin dapat memberikan permission kepada user untuk melihat history pada archive
 
-2. ### Super admin dapat memberikan permission untuk meninjau **Dashboard**
+2. #### Super admin dapat memberikan permission untuk meninjau **Dashboard**
 
 ![](/img/user-25.png)
 
 * Dashboard: Admin dapat memberikan permission kepada user untuk dapat mengeksplor laman dashboard.
 
-3. ### Super admin dapat memberikan permission untuk meninjau **Gamification**
+3. #### Super admin dapat memberikan permission untuk meninjau **Gamification**
 
 ![](/img/user-26.png)
 
@@ -212,7 +212,7 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 : Admin dapat memberikan permission kepada user untuk melihat reward
 
-4. ### Super admin dapat memberikan permission untuk meninjau **Institutional Data Management**
+4. #### Super admin dapat memberikan permission untuk meninjau **Institutional Data Management**
 
 ![](/img/user-27.png)
 
@@ -236,7 +236,7 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 : Admin dapat memberikan permission kepada user untuk membuat institutional data management
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Management**
+1. #### Super admin dapat memberikan permission untuk meninjau **Management**
 
 ![](/img/user-28.png)
 
@@ -256,7 +256,7 @@ d. Apabila saat import dengan status FAILED dapat melihat gagal tersebut dengan 
 
 Admin dapat memberikan permission kepada user untuk lihat management group
 
-6. ### Super admin dapat memberikan permission untuk meninjau **Parent Courses**
+6. #### Super admin dapat memberikan permission untuk meninjau **Parent Courses**
 
 ![](/img/user-29.png)
 
@@ -304,7 +304,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk edit jadwal pada sesi di parent course
 
-7. ### Super admin dapat  memberikan permission untuk meninjau **Sub-Courses**
+7. #### Super admin dapat  memberikan permission untuk meninjau **Sub-Courses**
 
 ![](/img/user-30.png)
 
@@ -352,7 +352,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk edit survey pada sub-course
 
-8. ### Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
+8. #### Super admin dapat memberikan permission untuk meninjau **Quiz Bank**
 
 ![](/img/user-31.png)
 
@@ -380,7 +380,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk unduh bulk import quiz bank
 
-9. ### Super admin dapat memberikan permission untuk meninjau **Reporting**.
+9. #### Super admin dapat memberikan permission untuk meninjau **Reporting**.
 
 ![](/img/user-32.png)
 
@@ -408,7 +408,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk unduh history export report
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Role & Permission**.
+1. #### Super admin dapat memberikan permission untuk meninjau **Role & Permission**.
 
 ![](/img/user-33.png)
 
@@ -428,7 +428,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 
 : Admin dapat memberikan permission kepada user untuk melihat roles & permission
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Survey**
+1. #### Super admin dapat memberikan permission untuk meninjau **Survey**
 
 ![](/img/user-34.png)
 
@@ -438,7 +438,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 * Create Survey : Super admin dapat memberikan permission kepada user untuk membuat survei.
 * View Survey : Super admin dapat memberikan permission kepada user untuk melihat survei yang masuk.
 
-1. ### Super admin dapat memberikan permission untuk meninjau **User**
+1. #### Super admin dapat memberikan permission untuk meninjau **User**
 
 ![](/img/user-35.png)
 
@@ -449,7 +449,7 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 * Edit User	: Admin dapat memberikan permission kepada user untuk mengedit pengguna.
 * Add Role	: Admin dapat memberikan permission kepada user untuk menambahkan peran pengguna.
 
-1. ### Super admin dapat memberikan permission untuk meninjau **User Group**
+1. #### Super admin dapat memberikan permission untuk meninjau **User Group**
 
 ![](/img/user-36.png)
 
@@ -458,13 +458,13 @@ Admin dapat memberikan permission kepada user untuk lihat management group
 * Edit User Group : Admin dapat memberikan permission kepada user untuk mengedit user group
 * Delete User Group : Admin dapat memberikan permission kepada user untuk menghapus user group
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Library**
+1. #### Super admin dapat memberikan permission untuk meninjau **Library**
 
 ![](/img/user-37.png)
 
 * View Partner Library : Admin dapat memberikan permission kepada user untuk melihat partner library
 
-1. ### Super admin dapat memberikan permission untuk meninjau **Job Portal**
+1. #### Super admin dapat memberikan permission untuk meninjau **Job Portal**
 
 ![](/img/user-38.png)
 
