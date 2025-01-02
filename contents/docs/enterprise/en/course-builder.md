@@ -8,7 +8,7 @@ The **Courses** interface consists of **Course Listing, Map Course, Quiz Bank da
 
 ![](/img/enterprise-admin-course-1.png)
 
-**1. COURSE LISTING**
+## **1. COURSE LISTING**
 
    a. Select **Course Menu**, then click on **Course Listing**
 
@@ -35,7 +35,7 @@ e. Then, the created course will appear on the homepage of the course listing.
 
 ![](/img/enterprise-admin-course-5.png)
 
-**2. MAP COURSE**
+## **2. MAP COURSE**
 
    a. Select **course** menu then click **map course**.
 
@@ -49,7 +49,7 @@ e. Then, the created course will appear on the homepage of the course listing.
 
 ![](/img/enterprise-admin-course-7.png)
 
-**3. QUIZ BANK**
+## **3. QUIZ BANK**
 
    a. Select **course** menu then click **Quiz Bank**.
 
@@ -88,7 +88,7 @@ the form is as follows:
 
 ![](/img/enterprise-admin-course-14.png)
 
-**4. ARCHIVE COURSE**
+## **4. ARCHIVE COURSE**
 
    a. Select **course** menu then click **Archive Course**.
 
