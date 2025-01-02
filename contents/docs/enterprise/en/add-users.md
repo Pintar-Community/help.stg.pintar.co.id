@@ -6,7 +6,7 @@ The user interface consists of User Listing, User Groups, and Permissions.
 
 ![](/img/user-1.png)
 
-**1. USER LISTING**
+## **1. USER LISTING**
 
 a. Select the **USERS** menu, then click User Listing.
 
@@ -20,7 +20,9 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
 ![](/img/user-4.png)
 
-**1.** **New User**: Manual user input or single-user entry.
+### **1.** **New User**
+
+Manual user input or single-user entry.
 
    a. Click **New User**, and the form below will appear. Fill in the required details. Then, click **Save** to save directly or **Save & Add New** to save and immediately add a new user.
 
@@ -28,7 +30,9 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
    b. Apabila sudah di SAVE, maka user baru akan muncul pada User Listing.
 
-**2.** **Bulk Import**: Adding multiple active users at once
+### **2.** **Bulk Import**
+
+Adding multiple active users at once
 
    a. Select the company from the top-left dropdown.
 
@@ -72,7 +76,9 @@ c. Click **New** in the top-right corner to reveal three options: **New User, Bu
 
    k. The list of assigned users matching the filter criteria will appear.
 
-**3.** **Bulk Modify Users**: How to Import Active and Inactive Users in Bulk.
+### **3.** **Bulk Modify Users**
+
+How to Import Active and Inactive Users in Bulk.
 
    a. Click **Download Template** to download a CSV file for data import.
 
@@ -88,7 +94,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-18.png)
 
-**2.** **USER GROUPS**
+## **2.** **USER GROUPS**
 
    a. Navigate to the **USERS** menu and click **User Groups**.
 
@@ -100,7 +106,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-20.png)
 
-**3. PERMISSION**
+## **3. PERMISSION**
 
    a. Go to the **USERS** menu and click **Permission**.
 
@@ -116,7 +122,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 
 ![](/img/user-23.png)
 
-1. The super admin can grant permission to review **Archive Course**.
+1. ### The super admin can grant permission to review **Archive Course**.
 
 ![](/img/user-24.png)
 
@@ -137,13 +143,13 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * View Archive History
   : Admin can grant users permission to view the history in the archive
 
-2. Super admin can grant permission to review **Dashboard**.
+2. ### Super admin can grant permission to review **Dashboard**.
 
 ![](/img/user-25.png)
 
 * Dashboard: Admin can grant permission to users to explore the dashboard page.
 
-3. Super admin can grant permission to review **Gamification**
+3. ### Super admin can grant permission to review **Gamification**
 
 ![](/img/user-26.png)
 
@@ -170,7 +176,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * View Reward
   : Admin can grant permission to users to view rewards
 
-4. Super admin can grant permission to review **Institutional Data Management**
+4. ### Super admin can grant permission to review **Institutional Data Management**
 
 ![](/img/user-27.png)
 
@@ -185,7 +191,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Create Institutional Data Management
   : Admin can grant permission to users to create institutional data management
 
-5. Super admin can grant permission to review **Management**
+5. ### Super admin can grant permission to review **Management**
 
 ![](/img/user-28.png)
 
@@ -198,7 +204,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * View Management Group
   Admin can grant permission to users to view the management group
 
-6. Super admin can grant permission to review **Parent Courses.**
+6. ### Super admin can grant permission to review **Parent Courses.**
 
 ![](/img/user-29.png)
 
@@ -225,7 +231,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Edit Parent Course Section Schedule
   : Admin can grant permission to the user to edit the schedule on the session in the parent course
 
-7. Super admin can grant permission to review **Sub-Courses**
+7. ### Super admin can grant permission to review **Sub-Courses**
 
 ![](/img/user-30.png)
 
@@ -252,7 +258,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Edit Sub-Course Survey
   : Admin can grant permission to users to edit surveys for sub-courses
 
-8. Super admin can grant permission to review **Quiz Bank**
+8. ### Super admin can grant permission to review **Quiz Bank**
 
 ![](/img/user-31.png)
 
@@ -269,7 +275,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Download Bulk Import Quiz Bank
   : Admin can grant permission to users to download the bulk import quiz bank
 
-9. Super admin can grant permission to review the **Reporting**
+9. ### Super admin can grant permission to review the **Reporting**
 
 ![](/img/user-32.png)
 
@@ -286,7 +292,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Download Export History
   : Admin can grant permission to users to download export report history
 
-1. Super admin can grant permission to review **Role & Permission.**
+1. ### Super admin can grant permission to review **Role & Permission.**
 
 ![](/img/user-33.png)
 
@@ -299,7 +305,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * View Roles & Permission
   : Admin can grant permission to users to view roles & permission
 
-1. The super admin can grant permission to review **surveys**
+1. ### The super admin can grant permission to review **surveys**
 
 ![](/img/user-34.png)
 
@@ -309,7 +315,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Create Survey : The super admin can grant permission to users to create surveys.
 * View Survey : The super admin can grant permission to users to view incoming surveys.
 
-1. Super admin can grant permission to review **User**.
+1. ### Super admin can grant permission to review **User**.
 
 ![](/img/user-35.png)
 
@@ -320,7 +326,7 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Edit User: Admin can grant permission to users to edit users.
 * Add Role: Admin can grant permission to users to add user roles.
 
-1. Super admin can grant permission to review the **User Group**.
+1. ### Super admin can grant permission to review the **User Group**.
 
 ![](/img/user-36.png)
 
@@ -329,13 +335,13 @@ d. If the status shows **FAILED**, download the error log using the ↓ symbol t
 * Edit User Group : Admin can grant permission to users to edit user groups
 * Delete User Group : Admin can grant permission to users to delete user groups
 
-1. Super admin can grant permission to review the **Library.**
+1. ### Super admin can grant permission to review the **Library.**
 
 ![](/img/user-37.png)
 
 * View Partner Library :The admin can grant permission to users to view the partner library.
 
-1. The super admin can grant permission to review the **Job Portal.**
+1. ### The super admin can grant permission to review the **Job Portal.**
 
 ![](/img/user-38.png)
 
