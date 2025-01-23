@@ -19,21 +19,19 @@ To create a new course, click **+ NEW**.
 
 ![](/img/3.png)
 
+Fill in the following details as shown in the example:
+
 ![](/img/4.png)
 
 ![](/img/5.png)
 
 1. Course code : Enter the name of the course you want to create.
-
 2. Code : Enter the course code.
-
 3. Learning Provider : Select the learning provider for the course.
-
 4. Category : Choose the course category.
-
 5. Classification : Select the course classification.
+6. Upload Cover : Upload the course cover. Once all fields are filled, click **Save**.
 
-6 Upload Cover : Upload the course cover. Once all fields are filled, click **Save**.
 
 
 After the course is created, to add materials to the course, click **Material**.
@@ -45,8 +43,8 @@ After the course is created, to add materials to the course, click **Material**.
 
 ![](/img/8.png)
 
-1. Description	: Click the pencil icon and write the description of the course.
-2. Course Features	: Click the pencil icon, select the language, and click Save.
+1. Description : Click the pencil icon and write the description of the course.
+2. Course Features : Click the pencil icon, select the language, and click Save.
 
 ![](/img/9.png)
 

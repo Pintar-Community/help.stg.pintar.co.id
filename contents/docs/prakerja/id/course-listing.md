@@ -14,7 +14,7 @@ Isi Kursus yang ingin dicari lalu Klik **Apply.**
 
 ![](/img/2.png)
 
-Apabila ingin membuat course baru, klik **+ NEW**
+Apabila ingin membuat course baru, klik **+ NEW.**
 
 ![](/img/3.png)
 
@@ -30,6 +30,8 @@ Isi beberapa hal seperti pada gambar berikut ini:
 4. Category : Anda dapat pilih kategori kursus sesuai yang ingin dibuat
 5. Classification : Anda dapat pilih klasifikasi kursus sesuai dengan kursus yang ingin dibuat
 6. Upload Cover : Upload cover kursus, jika semuanya sudah diisi Anda bisa klik **save**
+
+
 
 Setelah kursus terbuat, untuk menambahkan Materi pada kursus Klik **Material**.
 
@@ -56,6 +58,6 @@ Tuliskan Judul Sesi Materi lalu Klik Save dan dapat menambahkan Materi dengan Kl
 
 Pilih Content materi yang akan di upload pada kursus tersebut.
 
-![](/img/12.png)
+![](/img/13.png)
 
 Begitu pun seterusnya, dapat membuat beberapa Sesi sesuai dengan materi kursus tersebut.
