@@ -31,8 +31,6 @@ Isi beberapa hal seperti pada gambar berikut ini:
 5. Classification : Anda dapat pilih klasifikasi kursus sesuai dengan kursus yang ingin dibuat
 6. Upload Cover : Upload cover kursus, jika semuanya sudah diisi Anda bisa klik **save**
 
-
-
 Setelah kursus terbuat, untuk menambahkan Materi pada kursus Klik **Material**.
 
 ![](/img/6.png)

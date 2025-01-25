@@ -8,7 +8,6 @@ The **Course Listing** feature is located in the Courses menu.
 
 Course Listing contains ongoing courses, making it easier to search for a course by clicking **Filter**.
 
-
 ![](/img/1.png)
 
 Enter the course details you want to search for, then click **Apply**.
@@ -32,10 +31,7 @@ Fill in the following details as shown in the example:
 5. Classification : Select the course classification.
 6. Upload Cover : Upload the course cover. Once all fields are filled, click **Save**.
 
-
-
 After the course is created, to add materials to the course, click **Material**.
-
 
 ![](/img/6.png)
 
@@ -51,8 +47,6 @@ After the course is created, to add materials to the course, click **Material**.
 Next, you can add sessions to the course by clicking **+ ADD SECTION** at the bottom left.
 
 ![](/img/10.png)
-
-
 
 ![](/img/11.png)
 
