@@ -2,11 +2,11 @@
 title: View Prakerja Product per Section
 sidebar_position: 12
 ---
-Go to the URL[ https://skills.pintar.co/id/prakerja](https://skills.pintar.co/id/prakerja) to view Prakerja Product per Section.
+Go to the URL[ https://skills.pintar.co/id/prakerja](https://skills.pintar.co/id/prakerja) to view **Prakerja Product per Section.**
 
 ![](/img/section-eng-1.png)
 
-Scroll down until you see the display for Kursus Pilihan, Kursus Webinar, and Kursus Offline.
+Scroll down until you see the display for **Kursus Pilihan, Kursus Webinar, and Kursus Offline.**
 
 a. Click "Show All" to view all Prakerja courses.
 
