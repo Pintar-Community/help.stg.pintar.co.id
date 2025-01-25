@@ -1,5 +1,5 @@
 ---
-title: Course Listing
+title: Course Listing (Admin)
 sidebar_position: 1
 ---
 Fitur **Course Listing** terdapat dalam menu Courses.

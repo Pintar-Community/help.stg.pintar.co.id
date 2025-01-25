@@ -1,5 +1,5 @@
 ---
-title: Course Listing
+title: Course Listing (Admin)
 sidebar_position: 1
 ---
 The **Course Listing** feature is located in the Courses menu.
