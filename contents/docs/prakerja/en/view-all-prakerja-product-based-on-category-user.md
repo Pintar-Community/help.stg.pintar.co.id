@@ -2,7 +2,7 @@
 title: View All Prakerja Product Based on Category (User)
 sidebar_position: 8
 ---
-Click on[ https://skills.pintar.co/id/prakerja](https://skills.pintar.co/id/prakerja) to view Prakerja products by Category.
+Go to[ https://skills.pintar.co/id/prakerja](https://skills.pintar.co/id/prakerja) to view Prakerja products by **Category** name.
 
 ![](/img/category-eng-1.png)
 
