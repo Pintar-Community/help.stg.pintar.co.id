@@ -14,9 +14,9 @@ There are several features available for accessing the Video, as listed below:
 2. Mute/Unmute to control the video audio.
 3. To adjust the video volume.
 4. To set the video resolution.
-5. To speed up or slow down the video playback.
 
    ![](/img/video-3.png)
-6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.
+5. To speed up or slow down the video playback.
 
    ![](/img/video-4.png)
+6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.

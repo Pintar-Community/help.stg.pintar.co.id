@@ -14,9 +14,9 @@ Terdapat beberapa fitur yang dapat digunakan dalam mengakses Video sebagai berik
 2. Mute/Unmute audio video.
 3. Untuk mengatur volume video.
 4. Untuk mengatur Resolusi penampilan video.
-5. Untuk mempercepat atau memperlambat kecepatan video.
 
    ![](/img/video-3.png)
-6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.
+5. Untuk mempercepat atau memperlambat kecepatan video.
 
    ![](/img/video-4.png)
+6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.
