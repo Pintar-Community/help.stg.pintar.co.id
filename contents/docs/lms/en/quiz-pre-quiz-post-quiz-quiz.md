@@ -36,3 +36,7 @@ Starting from the second question, you can review the previous questions and you
 For the final quiz question, you can click Review and Submit, which will display a Quiz Summary, and then you can click **Submit**.
 
 ![](/img/quiz-eng-6.png)
+
+Click **Submit** to submit your quiz answers.
+
+![](/img/quiz-eng-7.png)

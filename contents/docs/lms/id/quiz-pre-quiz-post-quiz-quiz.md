@@ -36,3 +36,7 @@ Pada soal kedua dan seterusnya Anda dapat melihat kembali soal dan jawaban Anda 
 Pada soal Quiz terakhir Anda dapat Klik **Lihat dan Kirim**, lalu akan muncul Ringkasan Quiz dan Anda dapat Klik **Kirim.**
 
 ![](/img/quiz-indo-6.png)
+
+Lalu Anda Klik **Kirim** untuk Submit jawaban Quiz.
+
+![](/img/quiz-indo-7.png)
