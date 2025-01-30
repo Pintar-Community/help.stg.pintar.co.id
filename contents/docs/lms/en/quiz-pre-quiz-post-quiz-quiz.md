@@ -32,3 +32,7 @@ After selecting an answer for the quiz, you can click Next to proceed to the nex
 Starting from the second question, you can review the previous questions and your answers by clicking **Previous**.
 
 ![](/img/quiz-eng-6.png)
+
+For the final quiz question, you can click Review and Submit, which will display a Quiz Summary, and then you can click **Submit**.
+
+![](/img/quiz-eng-6.png)
