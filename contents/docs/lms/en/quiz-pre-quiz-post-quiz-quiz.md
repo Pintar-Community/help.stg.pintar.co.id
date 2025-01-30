@@ -31,7 +31,7 @@ After selecting an answer for the quiz, you can click Next to proceed to the nex
 
 Starting from the second question, you can review the previous questions and your answers by clicking **Previous**.
 
-![](/img/quiz-eng-6.png)
+![](/img/quiz-eng-5.png)
 
 For the final quiz question, you can click Review and Submit, which will display a Quiz Summary, and then you can click **Submit**.
 
@@ -40,3 +40,11 @@ For the final quiz question, you can click Review and Submit, which will display
 Click **Submit** to submit your quiz answers.
 
 ![](/img/quiz-eng-7.png)
+
+After you click **Submit**, a summary and your quiz score will appear, as shown below:
+
+![](/img/quiz-eng-8.png)
+
+If you exceed the allotted time during the quiz, you will not be able to continue answering. The quiz will be considered complete, and the following screen will appear:
+
+![](/img/quiz-eng-9.png)
