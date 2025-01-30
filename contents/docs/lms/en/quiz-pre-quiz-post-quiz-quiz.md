@@ -13,3 +13,22 @@ To take a quiz, click on the Quiz in the Course Content session.
 ![](/img/quiz-eng-1.png)
 
 ![](/img/quiz-eng-2.png)
+
+Before you start taking the quiz, there are a few things you need to pay attention to:
+
+1. The number of questions in the quiz you are about to take.
+2. Grading Method: The score used will be the highest score achieved from your attempts.
+3. Quiz Duration: If you exceed the allotted time for the quiz, it will automatically end, and you will not be able to continue answering.
+4. The minimum score required to pass the quiz.
+
+To start the quiz, click **Start Quiz**.
+
+![](/img/quiz-eng-4.png)
+
+After selecting an answer for the quiz, you can click Next to proceed to the next quiz question.
+
+![](/img/quiz-eng-5.png)
+
+Starting from the second question, you can review the previous questions and your answers by clicking **Previous**.
+
+![](/img/quiz-eng-6.png)
