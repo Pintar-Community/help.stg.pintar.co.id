@@ -40,3 +40,11 @@ Pada soal Quiz terakhir Anda dapat Klik **Lihat dan Kirim**, lalu akan muncul Ri
 Lalu Anda Klik **Kirim** untuk Submit jawaban Quiz.
 
 ![](/img/quiz-indo-7.png)
+
+Setelah Anda Klik Kirim, maka akan muncul Keterangan dan Nilai dari Quiz yang sudah Anda kerjakan, seperti berikut:
+
+![](/img/quiz-indo-8.png)
+
+Jika dalam pengerjaan soal Quiz Anda melebihi dari durasi yang ditentukan, maka Anda tidak dapat melanjutkan menjawab soal Quiz, Quiz dianggap selesai dan akan muncul tampilan seperti berikut:
+
+![](/img/quiz-indo-9.png)
