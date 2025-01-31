@@ -28,7 +28,7 @@ Once the Assignment answers are submitted, the display will change as follows:
 
 ![](/img/assignment-eng-6.png)
 
-1. Completion Status: This status will update after you submit your assignment answers in the LMS.
-2. Last Updated: The date when you submitted your assignment answers.
-3. Answer: The answers you submitted in the LMS.
-4. Edit Answer: You can edit your answers before the deadline by clicking Edit Answer, making changes, and clicking Submit again.
+1. Completion Status : This status will update after you submit your assignment answers in the LMS.
+2. Last Updated : The date when you submitted your assignment answers.
+3. Answer : The answers you submitted in the LMS.
+4. Edit Answer : You can edit your answers before the deadline by clicking Edit Answer, making changes, and clicking Submit again.
