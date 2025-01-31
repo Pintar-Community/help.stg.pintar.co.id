@@ -1,5 +1,5 @@
 ---
-title: View Enrollment per courses
+title: View Enrollment per Courses
 sidebar_position: 102
 ---
 To view the number of enrollments in a course, instructors can check the Enrolled section on the dashboard. Instructors can see the details of participants in the course by clicking the number of participants in the **Enrolled.** column.
