@@ -20,6 +20,8 @@ Untuk membuat Product baru, klik **+New.**
 
 ## Untuk mengisi **General Information:**
 
+![](/img/product-5.png)
+
 1 Product Name : Isi sesuai dengan judul pelatihan
 
 2 Product Slug : Bagian ini akan terisi secara otomatis setelah admin mengisikan product name
@@ -49,4 +51,21 @@ Jika pelatihan menggunakan moda Luring, tambahkan nama tempat pelatihan secara d
 
 Jika semua bagian sudah di isi dengan benar dan sesuai, klik **Save.**
 
-Untuk mengisi **Organizer,** klik menu edit.
+![](/img/product-4.png)
+
+## Untuk mengisi **Organizer**
+
+Klik menu **edit**.
+
+![](/img/product-6.png)
+
+Anda dapat mengisi data sebagai berikut:
+
+![](/img/product-7.png)
+
+1. Organizer Description : Isi nama learning provider yang akan digunakan.
+2. Content : Isi deskripsi dari learning provider yang akan digunakan.
+3. Instructor : Ceklist kedua kolom yang tersedia.
+4. Add Instructor : Pilih satu instruktur untuk pelatihan yang anda buat.
+
+Jika data yang diisi sudah benar dan sesuai, klik **Save.**

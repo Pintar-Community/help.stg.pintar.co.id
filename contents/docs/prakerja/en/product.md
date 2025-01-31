@@ -20,6 +20,8 @@ To create a new Product, click **+New**.
 
 ## Fill in the **General Information**:
 
+![](/img/product-5.png)
+
 1 Product Name : Fill in according to the training title.
 
 2 Product Slug : This section will be automatically filled after the admin inputs the product name.
@@ -48,3 +50,22 @@ If the course uses an Luring mode, add the detailed course venue name.
 13 Upload Banner dan Thumbnail : Upload the banner and thumbnail for the training. Ensure the banner and thumbnail sizes comply with the requirements.
 
 If all sections are filled in correctly and appropriately, click **Save**.
+
+![](/img/product-4.png)
+
+## Fill in the **Organizer**
+
+Klick the **Edit** menu.
+
+![](/img/product-6.png)
+
+You can fill in the following data:
+
+![](/img/product-7.png)
+
+1. Organizer Description : Fill the name of the learning provider to be used.
+2. Content : Fill the description of the learning provider to be used.
+3. Instructor : Check both available boxes.
+4. Add Instructor	: Select one instructor for the training you created.
+
+If the data entered is correct and appropriate, click **Save**.
