@@ -1,5 +1,5 @@
 ---
-title: View Enrollment per courses
+title: View Enrollment per Courses
 sidebar_position: 102
 ---
 Untuk melihat jumlah pendaftar dalam kursus, instruktur dapat melihat pada bagian Terdaftar di dashboard. Instruktur dapat melihat detail dari peserta yang ada pada kursus ini dengan klik jumlah peserta pada kolom **Terdaftar.**
