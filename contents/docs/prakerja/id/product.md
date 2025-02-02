@@ -152,6 +152,16 @@ Setelah data yang diisi sudah sesuai, klik **Save.** 
 
 ## 6. Cara Mengisi Bagian **Pricing**
 
+Anda dapat mengisi harga yang sesuai untuk pelatihan. 
+
+Klik **Save.**
+
+![](/img/product-9.png)
+
+
+
+## **7. Cara Publish Product Page**
+
 Setelah seluruh data telah diisi dengan benar, klik **Publish.**
 
 1. Apabila statusnya **Draft,** product yang dibuat belum di Publish.
@@ -160,6 +170,5 @@ Setelah seluruh data telah diisi dengan benar, klik **Publish.**
    ![](/img/product-14.png)
 
 Setelah publish, product page akan dicek oleh tim Pintar. Apabila sudah disetujui, maka **aktifkan** product page dengan mengaktifkan Live lalu Activate. 
-
 
 ![](/img/product-15.png)

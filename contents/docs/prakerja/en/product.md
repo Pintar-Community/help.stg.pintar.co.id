@@ -151,6 +151,15 @@ After the data entered is correct, click **Save.** 
 
 ## 6. How to Fill in the **Pricing S**ection
 
+You can set the appropriate price for the training.
+
+Click **Save.**
+
+![](/img/product-9.png)
+
+## 
+**7. How to Publish the Product Page**
+
 Once all the data has been correctly entered, click **Publish.**
 
 1. If the status is **Draft***,* the product has not been published.
