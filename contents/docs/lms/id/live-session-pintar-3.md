@@ -21,12 +21,12 @@ Setelah Anda Klik **Masuk** untuk join dalam Live Session, lalu klik “Allow on
 
 Lalu Anda dapat Klik Join Meeting untuk Join ke Live Session (Pintar).
 
-![]()
+![](/img/ls-pintar-3.png)
 
 Maka Anda akan langsung masuk ke Live Session (Pintar) dan untuk keluar dari Live Session (Pintar) Anda dapat Klik icon telepon yang berada di sebelah bawah kanan.
 
-![]()
+![](/img/ls-pintar-4.png)
 
 Setelah Anda keluar dari Live Session (Pintar), maka tampilannya akan seperti ini:
 
-![]()
+![](/img/ls-pintar-5.png)

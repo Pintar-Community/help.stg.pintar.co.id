@@ -21,12 +21,12 @@ After clicking **Join** to enter the Live Session, select "Allow on every visit"
 
 Then, you can click Join Meeting to join the Live Session (Pintar).
 
-![]()
+![](/img/ls-pintar-3.png)
 
 You will be directed straight into the Live Session (Pintar). To exit the Live Session (Pintar), you can click the phone icon located at the bottom right corner.
 
-![]()
+![](/img/ls-pintar-4.png)
 
 After exiting the Live Session (Pintar), the interface will appear as follows:
 
-![]()
+![](/img/ls-pintar-5.png)
