@@ -125,9 +125,7 @@ Jika schedule code sudah ada, klik edit lalu isi data :
 
 Untuk menambahkan batch, klik **Add Batch** maka akan tampil seperti dibawah ini:
 
-![]()
-
-![]()
+![](/img/product-12.png)
 
 1. Batch Name : isi nama batch yang ingin dibuat.
 

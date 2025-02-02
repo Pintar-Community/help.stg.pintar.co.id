@@ -124,7 +124,7 @@ If the schedule code is available, click Edit and fill in the data :
 
 To add a batch, click **Add Batch***,* and the following screen will appear:
 
-![]()
+![](/img/product-12.png)
 
 1. Batch Name : fill the name of the batch you want to create.
 
