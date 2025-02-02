@@ -18,7 +18,7 @@ Untuk membuat Product baru, klik **+New.**
 
 ![](/img/product-4.png)
 
-## Untuk mengisi **General Information:**
+## 1. Cara Mengisi Bagian General Information
 
 ![](/img/product-5.png)
 
@@ -26,7 +26,7 @@ Untuk membuat Product baru, klik **+New.**
 
 2 Product Slug : Bagian ini akan terisi secara otomatis setelah admin mengisikan product name
 
-3 Program Description : Isi dengan judul admin dapat menambahkan kata Pelajari pada awal kalimat dan Bersama Kami pada akhir kalimat. Contoh : **Pelajari** Strategi Pengelolaan Waktu **Bersama Kami**
+3 Program Description : Isi dengan judul admin dapat menambahkan kata Pelajari pada awal kalimat dan Bersama Kami pada akhir kalimat. (*Contoh : **Pelajari** Strategi Pengelolaan Waktu **Bersama Kami)***
 
 4 Content : Isi dengan informasi terkait deksripsi, metode evaluasi, metode pelatihan, metode absensi, jenis/klasifikasi sertifikat, syarat dan ketentuan peserta. 
 Jika pelatihan menggunakan moda Luring, tambahkan nama tempat pelatihan secara detail.
@@ -51,9 +51,9 @@ Jika pelatihan menggunakan moda Luring, tambahkan nama tempat pelatihan secara d
 
 Jika semua bagian sudah di isi dengan benar dan sesuai, klik **Save.**
 
-![](/img/product-4.png)
 
-## Untuk mengisi **Organizer**
+
+## 2. Cara Mengisi Bagian **Organizer**
 
 Klik menu **edit**.
 
@@ -72,7 +72,9 @@ Jika data yang diisi sudah benar dan sesuai, klik **Save.**
 
 
 
-## Untuk mengisi **Curiculum,** klik edit pada bagian kanan atas.
+## 3. Cara Mengisi Bagian **Curiculum**
+
+Klik E**dit** pada bagian kanan atas.
 
 ![](/img/product-8.png)
 
@@ -86,15 +88,14 @@ Pengisian data mengacu pada RPP (Rencana Program Pembelajaran).
 
 Jika data yang diisi sudah benar, klik **Save.**
 
-## Untuk mengisi **Competency**
+
+
+## 4. Cara Mengisi Bagian **Competency**
 
 1. Klik edit
 2. Add competency
 
 ![](/img/product-9.png)
-
-
-
 
 Maka akan muncul popup berikut ini:
 
@@ -106,7 +107,9 @@ Jika data yang diisi sudah benar, klik **Save.**
 
 
 
-Pada bagian **Class Schedule,** anda dapat mengisi menu ini pada saat schedule code sudah diberikan oleh PMO.
+## **5. Cara Mengisi Bagian Class Schedule**
+
+Anda dapat mengisi menu ini pada saat schedule code sudah diberikan oleh PMO.
 
 Jika schedule code sudah ada, klik edit lalu isi data : 
 
@@ -147,5 +150,18 @@ Luring h-2 selesai enroll
 
 Setelah data yang diisi sudah sesuai, klik **Save.** 
 
-## Untuk mengisi **Pricing,** isi harga yang sesuai untuk pelatihan. 
-Klik **Save.**
+
+
+## 6. Cara Mengisi Bagian **Pricing**
+
+Setelah seluruh data telah diisi dengan benar, klik **Publish.**
+
+1. Apabila statusnya **Draft,** product yang dibuat belum di Publish.
+2. Untuk publish product yang telah dibuat, klik **Submit to Pintar.**
+
+   ![](/img/product-14.png)
+
+Setelah publish, product page akan dicek oleh tim Pintar. Apabila sudah disetujui, maka **aktifkan** product page dengan mengaktifkan Live lalu Activate. 
+
+
+![](/img/product-15.png)

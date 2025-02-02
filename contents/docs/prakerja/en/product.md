@@ -18,7 +18,7 @@ To create a new Product, click **+New**.
 
 ![](/img/product-4.png)
 
-## Fill in the **General Information**:
+## 1. How to Fill in General Information Section
 
 ![](/img/product-5.png)
 
@@ -26,7 +26,7 @@ To create a new Product, click **+New**.
 
 2 Product Slug : This section will be automatically filled after the admin inputs the product name.
 
-3 Program Description : Fill in the title. Admins can add the word *Learn* at the beginning of the sentence and *With Us* at the end. Example: **\*Learn** Time Management Strategies **With Us.*** 
+3 Program Description : Fill in the title. Admins can add the word *Learn* at the beginning of the sentence and *With Us* at the end. *(Example: **Learn** Time Management Strategies **With Us.)*** 
 
 4 Content : Fill in the information related to the description, evaluation methods, training methods, attendance methods, types/classifications of certificates, and participant terms and conditions.
 If the course uses an Luring mode, add the detailed course venue name.
@@ -51,9 +51,9 @@ If the course uses an Luring mode, add the detailed course venue name.
 
 If all sections are filled in correctly and appropriately, click **Save**.
 
-![](/img/product-4.png)
 
-## Fill in the **Organizer**
+
+## 2. How to Fill in **Organizer Section**
 
 Klick the **Edit** menu.
 
@@ -71,7 +71,9 @@ You can fill in the following data:
 If the data entered is correct and appropriate, click **Save**.
 
 ## 
-To fill in the **Curriculum**, click Edit at the top right corner.
+3. How to Fill in **Curriculum Section**
+
+Click **Edit** at the top right corner.
 
 ![](/img/product-8.png)
 
@@ -85,7 +87,9 @@ Data entry should refer to the RPP (Learning Program Plan).
 
 If the data entered is correct, click **Save**.
 
-## To fill in the **Competency** section:
+
+
+## 4. How to Fill in **Competency s**ection
 
 1. Click edit
 2. Add competency
@@ -102,7 +106,9 @@ If the data entered is correct, click **Save.**
 
 
 
-In the **Class Schedule** section, you can fill in this menu once the schedule code has been provided by the PMO.
+## **5. How to Fill in Class Schedule** Section
+
+You can fill in this menu once the schedule code has been provided by the PMO.
 
 If the schedule code is available, click Edit and fill in the data :
 
@@ -141,6 +147,17 @@ Offline D-2 enrollment completed
 
 After the data entered is correct, click **Save.** 
 
-## To fill in the **Pricing** section, enter the appropriate price for the training.
 
-Click **Save.**
+
+## 6. How to Fill in the **Pricing S**ection
+
+Once all the data has been correctly entered, click **Publish.**
+
+1. If the status is **Draft***,* the product has not been published.
+2. To publish the created product, click **Submit to Pintar.**
+
+   ![](/img/product-14.png)
+
+After publishing, the product page will be reviewed by the Pintar team. Once approved, **activate** the product page by switching it to *Live* and then Activate*.*
+
+![](/img/product-15.png)
