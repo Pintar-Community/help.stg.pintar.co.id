@@ -26,7 +26,7 @@ To create a new Product, click **+New**.
 
 2 Product Slug : This section will be automatically filled after the admin inputs the product name.
 
-3 Program Description : Fill in the title. Admins can add the word *Learn* at the beginning of the sentence and *With Us* at the end. Example: ***Learn** Time Management Strategies **With Us.*** 
+3 Program Description : Fill in the title. Admins can add the word *Learn* at the beginning of the sentence and *With Us* at the end. Example: **\*Learn** Time Management Strategies **With Us.*** 
 
 4 Content : Fill in the information related to the description, evaluation methods, training methods, attendance methods, types/classifications of certificates, and participant terms and conditions.
 If the course uses an Luring mode, add the detailed course venue name.
@@ -69,3 +69,25 @@ You can fill in the following data:
 4. Add Instructor	: Select one instructor for the training you created.
 
 If the data entered is correct and appropriate, click **Save**.
+
+## 
+To fill in the **Curriculum**, click Edit at the top right corner.
+
+![](/img/product-8.png)
+
+**Schedule Section**
+
+1. Content : Fill in according to the training title.
+
+2. Curriculum Document : You must provide the general objectives, specific objectives, competency aspects (knowledge, work attitude, and skills), topics, and training duration. 
+
+Data entry should refer to the RPP (Learning Program Plan).
+
+If the data entered is correct, click **Save**.
+
+## To fill in the **Competency** section:
+
+1. Click edit
+2. Add competency
+
+![](/img/product-9.png)

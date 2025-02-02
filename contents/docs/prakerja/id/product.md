@@ -69,3 +69,26 @@ Anda dapat mengisi data sebagai berikut:
 4. Add Instructor : Pilih satu instruktur untuk pelatihan yang anda buat.
 
 Jika data yang diisi sudah benar dan sesuai, klik **Save.**
+
+
+
+## Untuk mengisi **Curiculum,** klik edit pada bagian kanan atas.
+
+![](/img/product-8.png)
+
+**Schedule Section**
+
+1. Content : Isi sesuai dengan judul pelatihan
+
+2. Curriculum Document : Anda wajib mengisikan tujuan umum, tujuan khusus, aspek kompetensi (pengetahuan, sikap kerja dan keterampilan), topik dan durasi pelatihan. 
+
+Pengisian data mengacu pada RPP (Rencana Program Pembelajaran).
+
+Jika data yang diisi sudah benar, klik **Save.**
+
+## Untuk mengisi **Competency**
+
+1. Klik edit
+2. Add competency
+
+![](/img/product-9.png)
