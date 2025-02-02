@@ -1,5 +1,5 @@
 ---
-sidebar_position: 113
+sidebar_position: 114
 ---
 Pada bagian ini berisi konten berupa Video. Anda dapat membuka tampilan video dengan cara full screen dan juga dapat mengatur resolusi video yang ditampilkan. 
 

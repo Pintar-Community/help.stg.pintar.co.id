@@ -1,6 +1,6 @@
 ---
 title: Video
-sidebar_position: 113
+sidebar_position: 114
 ---
 This section contains content in the form of Video. You can open the video display in full screen and can also set the resolution of the video displayed.
 
