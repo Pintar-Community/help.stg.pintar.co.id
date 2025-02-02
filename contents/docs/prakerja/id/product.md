@@ -92,3 +92,60 @@ Jika data yang diisi sudah benar, klik **Save.**
 2. Add competency
 
 ![](/img/product-9.png)
+
+
+
+
+Maka akan muncul popup berikut ini:
+
+1. Competency Reference Title : Isi judul referensi kompetensi sesuai dengan RPP
+
+2. Unit Competency : Isi unit kompetensi sesuai RPP. 
+
+Jika data yang diisi sudah benar, klik **Save.**
+
+
+
+Pada bagian **Class Schedule,** anda dapat mengisi menu ini pada saat schedule code sudah diberikan oleh PMO.
+
+Jika schedule code sudah ada, klik edit lalu isi data : 
+
+![](/img/product-10.png)
+
+**Schedule section**
+
+1. Schedule Description : Isi judul dari schedule code yang ingin dibuat
+
+2. Content : 
+
+3. Batch : untuk menambahkan batch yang bisa disesuaikan dengan schedule code yang dimiliki. 
+
+Untuk menambahkan batch, klik **Add Batch** maka akan tampil seperti dibawah ini:
+
+![]()
+
+![]()
+
+1. Batch Name : isi nama batch yang ingin dibuat.
+
+2. Schedule code : isi sesuai dengan schedule code yang diberikan oleh PMO.
+
+3. Description : Isi informasi ketentuan redeem kelas prakerja.
+
+4. Parent course : isi sesuai dengan yang ada pada General Information.
+
+5. Child course : pilih course yang sebelumnya sudah di duplicate dengan tambahan jadwal pada judul.
+
+6. Enroll period : isi sesuai dengan ketentuan
+Daring h-1 selesai enroll
+
+Luring h-2 selesai enroll
+
+7. Program Period : isi jadwal pelatihan yang akan dilaksanakan. Ceklis hari dan isi waktu pelaksanaannya.
+
+8. Quota : isi berapa banyak kuota yang dimiliki. 
+
+Setelah data yang diisi sudah sesuai, klik **Save.** 
+
+## Untuk mengisi **Pricing,** isi harga yang sesuai untuk pelatihan. 
+Klik **Save.**
