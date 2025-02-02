@@ -26,3 +26,15 @@ Maka Anda akan langsung masuk ke Live Session (Pintar) dan untuk keluar dari Liv
 Setelah Anda keluar dari Live Session (Pintar), maka tampilannya akan seperti ini:
 
 ![](/img/ls-pintar-5.png)
+
+**Contoh apabila Anda hadir saat Live Session**
+
+Apabila Anda hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Joined/Bergabung.
+
+![](/img/ls-pintar-indo-gabung-.png)
+
+**Contoh apabila Anda tidak hadir saat Live Session**
+
+Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Skipped/Dilewati.
+
+![](/img/ls-pintar-indo-lewat-.png)

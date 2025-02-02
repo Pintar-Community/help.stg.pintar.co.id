@@ -26,3 +26,15 @@ You will be directed straight into the Live Session (Pintar). To exit the Live S
 After exiting the Live Session (Pintar), the interface will appear as follows:
 
 ![](/img/ls-pintar-5.png)
+
+**Attendance Examples If You Join the Live Session:** 
+
+If you attend the session, your Live Session attendance status will change to Joined.
+
+![](/img/ls-pintar-eng-joined-.png)
+
+**Attendance Examples If You Do Not Attend the Live Session:** 
+
+If you miss the session, your attendance status will change to Skipped.
+
+![](/img/ls-pintar-eng-skip-.png)
