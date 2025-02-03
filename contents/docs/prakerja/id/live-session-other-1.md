@@ -5,6 +5,7 @@ sidebar_position: 42
 ![](/img/ls-other-indo-1.png)
 
 Pada Live Session ini, Anda sebagai Instruktur dan seluruh peserta akan melaksanakan sesi langsung menggunakan platform seperti Zoom/Google Meet.
+
 Anda dapat Klik **Live Session (Other)** pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
 
 ![](/img/ls-other-indo-2.png)
