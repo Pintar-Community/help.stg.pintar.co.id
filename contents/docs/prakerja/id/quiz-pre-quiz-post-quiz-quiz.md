@@ -10,9 +10,9 @@ Dalam Sesi Konten Kursus biasanya terdapat Quiz yang harus Anda kerjakan, Quiz t
 
 Untuk mengerjakan Quiz, Anda dapat Klik Quiz pada Sesi di Konten Kursus.
 
-![]()
+![](/img/quiz-indo-1.png)
 
-![]()
+![](/img/quiz-indo-2.png)
 
 Sebelum Anda mulai mengerjakan Quiz ada beberapa yang harus Anda perhatikan:
 
@@ -23,28 +23,28 @@ Sebelum Anda mulai mengerjakan Quiz ada beberapa yang harus Anda perhatikan:
 
 Untuk memulai mengerjakan Quiz, Anda dapat Klik **Mulai Quiz.**
 
-![]()
+![](/img/quiz-indo-3.png)
 
 Setelah Anda memilih jawaban Quiz, Anda dapat Klik **Selanjutnya** untuk melanjutkan ke soal Quiz selanjutnya.
 
-![]()
+![](/img/quiz-indo-4.png)
 
 Pada soal kedua dan seterusnya Anda dapat melihat kembali soal dan jawaban Anda di soal sebelumnya dengan Klik **Sebelumnya**.
 
-![]()
+![](/img/quiz-indo-5.png)
 
 Pada soal Quiz terakhir Anda dapat Klik **Lihat dan Kirim**, lalu akan muncul Ringkasan Quiz dan Anda dapat Klik **Kirim.**
 
-![]()
+![](/img/quiz-indo-6.png)
 
 Lalu Anda Klik **Kirim** untuk Submit jawaban Quiz.
 
-![]()
+![](/img/quiz-indo-7.png)
 
-Setelah Anda Klik Kirim, maka akan muncul Keterangan dan Nilai dari Quiz yang sudah Anda kerjakan, seperti berikut:
+Setelah Anda Klik **Kirim**, maka akan muncul Keterangan dan Nilai dari Quiz yang sudah Anda kerjakan, seperti berikut:
 
-![]()
+![](/img/quiz-indo-8.png)
 
 Jika dalam pengerjaan soal Quiz Anda melebihi dari durasi yang ditentukan, maka Anda tidak dapat melanjutkan menjawab soal Quiz, Quiz dianggap selesai dan akan muncul tampilan seperti berikut:
 
-![]()
+![](/img/quiz-indo-9.png)
