@@ -4,11 +4,11 @@ sidebar_position: 28
 ---
 Notes atau catatan dapat digunakan untuk penanda saat Anda mengakses materi, Anda dapat menambahkan Catatan pada setiap Materi yang tersedia dengan cara beri catatan Anda pada kolom **Tambahkan Catatan** lalu Klik **Simpan Catatan.**
 
-![](/img/note-indo-1.png)
+![](/img/note-indo-2.png)
 
 Maka Catatan Anda akan muncul pada Materi tersebut.
 
-![](/img/note-indo-2.png)
+![](/img/note-indo-1.png)
 
 1. Kolom untuk menambahkan catatan pada materi pelatihan.
 2. Klik simpan catatan untuk menyimpan catatan pada materi pelatihan.
