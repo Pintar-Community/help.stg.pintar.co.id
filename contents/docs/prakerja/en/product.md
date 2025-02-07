@@ -51,8 +51,6 @@ If the course uses an Luring mode, add the detailed course venue name.
 
 If all sections are filled in correctly and appropriately, click **Save**.
 
-
-
 ## 2. How to Fill in **Organizer Section**
 
 Klick the **Edit** menu.
@@ -70,7 +68,6 @@ You can fill in the following data:
 
 If the data entered is correct and appropriate, click **Save**.
 
-## 
 3. How to Fill in **Curriculum Section**
 
 Click **Edit** at the top right corner.
@@ -80,14 +77,11 @@ Click **Edit** at the top right corner.
 **Schedule Section**
 
 1. Content : Fill in according to the training title.
-
 2. Curriculum Document : You must provide the general objectives, specific objectives, competency aspects (knowledge, work attitude, and skills), topics, and training duration. 
 
 Data entry should refer to the RPP (Learning Program Plan).
 
 If the data entered is correct, click **Save**.
-
-
 
 ## 4. How to Fill in **Competency s**ection
 
@@ -99,12 +93,9 @@ If the data entered is correct, click **Save**.
 A popup will appear as follows:
 
 1. Competency Reference Title : Fill the competency reference title according to the RPP.
-
 2. Unit Competency : Fill the competency unit according to the RPP. 
 
 If the data entered is correct, click **Save.**
-
-
 
 ## **5. How to Fill in Class Schedule** Section
 
@@ -117,9 +108,7 @@ If the schedule code is available, click Edit and fill in the data :
 **Schedule section**
 
 1. Schedule Description : Fill the title of the schedule code you want to create
-
-2. Content : 
-
+2. Content : Fill the title of the schedule code you want to create
 3. Batch : Add a batch that can be adjusted according to the schedule code you have. 
 
 To add a batch, click **Add Batch***,* and the following screen will appear:
@@ -127,27 +116,19 @@ To add a batch, click **Add Batch***,* and the following screen will appear:
 ![](/img/product-12.png)
 
 1. Batch Name : fill the name of the batch you want to create.
-
 2. Schedule code : fill the schedule code provided by the PMO.
-
 3. Description : Provide information about the Prakerja class redemption terms.
-
 4. Parent course : iFill in according to the *General Information*.
-
 5. Child course : Select the course that has previously been duplicated with an added schedule in the title.
-
 6. Enroll period : Complete it according to the requirements
-Online D-1 enrollment completed
+   Online D-1 enrollment completed
 
 Offline D-2 enrollment completed
 
 7. Program Period : Enter the training schedule to be conducted. Check the days and enter the implementation time.
-
 8. Quota : Enter the quota available. 
 
 After the data entered is correct, click **Save.** 
-
-
 
 ## 6. How to Fill in the **Pricing S**ection
 
@@ -157,7 +138,6 @@ Click **Save.**
 
 ![](/img/product-9.png)
 
-## 
 **7. How to Publish the Product Page**
 
 Once all the data has been correctly entered, click **Publish.**
