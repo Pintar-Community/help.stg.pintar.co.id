@@ -8,4 +8,4 @@ In this Quiz content, there are three types of quizzes: Pre Quiz, Practice Quiz,
 
 ![](/img/quiz-eng-2.png)
 
-To view the quiz completion status by students, you can check the details under the Performance menu on the Dashboard.
+To view the quiz completion status by participants, you can check the details under the Performance menu on the Dashboard.

@@ -8,4 +8,4 @@ Pada konten Quiz ini, terdiri atas 3 jenis Quiz (Pre Quiz, Practice Quiz, dan Po
 
 ![](/img/quiz-indo-2.png)
 
-Untuk melihat status pengerjaan quiz oleh students, Anda dapat melihat detailnya pada menu Performance pada Dashboard.
+Untuk melihat status pengerjaan quiz oleh peserta, Anda dapat melihat detailnya pada menu Performance pada Dashboard.
