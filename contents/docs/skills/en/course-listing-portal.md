@@ -1,5 +1,5 @@
 ---
-title: Course Listing (Portal)
+title: (Portal) Course Listing
 sidebar_position: 1
 ---
 The **Course Listing** feature is available in the Courses menu.

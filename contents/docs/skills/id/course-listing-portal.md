@@ -1,5 +1,5 @@
 ---
-title: Course Listing (Portal)
+title: (Portal) Course Listing
 sidebar_position: 1
 ---
 Fitur **Course Listing** terdapat dalam menu Courses.
