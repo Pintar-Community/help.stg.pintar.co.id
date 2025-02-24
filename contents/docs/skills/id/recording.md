@@ -4,7 +4,7 @@ sidebar_position: 10
 ---
 ![](/img/rec-1.png)
 
-Pada fitur recordings ini Admin dapat mengunduh rekaman Live Session dari semua kursus.
+Pada fitur R**ecordings** ini Admin dapat mengunduh rekaman Live Session dari semua kursus.
 
 ![](/img/rec-2.png)
 
