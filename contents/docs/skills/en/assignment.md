@@ -18,7 +18,11 @@ To access Assignments, you can click on Assignments in the Course Content Sessio
 
 To answer the assignment, you can provide an answer in the form of text by typing the answer on **Add your answer** column or you can U**pload a Document** (in the form of docx, .xlsx, .mp4, .pdf, .jpg/.jpeg and .png, .rar/.zip) with a maximum size of 10 MB by clicking the **Upload Document** column, then selecting the document.
 
+![](/img/assign-eng_4.png)
+
 Click **Submit.**
+
+![](/img/assign-eng_5.png)
 
 After you submit your assignment, the following display will appear as follows:
 
