@@ -1,6 +1,6 @@
 ---
 title: View and Download Certificate
-sidebar_position: 15
+sidebar_position: 16
 ---
 **To view and download your certificate:**
 
