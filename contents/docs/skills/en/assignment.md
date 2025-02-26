@@ -1,6 +1,6 @@
 ---
 title: Assignment
-sidebar_position: 19
+sidebar_position: 20
 ---
 To access Assignments, you can click on Assignments in the Course Content Session. Then the display will appear, as follows:
 

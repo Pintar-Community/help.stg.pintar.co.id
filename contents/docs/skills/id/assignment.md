@@ -1,6 +1,6 @@
 ---
 title: Assignment
-sidebar_position: 19
+sidebar_position: 20
 ---
 Untuk mengakses Tugas, Anda dapat Klik Assignment pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
 
