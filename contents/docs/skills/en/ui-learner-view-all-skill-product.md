@@ -1,6 +1,6 @@
 ---
 title: (UI Learner) View All Skill Product
-sidebar_position: 11
+sidebar_position: 12
 ---
 Go to the URL https://skills.pintar.co/id to **View all Skills Products.**
 
