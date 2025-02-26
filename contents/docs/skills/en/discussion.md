@@ -1,6 +1,6 @@
 ---
 title: Discussion
-sidebar_position: 20
+sidebar_position: 21
 ---
 To access **Discussion** you can Click Discussion in the Course Content Session and the display will be as follows:
 

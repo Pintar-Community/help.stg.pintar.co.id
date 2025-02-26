@@ -1,6 +1,6 @@
 ---
 title: Discussion
-sidebar_position: 20
+sidebar_position: 21
 ---
 Untuk mengakses Diskusi Anda dapat Klik Diskusi pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
 
