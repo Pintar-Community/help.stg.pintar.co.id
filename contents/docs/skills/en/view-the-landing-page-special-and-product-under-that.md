@@ -1,6 +1,6 @@
 ---
 title: View the Landing Page Special and Product Under That
-sidebar_position: 12
+sidebar_position: 13
 ---
 After visiting the All Skills Products page, you can choose the course you want and click **More Detail.**
 

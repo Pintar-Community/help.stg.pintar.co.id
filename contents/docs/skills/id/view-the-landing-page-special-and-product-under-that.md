@@ -1,6 +1,6 @@
 ---
 title: View the Landing Page Special and Product Under That
-sidebar_position: 12
+sidebar_position: 13
 ---
 Setelah anda mengunjungi laman **Semua Produk Skills**, anda dapat memilih kursus yang ada inginkan. Lalu klik **Selengkapnya.**
 
