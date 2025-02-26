@@ -1,6 +1,6 @@
 ---
 title: Content Material
-sidebar_position: 17
+sidebar_position: 18
 ---
 This section contains the topics to be covered, comprising learning materials across multiple sessions. It includes the following types of content:
 

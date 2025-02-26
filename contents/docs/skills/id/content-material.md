@@ -1,6 +1,6 @@
 ---
 title: Content Material
-sidebar_position: 17
+sidebar_position: 18
 ---
 Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. Pada bagian ini akan terdiri dari beberapa konten berupa :
 
