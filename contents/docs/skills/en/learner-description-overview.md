@@ -1,6 +1,6 @@
 ---
 title: (Learner) Description & Overview
-sidebar_position: 16
+sidebar_position: 17
 ---
 To view the course materials, go to the **My Program** page, click Course, and then select **Start Learning.**
 

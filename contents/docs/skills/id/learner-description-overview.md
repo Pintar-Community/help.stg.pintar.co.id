@@ -1,6 +1,6 @@
 ---
 title: (Learner) Description & Overview
-sidebar_position: 16
+sidebar_position: 17
 ---
 Untuk melihat materi di dalam kursus, pada laman **Program Saya** klik **Kursus** lalu **Mulai Belajar.**
 
