@@ -1,6 +1,6 @@
 ---
 title: Payment the Product
-sidebar_position: 13
+sidebar_position: 14
 ---
 Log in to https://skills.pintar.co to proceed with the **Prakerja Product Payment**.
 

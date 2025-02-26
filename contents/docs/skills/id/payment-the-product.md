@@ -1,6 +1,6 @@
 ---
 title: Payment the Product
-sidebar_position: 13
+sidebar_position: 14
 ---
 Login pada https://skills.pintar.co untuk melakukan Pembayaran Produk Prakerja. 
 
