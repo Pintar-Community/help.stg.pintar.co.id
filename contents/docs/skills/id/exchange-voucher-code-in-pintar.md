@@ -1,6 +1,6 @@
 ---
 title: Exchange Voucher Code in PINTAR
-sidebar_position: 14
+sidebar_position: 15
 ---
 Setelah anda mendaftarkan akun di https://skills.pintar.co
 Anda akan mendapatkan voucher code yang akan dikirimkan melalui email. 

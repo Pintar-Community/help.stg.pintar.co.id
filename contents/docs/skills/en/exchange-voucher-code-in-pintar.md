@@ -1,6 +1,6 @@
 ---
 title: Exchange Voucher Code in PINTAR
-sidebar_position: 14
+sidebar_position: 15
 ---
 After registering an account at https://skills.pintar.co
 You will receive a voucher code via email.
