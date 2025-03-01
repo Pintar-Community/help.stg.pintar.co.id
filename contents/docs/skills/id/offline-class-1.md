@@ -2,7 +2,7 @@
 title: Offline Class
 sidebar_position: 45
 ---
-![](/img/offline-skills_indo-1.png)
+![]()
 
 Offline Class merupakan fitur yang digunakan sebagai absensi untuk kursus yang dilaksanakan secara Offline atau Tatap Muka.
 

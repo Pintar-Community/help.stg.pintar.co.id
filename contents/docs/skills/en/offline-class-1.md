@@ -2,7 +2,7 @@
 title: Offline Class
 sidebar_position: 45
 ---
-![](/img/offline-skills_eng-1.png)
+![]()
 
 The Offline Class feature is used for attendance tracking in offline or face-to-face learning sessions.
 
