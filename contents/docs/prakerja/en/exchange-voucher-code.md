@@ -12,5 +12,4 @@ sidebar_position: 13
 
 3. If the voucher code entered is correct, the system will direct you to the My Programs page, where the course will display a **Redeem Code** button.
 
-
 ![](/img/exchange-3.png)
