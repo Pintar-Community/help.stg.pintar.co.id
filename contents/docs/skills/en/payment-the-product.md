@@ -6,7 +6,7 @@ Log in to https://skills.pintar.co to proceed with the **Prakerja Product Paymen
 
 1. Select the desired course and click Learn More.
 
-   ![](/img/payment-skills_eng-1.png)
+   ![](/img/photo_2025-03-03_11-45-43.jpg)
 2. Click **Enroll Now.**
 
    ![](/img/payment-skills_eng-2.png)
