@@ -6,34 +6,22 @@ sidebar_position: 9
 
 **How to Export the Survey Report:**
 
-* Click on the 
+* Click on the **Survey Reporting** menu
+* Then, select **Partner** and **Course**
 
-  **Survey Reporting**
+  ![](/img/photo_7_2025-03-03_12-56-04.jpg)
+* The survey data (**Data Results**) will then appear
 
-   menu.
-* Then, select 
+  ![](/img/photo_4_2025-03-03_12-56-04.jpg)
+* You can also view the report data individually
 
-  **Partner**
+  ![](/img/photo_5_2025-03-03_12-56-04.jpg)
+* Click the **"View"** button to see individual data
 
-   and 
+  ![](/img/photo_3_2025-03-03_12-56-04.jpg)
+* A display will appear as shown in the image
 
-  **Course**
+  ![](/img/photo_2_2025-03-03_12-56-04.jpg)
+* To download individual survey data, click the **Download** icon as shown in the image
 
-  .
-* The survey data (
-
-  **Data Results**
-
-  ) will then appear.
-* You can also view the report data individually.
-* Click the 
-
-  **"View"**
-
-   button to see individual data.
-* A display will appear as shown in the image.
-* To download individual survey data, click the 
-
-  **Download**
-
-   icon as shown in the image.
+  ![](/img/photo_6_2025-03-03_12-56-04.jpg)
