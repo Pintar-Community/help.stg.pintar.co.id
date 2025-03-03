@@ -7,7 +7,7 @@ You will receive a voucher code via email.
 
 To redeem the voucher code for your desired course, search for the course on the **Skill Search** page. Then, click **More Details**.
 
-![](/img/payment-skills_eng-1.png)
+![](/img/exchange-skills_eng-1.png)
 
 Click **Enroll Now**.
 
