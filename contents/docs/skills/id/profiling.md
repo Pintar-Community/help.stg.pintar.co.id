@@ -4,82 +4,76 @@ sidebar_position: 9
 ---
 ### **Profiling Listing**
 
-* Click the Profiling Listing menu
+* Klik menu Profiling Listing
 
   ![](/img/slide1.jpg)
-* Click the +New button
+* Klik button +New
 
   ![](/img/slide2.jpg)
-* Fill the Test Name
+* Isikan Test Name
 
   ![](/img/slide3.jpg)
-* Select the Test Type
+* Pilih Test Type
 
   ![](/img/slide4.jpg)
-* Complete the description
+* Lengkapi Description
 
   ![](/img/slide5.jpg)
-* Then click Next, and a screen like the following image will appear
+* Kemudian klik Next, lalu akan muncul tampilan seperti gambar berikut
 
   ![](/img/slide8.jpg)
-* Fill the Section Title & Section Description
+* Isi Judul Section dan Deskripsi Section
 
   ![](/img/slide13.jpg)
-* Add your survey questions
+* Kemudian isi pertanyaan
 
   ![](/img/slide9.jpg)
 
-
-  Then select the type of question you want (Likert, Essay, Dropdown, Single Choice atau Multi Choice) 
+  Anda dapat memilih jenis pertanyaan (Likert, Essay, Dropdown, Single Choice atau Multi Choice) 
 
   ![](/img/slide10.jpg)
-* To add a new section, click the Add Section button or if you want to add more questions to a section, click Add Question
+* Untuk menambahkan section berikutnya Anda dapat klik button “Add Section” atau apabila Anda ingin menambahkan pertanyaan pada section tersebut, Anda dapat klik “Add Question”
 
   ![](/img/slide11.jpg)
-* Once completed, click Save & Preview
+* Jika sudah, klik button Save & Preview
 
   ![](/img/admin-portal-degrees-survey-10.jpg)
-* You can review the survey in Preview Mode
+* Kemudian Anda dapat melihat tampilan Preview
 
   ![](/img/slide12.jpg)
 
-
-
-
 ### Profiling Reporting
 
-* Click Profiling menu
-* Click the Profiling Reporting menu
+* Klik Profiling
+* Klik menu Profiling Reporting
 
   ![](/img/profiling-reporting-1.jpg)
-* Search dan select the Test Name
+* Cari dan pilih nama Test
 
   ![](/img/profiling-reporting-2.jpg)
-* There are 2 types of reports: 'Data Result' to display all user reports, and 'Individual' to display reports for each individual
+* Terdapat 2 jenis Report (Data Result untuk menampilkan seluruh Report User dan Individu untuk menampilkan report per Individu)
 
   ![](/img/profiling-reporting-4.jpg)
-* Display of all users' answers
+* Tampilan jawaban seluruh User
 
   ![](/img/profiling-reporting-5.jpg)
-* Display of all users' answers in diagram form
+* Tampilan jawaban seluruh User dalam bentu diagram
 
   ![](/img/profiling-reporting-6.jpg)
-* Click the three-dot button on the response count to download the report for all users in PDF/CSV format
+* Klik three dot button pada jumlah respon untuk download Report seluruh User dalam format PDF/CSV
 
   ![](/img/profiling-reporting-3.jpg)
-* Individual Report View
+* Tampilan pada Report secara Individu
 
   ![](/img/profiling-reporting-7.jpg)
-* Click View on the user's name to see the individual report
+* Klik View pada nama user untuk melihat Report per Individu
 
   ![](/img/profiling-reporting-11.jpg)
-
-
-* Then the user's response will apper
+* Kemudian akan muncul jawaban dari User
 
   ![](/img/profiling-reporting-8.jpg)
 
   ![](/img/profiling-reporting-10.jpg)
-* Click the download icon to download the report individually
+* Klik icon download untuk mengunduh Report secara Individu
 
   ![](/img/profiling-reporting-9.jpg)
