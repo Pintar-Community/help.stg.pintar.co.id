@@ -4,7 +4,7 @@ sidebar_position: 17
 ---
 Untuk melihat materi di dalam kursus, pada laman **Program Saya** klik **Kursus** lalu **Mulai Belajar.**
 
-![](/img/description-skills_indo-1.png)
+![](/img/description-eng-1.png)
 
 Klik **Ringkasan.**
 

@@ -8,7 +8,7 @@ To view the course materials, go to the **My Program** page, click Course, and t
 
 Click **Summary**.
 
-![](/img/description-skills_eng-2.png)
+![](/img/description-skills_ins-eng-1.png)
 
 The display will look as follows. The **Summary** contains:
 
