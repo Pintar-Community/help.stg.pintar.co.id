@@ -24,8 +24,3 @@ c. Click the "**+New**" button in the top right corner to access the "Assign Gro
    b. In the upper right corner, you will find the total number of selected users out of the total number of available users.
 
    c. After selecting the users, the administrator can click **Save**.
-
-
-
-
-test aja ini untuk demo English
