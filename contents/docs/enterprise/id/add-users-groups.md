@@ -24,3 +24,8 @@ a. Admin dapat klik kolom yang tersedia pada sisi kiri user card, untuk memilih 
 b. Pada bagian kanan atas, terdapat informasi total user yang telah dipilih, dari total keseluruhan user yang ada.
 
 c. Setelah memilih user, admin dapat klik **Save**.
+
+
+
+
+test aja ini untuk demo indonesia
