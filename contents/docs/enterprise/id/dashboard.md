@@ -75,28 +75,27 @@ Dalam Halaman “Edit Profile” Anda dapat mengisi data diri/biodata, keterampi
    ![](/img/Enterprise-LMS-Edit-Profile_1.2.png)
 3. Setelah klik button Lihat, maka akan muncul tampilan seperti gambar. Silahkan lengkapi Nomor Hp dan klik setuju pada kotak Terms & Conditions, kemudian klik Continue
 
-   ![](/img/profile.jpg)
-4. Kemudian akan muncul tampilan Profile seperti gambar berikut. Anda dapat melengkapi informasi pribadi pada menu Profile ini
+   Kemudian akan muncul tampilan Profile seperti gambar berikut. Anda dapat melengkapi informasi pribadi pada menu Profile ini
 
    ![](/img/profile-2.jpg)
-5. Lengkapi kolom Ringkasan yang berisi mengenai diri Anda dan pekerjaan Anda
+4. Lengkapi kolom Ringkasan yang berisi mengenai diri Anda dan pekerjaan Anda
 
    ![](/img/profile-3.jpg)
-6. Lengkapi kolom Informasi Pribadi dan tambahkan foto Anda
+5. Lengkapi kolom Informasi Pribadi dan tambahkan foto Anda
 
    ![](/img/profile-4.jpg)
-7. Tambahkan Pendidikan dengan cara klik button +Tambahkan
+6. Tambahkan Pendidikan dengan cara klik button +Tambahkan
 
    ![](/img/profile-5.jpg)
-8. Tambahkan Pengalaman Kerja dengan cara klik button +Tambahkan
+7. Tambahkan Pengalaman Kerja dengan cara klik button +Tambahkan
 
    ![](/img/profile-6.jpg)
-9. Tambahkan Keahlian dengan cara klik button +Tambahkan
+8. Tambahkan Keahlian dengan cara klik button +Tambahkan
 
    ![](/img/profile-7.jpg)
-10. Tambahkan Media Sosial dan Portofolio dengan cara klik button +Tambahkan
+9. Tambahkan Media Sosial dan Portofolio dengan cara klik button +Tambahkan
 
-    ![](/img/profile-8.jpg)
-11. Apabila profile Anda sudah dilengkapi, Anda dapat mengunduhnya berupa CV dengan cara klik “Unduh CV Anda”
+   ![](/img/profile-8.jpg)
+10. Apabila profile Anda sudah dilengkapi, Anda dapat mengunduhnya berupa CV dengan cara klik “Unduh CV Anda”
 
     ![](/img/profile-9.jpg)

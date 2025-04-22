@@ -27,7 +27,7 @@ Once you have successfully logged in, the Dashboard will appear as shown below.
 
 The Dashboard menu contains the following sub-menus: Progress, Learning Duration, and Activity.
 
-![](/img/dashboard-eng-.jpg)
+![](/img/dashboard_1.1.png)
 
 ##### **1. Progress**
 
@@ -73,30 +73,27 @@ How to edit profile :
 2. After clicking the Profile icon, a pop-up will appear as shown in the image below. Then, click the View button.
 
    ![](/img/enterprise-profile-eng.jpg)
-3. After clicking the View button, a screen will appear as shown. Please complete your phone number, check the box for Terms & Conditions, and then click Continue.
+3. Next, the Profile page will appear as shown. You can complete your personal information in this Profile menu.
 
-   ![](/img/profile.jpg)
-4. Next, the Profile page will appear as shown. You can complete your personal information in this Profile menu.
+   ![](/img/edit-profile_1.3.png)
+4. Complete the Summary field with information about yourself and your work.
 
-   ![](/img/profile-eng-2.jpg)
-5. Complete the Summary field with information about yourself and your work.
+   ![](/img/add-profile_1.2.png)
+5. Complete the Personal Information section and upload your photo
 
-   ![](/img/profile-eng-3.jpg)
-6. Complete the Personal Information section and upload your photo
-
-   ![](/img/profile-eng-4.jpg)
-7. Add Education by clicking the +Add button.
+   ![](/img/add-profile_1.3.png)
+6. Add Education by clicking the +Add button.
 
    ![](/img/profile-eng-5.jpg)
-8. Add Work Experience by clicking the +Add button
+7. Add Work Experience by clicking the +Add button
 
    ![](/img/profile-eng-6.jpg)
-9. Add Skills by clicking the +Add button
+8. Add Skills by clicking the +Add button
 
    ![](/img/profile-eng-7.jpg)
-10. Add Social Media and Portfolio by clicking the +Add button
+9. Add Social Media and Portfolio by clicking the +Add button
 
-    ![](/img/profile-8.jpg)
-11. Once your profile is complete, you can download it as a CV by clicking “Download Your CV”
+   ![](/img/profile-8.jpg)
+10. Once your profile is complete, you can download it as a CV by clicking “Download Your CV”
 
     ![](/img/profile-eng-9.jpg)
