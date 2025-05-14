@@ -11,7 +11,7 @@ Pada Halaman Informasi Pribadi, Anda dapat melengkapi data diri, termasuk biodat
 1. Klik ikon profile pada pojok kanan atas seperti tampilan berikut
 
    ![](/img/profile-1-dan-8.jpg)
-2. Setelah klik ikon Profile, maka akan muncul pop up seperti gambar di bawah ini kemudian klik button **Lihat**
+2. Setelah klik ikon Profile, maka akan muncul pop up seperti gambar di bawah ini kemudian klik button Lihat
 
    ![](/img/profile-2-dan-9.jpg)
 3. Kemudian akan muncul tampilan Profile seperti gambar berikut. Anda dapat melengkapi informasi pribadi pada menu Profile ini
