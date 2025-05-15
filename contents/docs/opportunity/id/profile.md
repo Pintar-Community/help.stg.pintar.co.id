@@ -10,13 +10,13 @@ Pada Halaman Informasi Pribadi, Anda dapat melengkapi data diri, termasuk biodat
 
 1. Klik ikon profile pada pojok kanan atas seperti tampilan berikut
 
-   ![](/img/profile-1-dan-8.jpg)
+   ![](/img/profile-indo-opportunity-1-dan-8.jpg)
 2. Setelah klik ikon Profile, maka akan muncul pop up seperti gambar di bawah ini kemudian klik button Lihat
 
-   ![](/img/profile-2-dan-9.jpg)
+   ![](/img/profile-indo-opportunity-2-dan-9.jpg)
 3. Kemudian akan muncul tampilan Profile seperti gambar berikut. Anda dapat melengkapi informasi pribadi pada menu Profile ini
 
-   ![](/img/profile-3-dan-10.jpg)
+   ![](/img/profile-indo-opportunity-3-dan-10.jpg)
 4. Anda dapat mengisi otomatis dari Resume/CV yang Anda punya
 
    ![](/img/profile-indo-opportunity-4.jpg)
@@ -30,8 +30,6 @@ Pada Halaman Informasi Pribadi, Anda dapat melengkapi data diri, termasuk biodat
 
    ![](/img/profile-indo-opportunity-7.jpg)
 8. Profil Anda akan terisi otomatis
-
-
 
 #### **Cara melengkapi Profile secara manual :**
 
@@ -65,8 +63,6 @@ Pada Halaman Informasi Pribadi, Anda dapat melengkapi data diri, termasuk biodat
 10. Apabila profile Anda sudah dilengkapi, Anda dapat mengunduhnya berupa CV dengan cara klik “Unduh CV Anda”
 
     ![](/img/profile-9.jpg)
-
-
 
 ### **Sertifikat**
 
