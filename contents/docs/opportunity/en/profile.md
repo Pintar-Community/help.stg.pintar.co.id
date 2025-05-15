@@ -66,8 +66,6 @@ On the Personal Information page, you can complete your personal details, includ
 
     ![](/img/profile-eng-9.jpg)
 
-
-
 ### **Certificate**
 
 #### **1. Platform Certificates**

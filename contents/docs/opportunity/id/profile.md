@@ -31,6 +31,8 @@ Pada Halaman Informasi Pribadi, Anda dapat melengkapi data diri, termasuk biodat
    ![](/img/profile-indo-opportunity-7.jpg)
 8. Profil Anda akan terisi otomatis
 
+
+
 #### **Cara melengkapi Profile secara manual :**
 
 1. Klik ikon profile pada pojok kanan atas seperti tampilan berikut
