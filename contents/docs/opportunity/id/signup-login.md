@@ -19,8 +19,6 @@ sidebar_position: 1
    ![](/img/login-4.jpg)
 6. Dan apabila Anda belum memiliki akun, Anda dapat memilih untuk login menggunakan Google atau klik Daftar
 
-
-
 #### **1. Login menggunakan Google**
 
 * Klik button lanjut dengan Google
@@ -28,18 +26,16 @@ sidebar_position: 1
   ![](/img/login-5.jpg)
 * Isi email dan password
 
-  ![](/img/login-6.jpg)
+  ![](/img/login-eng-opportunity-6.jpg)
 
-  ![](/img/login-7.jpg)
+  ![](/img/login-eng-opportunity-7.jpg)
 * Kemudian akan muncul tampilan seperti gambar, lengkapi identitas
 
-  ![](/img/login-8.jpg)
+  ![](/img/login-eng-opportunity-8.jpg)
 * Klik Terms & Conditions
 
-  ![](/img/login-9.jpg)
+  ![](/img/login-eng-opportunity-9.jpg)
 * Klik Continue
-
-
 
 #### **2. Login dengan cara Daftar baru**
 
@@ -58,13 +54,13 @@ sidebar_position: 1
 * Klik Daftar
 * Kemudian akan muncul tampilan seperti gambar, klik verifikasi by email
 
-  ![](/img/login-14.jpg)
+  ![](/img/login-eng-opportunity-15.jpg)
 * Lalu buka email Anda dan cari pesan seperti gambar
 
-  ![](/img/login-15.jpg)
+  ![](/img/login-eng-opportunity-16.jpg)
 * Masukkan angka yang terdapat pada email untuk verifikasi
 
-  ![](/img/login-16.jpg)
+  ![](/img/login-eng-opportunity-18.jpg)
 * Apabila verfikasi sudah berhasil, akan muncul tampilan seperti gambar
 
-  ![](/img/login-17.jpg)
+  ![](/img/login-eng-opportunity-19.jpg)
