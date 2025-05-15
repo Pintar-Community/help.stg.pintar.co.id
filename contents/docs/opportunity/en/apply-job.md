@@ -8,40 +8,40 @@ sidebar_position: 3
 
 1. On the dashboard, click the "For Job Seekers" button
 
-   ![]()
+   ![](/img/job-portal-eng-1.jpg)
 2. Select the Explore Jobs page
 
-   ![]()
+   ![](/img/job-portal-eng-2.jpg)
 3. You can view job fields with the highest number of open positions
 
-   ![]()
+   ![](/img/job-portal-eng-3.jpg)
 4. You can search for your dream job using the search bar
 
-   ![]()
+   ![](/img/job-portal-eng-4.jpg)
 5. You can also find available job openings by filtering based on several categories : 
 
    \- By Job Area
 
-   ![]()
+   ![](/img/job-portal-eng-5.jpg)
 
    \- By Country
 
-   ![]()
+   ![](/img/job-portal-eng-6.jpg)
 
    \- By Experience 
 
-   ![]()
+   ![](/img/job-portal-eng-7.jpg)
 
    \- By Job Type
 
-   ![]()
+   ![](/img/job-portal-eng-8.jpg)
 
    \- By Workplace Location
 
-   ![]()
+   ![](/img/job-portal-eng-9.jpg)
 6. If you want to remove selected filters, click the Clear Filters button
 
-   ![]()
+   ![](/img/job-portal-eng-10.jpg)
 
 
 
