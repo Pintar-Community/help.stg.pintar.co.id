@@ -7,21 +7,41 @@ sidebar_position: 3
 #### **Cara memilih posisi yang tersedia :**
 
 1. Pada dashboard, klik button “Untuk Pencari Kerja”
+
+   ![]()
 2. Pilih laman jelajahi pekerjaan
+
+   ![]()
 3. Anda dapat melihat bidang pekerjaan yang dibuka dengan jumlah posisi terbanyak
+
+   ![]()
 4. Anda dapat mencari pekerjaan impian Anda pada kolom search
+
+   ![]()
 5. Anda juga dapat mencari lowongan yang dibuka dengan cara memfilter berdasarkan beberapa kategori : 
 
    \- Berdasarkan Bidang Pekerjaan
 
+   ![]()
+
    \- Berdasarkan Negara
+
+   ![]()
 
    \- Berdasarkan Pengalaman
 
+   ![]()
+
    \- Berdasarkan Jenis Pekerjaan
 
+   ![]()
+
    \- Berdasarkan Tempat Kerja
+
+   ![]()
 6. Apabila Anda ingin mengahapus filter yang sudah dipilih, Anda dapat klik button Hapus Filter
+
+   ![]()
 
 
 

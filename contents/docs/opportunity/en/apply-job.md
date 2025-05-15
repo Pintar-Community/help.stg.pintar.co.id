@@ -7,21 +7,41 @@ sidebar_position: 3
 #### **How to Select Available Positions :**
 
 1. On the dashboard, click the "For Job Seekers" button
+
+   ![]()
 2. Select the Explore Jobs page
+
+   ![]()
 3. You can view job fields with the highest number of open positions
+
+   ![]()
 4. You can search for your dream job using the search bar
+
+   ![]()
 5. You can also find available job openings by filtering based on several categories : 
 
    \- By Job Area
 
+   ![]()
+
    \- By Country
+
+   ![]()
 
    \- By Experience 
 
+   ![]()
+
    \- By Job Type
 
+   ![]()
+
    \- By Workplace Location
+
+   ![]()
 6. If you want to remove selected filters, click the Clear Filters button
+
+   ![]()
 
 
 
