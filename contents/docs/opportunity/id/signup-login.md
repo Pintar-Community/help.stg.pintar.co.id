@@ -39,6 +39,8 @@ sidebar_position: 1
   ![](/img/login-eng-opportunity-9.jpg)
 * Klik Continue
 
+
+
 #### **2. Login dengan cara Daftar baru**
 
 * Klik Daftar

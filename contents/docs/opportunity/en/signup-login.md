@@ -39,6 +39,8 @@ sidebar_position: 1
   ![](/img/login-eng-opportunity-9.jpg)
 * Click Continue
 
+
+
 #### 2. **Login by Creating a New Account**
 
 * Click Sign Up
