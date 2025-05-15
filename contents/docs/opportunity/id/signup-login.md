@@ -8,7 +8,7 @@ sidebar_position: 1
 2. Anda dapat memilih bahasa yang digunakan pada platform dengan cara klik button seperti di gambar
 
    ![](/img/login-1.jpg)
-3. Klik button Masuk pada pojok kanan atas untuk login
+3. Klik button Masuk pada pojok kanan atas untuk Login
 
    ![](/img/login-2.jpg)
 4. Apabila Anda sudah memiliki akun, Anda dapat langsung login menggunakan email dan password yang Anda miliki
@@ -18,6 +18,8 @@ sidebar_position: 1
 
    ![](/img/login-4.jpg)
 6. Dan apabila Anda belum memiliki akun, Anda dapat memilih untuk login menggunakan Google atau klik Daftar
+
+
 
 #### **1. Login menggunakan Google**
 

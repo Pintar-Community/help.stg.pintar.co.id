@@ -8,7 +8,7 @@ sidebar_position: 1
 2. You can choose your preferred language on the platform by clicking the button shown in the image
 
    ![](/img/login-eng-opportunity-1.jpg)
-3. Click the Login button at the top right corner to sign in
+3. Click the Login button at the top right corner to Sign In
 
    ![](/img/login-eng-opportunity-2.jpg)
 4. If you already have an account, you can log in directly using your registered email and password
@@ -17,7 +17,7 @@ sidebar_position: 1
 5. Enter your email and password, then click the Login button
 
    ![](/img/login-eng-opportunity-4.jpg)
-6. If you don’t have an account yet, you can either log in using Google or click Register to sign up
+6. If you don’t have an account yet, you can either log in using Google or click Register to Sign up
 
 
 
@@ -38,8 +38,6 @@ sidebar_position: 1
 
   ![](/img/login-eng-opportunity-9.jpg)
 * Click Continue
-
-
 
 #### 2. **Login by Creating a New Account**
 
