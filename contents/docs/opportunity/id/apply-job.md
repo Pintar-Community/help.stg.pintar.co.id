@@ -2,11 +2,9 @@
 title: Apply Job
 sidebar_position: 3
 ---
-**Apply Job**
+### **Jelajahi Pekerjaan**
 
-**Jelajahi Pekerjaan**
-
-**Cara memilih posisi yang tersedia**
+#### **Cara memilih posisi yang tersedia :**
 
 1. Pada dashboard, klik button “Untuk Pencari Kerja”
 2. Pilih laman jelajahi pekerjaan
@@ -27,8 +25,7 @@ sidebar_position: 3
 
 
 
-
-**Cara Melamar Posisi yang tersedia :** 
+#### **Cara Melamar Posisi yang tersedia :** 
 
 1. Klik posisi yang Anda inginkan
 2. Kemudian akan muncul tampilan seperti gambar
@@ -58,6 +55,6 @@ sidebar_position: 3
 
 
 
-**Pekerjaan yang Dilamar**
+### **Pekerjaan yang Dilamar**
 
 Pada menu ini, akan berisi posisi yang sudah Anda lamar sebelumnya
